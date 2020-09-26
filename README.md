@@ -39,7 +39,7 @@
 
 18. Middel headed:-  confused.
 
-19. Lit up:- became bright with happiness.
+19. Lit up:-  became bright with happiness.
 
 20. Suffused with:-  spred all over her face.
 
@@ -52,4 +52,26 @@
 
 24. Relief helicoptors:-  helicoptors bringing help to people.
 
-25. reced:-  move back from where it was.
+25. Reced:-  move back from where it was.
+
+### 25-Sep-20
+26. Traumatised:-  greatly shocked and distressed.
+
+27. Resort:-  a place where people go on holidays.
+
+28. Triggered:-  caused.
+
+29. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+
+30. Refuge:-  Shelter or protection from danger.
+
+###26-Sep-20
+31. Withstood:-  endured without collapsing.
+
+32. Sure:-  momentum.
+
+33. Def:-  disobey or resist openly.
+
+34. Scotland:-  the headquaters of the London police force.
+
+35. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
