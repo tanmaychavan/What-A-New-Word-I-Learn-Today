@@ -75,3 +75,14 @@
 34. Scotland:-  the headquaters of the London police force.
 
 35. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+###27-Sep-20
+36. Levitation:-  floating in the air without any support.
+
+37. Fiend:-  devil.
+
+38. Feline:-  or relating to.
+
+39. Depravity:-  moral corruption.
+
+40. Idle chat:-  unnecessary routine conservasition.
