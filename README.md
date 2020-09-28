@@ -86,3 +86,14 @@
 39. Depravity:-  moral corruption.
 
 40. Idle chat:-  unnecessary routine conservasition.
+
+###28-Sep-20
+41. Meek:-  quite
+
+42. Utter Disbelief:-  complete surprise.
+
+43. Head reeled:-  He was shoked and confused.
+
+44. Losing his mind:-  becoming mad.
+
+45. Intimate:-  very personal and private.
