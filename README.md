@@ -65,7 +65,7 @@
 
 30. Refuge:-  Shelter or protection from danger.
 
-###26-Sep-20
+### 26-Sep-20
 31. Withstood:-  endured without collapsing.
 
 32. Sure:-  momentum.
@@ -76,7 +76,7 @@
 
 35. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
 
-###27-Sep-20
+### 27-Sep-20
 36. Levitation:-  floating in the air without any support.
 
 37. Fiend:-  devil.
@@ -87,7 +87,7 @@
 
 40. Idle chat:-  unnecessary routine conservasition.
 
-###28-Sep-20
+### 28-Sep-20
 41. Meek:-  quite
 
 42. Utter Disbelief:-  complete surprise.
@@ -97,3 +97,14 @@
 44. Losing his mind:-  becoming mad.
 
 45. Intimate:-  very personal and private.
+
+### 29-Sep-20
+46. Bracing:-  stimulating.
+
+47. Going nuts:-  going mad.
+
+48. Geting into people's hair:-  interfering.
+
+49. Sleuthing:-  investing.
+
+50. Carry on:-  continue.
