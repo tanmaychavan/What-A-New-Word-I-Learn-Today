@@ -108,3 +108,14 @@
 49. Sleuthing:-  investing.
 
 50. Carry on:-  continue.
+
+### 30-Sep-20
+51. Conscientious:  careful and correct.
+
+52. Head was in whirl:-  confused and anable to think clearly.
+
+53. Gather his wits together:-  make an effort to become calm and think clearly.
+
+54. Having a rough time:-  having a lot of problems.
+
+55. Turning up like a bad penny:-  appearing at a place where one is not welcome.
