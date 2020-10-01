@@ -119,3 +119,14 @@
 54. Having a rough time:-  having a lot of problems.
 
 55. Turning up like a bad penny:-  appearing at a place where one is not welcome.
+
+### 31-Sep-20
+56. Didn't beat about the bush:-  came straight to the point.
+
+57. Off and on:-  now and then.
+
+58. Throw your mind back:-  Think your mind back.
+
+59. Must see about consulting:-  may have to consult.
+
+60. Tranquilliser:-  a medicen to reduce stress and anxient.
