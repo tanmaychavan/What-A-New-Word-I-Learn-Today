@@ -120,7 +120,7 @@
 
 55. Turning up like a bad penny:-  appearing at a place where one is not welcome.
 
-### 31-Sep-20
+### 1-Oct-20
 56. Didn't beat about the bush:-  came straight to the point.
 
 57. Off and on:-  now and then.
