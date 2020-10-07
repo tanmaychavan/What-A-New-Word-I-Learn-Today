@@ -134,6 +134,8 @@
 ### 2-Oct-20
 61. 
 ### 3-Oct-20
-62.
-545454
-63.  ddjhyugu
+62. Surgad: arose suddenly and intensly
+63. Ponarama:  view of wide area
+64. jobilan: very happy because of success.
+65. tingle: trace/shade.
+66. exhaustion:  fatigue; tiredness.
