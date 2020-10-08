@@ -139,3 +139,4 @@
 64. jobilan: very happy because of success.
 65. tingle: trace/shade.
 66. exhaustion:  fatigue; tiredness.
+66. ...yu
