@@ -140,3 +140,4 @@
 65. tingle: trace/shade.
 66. exhaustion:  fatigue; tiredness.
 66. ...yu
+67.       
