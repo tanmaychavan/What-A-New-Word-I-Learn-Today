@@ -186,7 +186,7 @@
 
 85. Kept your head:-  stead clam in a difficult situation.
 
-### 6-Oct-20
+### 7-Oct-20
 86. Hemmed in:-  (here) caught in a situation where one can't say 'on'.
 
 87. Acorns:-  small brown nuts.
@@ -197,7 +197,7 @@
 
 90. Makes a bearing:-  acts as a compass and helps to identify directions.
 
-### 7-Oct-20
+### 8-Oct-20
 91. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
 
 92. Adjacent:-  nearby.
@@ -210,7 +210,7 @@
 
 95. Colvulsion:-  shiver.
 
-### 8-Oct-20
+### 9-Oct-20
 96. A china deer:-  a clay deer that is easily broken.
 
 97. Sleek:-  smooth and shiny.
@@ -221,7 +221,7 @@
 
 100. Alarm:-  frighten.
 
-### 9-Oct-20
+### 10-Oct-20
 101. Balked:-  (also baulked) was unwilling (to do something).
 
 102. Worsted sockes:-  woolen socks.
@@ -232,7 +232,7 @@
 
 105. Torso:-  upper of the body.
 
-### 10-Oct-20
+### 11-Oct-20
 106. Incandescence:-  inner gloe or light.
 
 107. Accesory:-  not essential but extra, though decorative.
@@ -243,13 +243,3 @@
 
 110. Claustrophobic:-  very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
 
-### 11-Oct-20
-111. Gleefully:-  very happeily.
-
-112. Rime:-  frost.
-
-113. The spray:- lives a branches of trees: foliage
-
-114. Sojourn:-  stay.
-
-115. Radiance:-  glow
