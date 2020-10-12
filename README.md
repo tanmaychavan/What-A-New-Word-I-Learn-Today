@@ -243,3 +243,13 @@
 
 110. Claustrophobic:-  very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
 
+### 12-Oct-20
+111. Geefully:-  Very happy.
+
+112. Lyonnesse:-  (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
+
+113. Rime:-  frost.
+
+114. The spray:-  leaves and branches of trees; foliage.
+
+115. Durst:-  (poetic word for) dared.
