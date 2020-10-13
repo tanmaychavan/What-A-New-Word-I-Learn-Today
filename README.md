@@ -253,3 +253,14 @@
 114. The spray:-  leaves and branches of trees; foliage.
 
 115. Durst:-  (poetic word for) dared.
+
+### 13-Oct-20
+116. Bechance:-  happen/chance to happen.
+
+117. Sojourn:-  stay.
+
+118. Radiance:-  glow.
+
+119. Fathomless:-  So deep that depth can't be measured.
+
+120. Melancholy:-  very sad (the mist is called melancholy because it makes people feel melancholy).
