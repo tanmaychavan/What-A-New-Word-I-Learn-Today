@@ -265,6 +265,7 @@
 
 120. Melancholy:-  very sad (the mist is called melancholy because it makes people feel melancholy).
 
+### 14-Oct-20
 121. Blankets:-  covers.
 
 122. Fern:-  a flower less plant with festhery green leaves.
@@ -274,3 +275,14 @@
 124. Imprecations:-  curses.
 
 125. Bloodletting:-  losing blood (Decades ago, leeches where used to remove blood from a patient's body)
+
+### 15-Oct-20
+126. Scarlet minivet:-  brightf red bird like a cuckoo.
+
+127. Drongo:-  a song-bird with a stout bill.
+
+128. Drumming:-  falling noisily.
+
+129. Disconsolately:-  unhappily.
+
+130. ravine:-  valley.
