@@ -286,3 +286,14 @@
 129. Disconsolately:-  unhappily.
 
 130. ravine:-  valley.
+
+### 16-Oct-20
+131. Crevices:-  narrow openings or cracks in rock or wall.
+
+132. Shrew:-  (find its hindi equivalent in the next sentance).
+
+133. Caress:-  touching or holding lovingly 
+
+134. menace:-  threaten. 
+
+135. Perpendicular:-  (cliff or rock-face) rising very steeply.
