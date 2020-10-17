@@ -297,3 +297,14 @@
 134. menace:-  threaten. 
 
 135. Perpendicular:-  (cliff or rock-face) rising very steeply.
+
+### 17-Oct-20
+136. Immense:-  huge
+
+137. Enormous:-  very big.
+
+138. Gigantic:-  immense.
+
+139. Clustering:-  gathering.
+
+140. Being:-  kind, gentle.
