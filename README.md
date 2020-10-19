@@ -319,3 +319,14 @@
 144. Inhabinants:-  people living in the valley; dwellers.
 
 145. Labour:-  work.
+
+### 19-Oct-20
+141. Prophecy:-  ststement that tells what will happen in the future.
+
+142. Pensive:- thoughtful.
+
+143. Stirred:-  move.
+
+144. Inhabinants:-  people living in the valley; dwellers.
+
+145. Labour:-  work.
