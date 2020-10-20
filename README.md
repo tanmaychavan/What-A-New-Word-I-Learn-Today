@@ -330,3 +330,6 @@
 144. Inhabinants:-  people living in the valley; dwellers.
 
 145. Labour:-  work.
+
+### 20-Oct-20
+146. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
