@@ -333,3 +333,11 @@
 
 ### 20-Oct-20
 146. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+147.  ponorama:-  view of a wide area.
+
+148. 
+
+149. 
+
+150. 
