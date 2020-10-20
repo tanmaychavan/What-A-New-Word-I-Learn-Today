@@ -338,6 +338,6 @@
 
 148.  Restore:-   repair.
 
-149. 
+149.  Withstood:-  endured without collapsing.
 
 150. 
