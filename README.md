@@ -340,4 +340,4 @@
 
 149.  Withstood:-  endured without collapsing.
 
-150. 
+150.  Triggered:-  caused.
