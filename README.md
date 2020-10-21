@@ -348,3 +348,5 @@
 152. I'll hump him:-  I'll deal with him appropriately./I'll set him right.
 
 153. Remonstrated:-  protested/complainede
+
+154. pulled in:-  arrived.
