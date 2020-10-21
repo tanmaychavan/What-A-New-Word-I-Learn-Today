@@ -341,3 +341,6 @@
 149.  Withstood:-  endured without collapsing.
 
 150.  Triggered:-  caused.
+
+### 21-Oct-20
+151. Djinn:-  (pornounced 'jin' and variously spelt as 'genie', 'genii', 'jinnee', 'djinni', 'djinny'): a spirit that has strange powers assume any form , human or animal.
