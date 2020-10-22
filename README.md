@@ -357,3 +357,5 @@
 156. Grimace:-  twistead expression (on the face) due to pain.
 
 157. Glumy:-  sadly/gloomily.
+
+158. Making his head spin:-  givinh him a headache/making him feel dizzy.
