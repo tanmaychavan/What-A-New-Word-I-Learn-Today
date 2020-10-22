@@ -360,4 +360,6 @@
 
 158. Making his head spin:-  givinh him a headache/making him feel dizzy.
 
-159. chutney:-  (here) run over/killed; crushed and ground into chutney.
+159. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+160. Paniked:-  wasd very worriedd.
