@@ -374,3 +374,25 @@
 164. Venner:-  A thin layer of plastic or decorative.
 
 165. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
+
+### 24-Oct-20
+166. Ordeals:-  Painful experiences.
+
+167. Sleek:-  smooth and shiny.
+
+168. Didn't beat about the bush:-  came straight to the point.
+
+169. Blankets:-  covers.
+
+170. Inhabinants:-  people living in the valley; dwellers.
+
+### 25-Oct-20
+171. Incandescence:-  inner gloe or light.
+
+172. Enormous:-  very big
+
+173. Stirred:-  move.
+
+174. Clustering:-  gathering.
+
+175. Fathomless:-  So deep that depth can't be measured.
