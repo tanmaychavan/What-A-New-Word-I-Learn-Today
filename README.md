@@ -396,3 +396,58 @@
 174. Clustering:-  gathering.
 
 175. Fathomless:-  So deep that depth can't be measured.
+
+### 26-Oct-20
+176. Incandescence:-  inner gloe or light.
+
+177. Enormous:-  very big
+
+178. Stirred:-  move.
+
+179. Clustering:-  gathering.
+
+180. Fathomless:-  So deep that depth can't be measured.
+
+### 27-Oct-20
+181. Incandescence:-  inner gloe or light.
+
+182. Enormous:-  very big
+
+183. Stirred:-  move.
+
+184. Clustering:-  gathering.
+
+185. Fathomless:-  So deep that depth can't be measured.
+
+### 28-Oct-20
+186. Grimace:-  twistead expression (on the face) due to pain.
+
+187. Glumy:-  sadly/gloomily.
+
+188. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+189. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+190 . Paniked:-  wasd very worriedd.
+
+### 29-Oct-20
+191. Spotted it:-  found.
+
+192. Scorch marks:-  burn marks.
+
+193. Woing for:-  was selling for.
+
+194. Restore:-   repair.
+
+195. Venner:-  A thin layer of plastic or decorative.
+
+### 30-Oct-20
+196. A china deer:-  a clay deer that is easily broken.
+
+197. Sleek:-  smooth and shiny.
+
+198. light-headed:-  unabel to think clearly.
+
+199. Romp:-  play.
+
+200. Alarm:-  frighten.
