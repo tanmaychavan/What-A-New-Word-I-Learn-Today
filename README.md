@@ -451,5 +451,47 @@
 199. Romp:-  play.
 
 200. Alarm:-  frighten.
-.                                                
-                                                                                                                                                                                                                                                                         
+
+### 31-Oct-20
+201. Spotted it:-  found.
+
+202. Scorch marks:-  burn marks.
+
+203. Woing for:-  was selling for.
+
+204. Restore:-   repair.
+
+205. Venner:-  A thin layer of plastic or decorative.
+
+### 1-Nov-20
+206. Taken their toll on:-  damaged.
+
+207. Stuck fast:-  shut tight.
+
+208. Scruples:  feelings that makes you hesitate to do something wrong.
+
+209. Standing to:-  taking up positions.
+
+210. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 2-Nov-20
+211. Fritz:-  a name for a german soldiers.
+
+212. That would be that:-  that was the end of the matter.
+
+213. Cello:-  a muisical instrunment like large violin.
+
+214. Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
+215. Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
+
+### 3-Nov-20
+216. Burned out:-  destroy by fire.
+
+217. Boarded up:-  covered with wodden boards.
+
+218. Middel headed:-  confused.
+
+219. Lit up:-  became bright with happiness.
+
+220. Suffused with:-  spred all over her face.
