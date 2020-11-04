@@ -495,3 +495,14 @@
 219. Lit up:-  became bright with happiness.
 
 220. Suffused with:-  spred all over her face.
+
+### 4-Nov-20
+221. Archipelago:-  a group of many islands and the surrounding area.
+
+222. Tremor:-  the earth's shakes during an earthquick.
+
+223. Chaos:-  complete disorder or confusion.
+
+224. Relief helicoptors:-  helicoptors bringing help to people.
+
+225. Reced:-  move back from where it was.
