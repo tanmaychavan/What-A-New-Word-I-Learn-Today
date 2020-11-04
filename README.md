@@ -506,3 +506,14 @@
 224. Relief helicoptors:-  helicoptors bringing help to people.
 
 225. Reced:-  move back from where it was.
+
+### 5-Nov-20
+226. Scarlet minivet:-  brightf red bird like a cuckoo.
+
+227. Drongo:-  a song-bird with a stout bill.
+
+228. Drumming:-  falling noisily.
+
+229. Disconsolately:-  unhappily.
+
+230. ravine:-  valley.
