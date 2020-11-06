@@ -526,3 +526,5 @@
 233. Caress:-  touching or holding lovingly 
 
 234. menace:-  threaten. 
+
+235. Perpendicular:-  (cliff or rock-face) rising very steeply.
