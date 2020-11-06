@@ -522,3 +522,5 @@
 231. Crevices:-  narrow openings or cracks in rock or wall.
 
 232. Shrew:-  (find its hindi equivalent in the next sentance).
+
+233. Caress:-  touching or holding lovingly 
