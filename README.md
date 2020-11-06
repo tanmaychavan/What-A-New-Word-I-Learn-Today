@@ -524,3 +524,5 @@
 232. Shrew:-  (find its hindi equivalent in the next sentance).
 
 233. Caress:-  touching or holding lovingly 
+
+234. menace:-  threaten. 
