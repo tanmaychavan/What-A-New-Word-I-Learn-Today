@@ -520,3 +520,5 @@
 
 ### 6-Nov-20
 231. Crevices:-  narrow openings or cracks in rock or wall.
+
+232. Shrew:-  (find its hindi equivalent in the next sentance).
