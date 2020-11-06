@@ -517,3 +517,6 @@
 229. Disconsolately:-  unhappily.
 
 230. ravine:-  valley.
+
+### 6-Nov-20
+231. Crevices:-  narrow openings or cracks in rock or wall.
