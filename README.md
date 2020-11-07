@@ -528,3 +528,14 @@
 234. menace:-  threaten. 
 
 235. Perpendicular:-  (cliff or rock-face) rising very steeply.
+
+### 7-Nov-20
+236. Immense:-  huge
+
+237. Enormous:-  very big.
+
+238. Gigantic:-  immense.
+
+239. Clustering:-  gathering.
+
+240. Being:-  kind, gentle.
