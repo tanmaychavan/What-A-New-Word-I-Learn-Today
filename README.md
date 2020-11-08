@@ -547,6 +547,6 @@
 
 243. Stirred:-  move.
 
-244. Inhabinants:-  people living in the valley; dwellers.
+244. Innhabinants:-  people living in the valley; dwellers.
 
 245. Labour:-  work.
