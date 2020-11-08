@@ -539,3 +539,7 @@
 239. Clustering:-  gathering.
 
 240. Being:-  kind, gentle.
+
+### 8-Nov-20
+241. Prophecy:-  ststement that tells what will happen in the future.
+
