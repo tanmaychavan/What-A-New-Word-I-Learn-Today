@@ -543,3 +543,5 @@
 ### 8-Nov-20
 241. Prophecy:-  ststement that tells what will happen in the future.
 
+142. Pensive:- thoughtful.
+
