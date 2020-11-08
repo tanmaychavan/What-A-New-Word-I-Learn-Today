@@ -545,3 +545,5 @@
 
 142. Pensive:- thoughtful.
 
+143. Stirred:-  move.
+
