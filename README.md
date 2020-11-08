@@ -543,7 +543,10 @@
 ### 8-Nov-20
 241. Prophecy:-  ststement that tells what will happen in the future.
 
-142. Pensive:- thoughtful.
+242. Pensive:- thoughtful.
 
-143. Stirred:-  move.
+243. Stirred:-  move.
 
+244. Inhabinants:-  people living in the valley; dwellers.
+
+245. Labour:-  work.
