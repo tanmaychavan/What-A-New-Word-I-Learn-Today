@@ -550,3 +550,6 @@
 244. Innhabinants:-  people living in the valley; dwellers.
 
 245. Labour:-  work.
+
+### 9-Nov-20
+246. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
