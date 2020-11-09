@@ -553,3 +553,6 @@
 
 ### 9-Nov-20
 246. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+247.  ponorama:-  view of a wide area.
+
