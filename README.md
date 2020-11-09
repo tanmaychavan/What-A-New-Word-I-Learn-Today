@@ -556,3 +556,5 @@
 
 247.  ponorama:-  view of a wide area.
 
+248.  Restore:-   repair.
+
