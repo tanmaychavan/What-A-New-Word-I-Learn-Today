@@ -558,3 +558,5 @@
 
 248.  Restore:-   repair.
 
+249.  Withstood:-  endured without collapsing.
+
