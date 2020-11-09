@@ -560,3 +560,4 @@
 
 249.  Withstood:-  endured without collapsing.
 
+250.  Triggered:-  caused.
