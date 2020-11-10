@@ -567,3 +567,5 @@
 
 252. I'll hump him:-  I'll deal with him appropriately./I'll set him right.
 
+253. Remonstrated:-  protested/complainede
+
