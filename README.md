@@ -565,3 +565,5 @@
 ### 10-Nov-20
 251. Djinn:-  (pornounced 'jin' and variously spelt as 'genie', 'genii', 'jinnee', 'djinni', 'djinny'): a spirit that has strange powers assume any form , human or animal.
 
+252. I'll hump him:-  I'll deal with him appropriately./I'll set him right.
+
