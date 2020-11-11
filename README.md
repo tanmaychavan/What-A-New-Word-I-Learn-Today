@@ -578,3 +578,5 @@
 
 257. Glumy:-  sadly/gloomily.
 
+258. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
