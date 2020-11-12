@@ -593,3 +593,4 @@
 
 264. Surged:-  arose suddenly and intensely.
 
+265. ponorama:-  view of a wide area.
