@@ -589,5 +589,7 @@
 
 262. Came round:-  regained conciousness.
 
-363. In retribution of:-  as a punishment.
+263. In retribution of:-  as a punishment.
+
+264. Surged:-  arose suddenly and intensely.
 
