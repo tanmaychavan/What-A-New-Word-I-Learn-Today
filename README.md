@@ -583,3 +583,8 @@
 259. Chutney:-  (here) run over/killed; crushed and ground into chutney.
 
 260. Paniked:-  wasd very worriedd.
+
+### 12-Nov-20
+261. Procured:-  got (with a littel difficulty)
+
+
