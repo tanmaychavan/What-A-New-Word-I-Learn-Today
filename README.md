@@ -594,3 +594,7 @@
 264. Surged:-  arose suddenly and intensely.
 
 265. ponorama:-  view of a wide area.
+
+### 13-Nov-20
+266. Ordeals:-  Painful experiences.
+
