@@ -604,3 +604,4 @@
 
 269. Blankets:-  covers.
 
+270. Inhabinants:-  people living in the valley; dwellers.
