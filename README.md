@@ -602,3 +602,5 @@
 
 268. Didn't beat about the bush:-  came straight to the point.
 
+269. Blankets:-  covers.
+
