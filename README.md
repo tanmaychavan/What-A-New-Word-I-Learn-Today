@@ -598,3 +598,5 @@
 ### 13-Nov-20
 266. Ordeals:-  Painful experiences.
 
+267. Sleek:-  smooth and shiny.
+
