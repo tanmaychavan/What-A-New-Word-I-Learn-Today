@@ -609,3 +609,5 @@
 ### 14-Nov-20
 271. Incandescence:-  inner gloe or light.
 
+272. Enormous:-  very big
+
