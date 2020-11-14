@@ -605,3 +605,7 @@
 269. Blankets:-  covers.
 
 270. Inhabinants:-  people living in the valley; dwellers.
+
+### 14-Nov-20
+271. Incandescence:-  inner gloe or light.
+
