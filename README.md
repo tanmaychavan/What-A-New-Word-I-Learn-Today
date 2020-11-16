@@ -627,3 +627,7 @@
 279. Clustering:-  gathering.
 
 280. Fathomless:-  So deep that depth can't be measured.
+
+### 16-Nov-20
+281. Incandescence:-  inner gloe or light.
+
