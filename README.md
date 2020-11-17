@@ -646,3 +646,5 @@
 
 288. Making his head spin:-  givinh him a headache/making him feel dizzy.
 
+289. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
