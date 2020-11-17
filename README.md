@@ -642,3 +642,5 @@
 ### 17-Nov-20
 286. Grimace:-  twistead expression (on the face) due to pain.
 
+287. Glumy:-  sadly/gloomily.
+
