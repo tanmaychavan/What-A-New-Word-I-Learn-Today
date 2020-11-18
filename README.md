@@ -653,3 +653,5 @@
 ### 18-Nov-20
 291. Spotted it:-  found.
 
+292. Scorch marks:-  burn marks.
+
