@@ -659,3 +659,4 @@
 
 294. Restore:-   repair.
 
+295. Venner:-  A thin layer of plastic or decorative.
