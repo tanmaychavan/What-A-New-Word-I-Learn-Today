@@ -660,3 +660,7 @@
 294. Restore:-   repair.
 
 295. Venner:-  A thin layer of plastic or decorative.
+
+### 19-Nov-20
+296. A china deer:-  a clay deer that is easily broken.
+
