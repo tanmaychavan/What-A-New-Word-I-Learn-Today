@@ -664,3 +664,5 @@
 ### 19-Nov-20
 296. A china deer:-  a clay deer that is easily broken.
 
+297. Sleek:-  smooth and shiny.
+
