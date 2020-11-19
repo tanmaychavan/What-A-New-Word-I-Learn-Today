@@ -666,3 +666,5 @@
 
 297. Sleek:-  smooth and shiny.
 
+298. light-headed:-  unabel to think clearly.
+
