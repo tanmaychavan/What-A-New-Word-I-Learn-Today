@@ -670,3 +670,4 @@
 
 299. Romp:-  play.
 
+300. Alarm:-  frighten.
