@@ -673,7 +673,9 @@
 300. Alarm:-  frighten.
 
 ### 20-Nov-20
-101. Spotted it:-  found.
+301. Spotted it:-  found.
 
-202. Scorch marks:-  burn marks.
+302. Scorch marks:-  burn marks.
+
+303. Woing for:-  was selling for.
 
