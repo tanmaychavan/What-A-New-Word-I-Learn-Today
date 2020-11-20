@@ -681,3 +681,4 @@
 
 304. Restore:-   repair.
 
+305. Venner:-  A thin layer of plastic or decorative.
