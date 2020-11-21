@@ -682,3 +682,11 @@
 304. Restore:-   repair.
 
 305. Venner:-  A thin layer of plastic or decorative.
+
+### 21-Nov-20
+302. Siam:-  now thailand
+
+303. Handy:-  immediatly available
+
+304. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
+
