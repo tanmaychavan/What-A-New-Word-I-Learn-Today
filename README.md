@@ -691,4 +691,4 @@
 304. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
 
 304. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
-                                                                      
+                                                                                                                          
