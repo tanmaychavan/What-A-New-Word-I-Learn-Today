@@ -684,12 +684,144 @@
 305. Venner:-  A thin layer of plastic or decorative.
 
 ### 21-Nov-20
-302. Siam:-  now thailand
+306. Siam:-  now thailand
 
-303. Handy:-  immediatly available
+307. Handy:-  immediatly available
 
-304. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
+308. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
 
-304. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
-                                                                                                                          
- v                                    
+309. Oriental:-  of the east (the orient means countries of the far east . its opposite is the occident.o);
+
+310. Spotted it:-  found.
+
+ ### 22-Nov-20
+311. Scorch marks:-  burn marks.
+
+312. Woing for:-  was selling for.
+
+313. Restore:-   repair.
+
+314. Venner:-  A thin layer of plastic or decorative.
+
+315. Clustering:-  gathering.
+
+### 23-Nov-20
+316. Spotted it:-  found.
+
+317. Scorch marks:-  burn marks.
+
+318. Woing for:-  was selling for.
+
+319. Restore:-   repair.
+
+320. Venner:-  A thin layer of plastic or decorative.
+
+### 24-Nov-20
+321. Grimace:-  twistead expression (on the face) due to pain.
+
+322. Glumy:-  sadly/gloomily.
+
+323. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+324. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+325 . Paniked:-  wasd very worriedd.
+
+### 25-Nov-20
+326. Immense:-  huge
+
+3237. Enormous:-  very big.
+
+328. Gigantic:-  immense.
+
+329. Clustering:-  gathering.
+
+330. Being:-  kind, gentle.
+
+### 26-Nov-20
+331. Incandescence:-  inner gloe or light.
+
+332. Enormous:-  very big
+
+333. Stirred:-  move.
+
+334. Clustering:-  gathering.
+
+335. Fathomless:-  So deep that depth can't be measured.
+
+### 27-Nov-20
+336. Djinn:-  (pornounced 'jin' and variously spelt as 'genie', 'genii', 'jinnee', 'djinni', 'djinny'): a spirit that has strange powers assume any form , human or animal.
+
+337. I'll hump him:-  I'll deal with him appropriately./I'll set him right.
+
+338. Remonstrated:-  protested/complainede
+
+339. pulled in:-  arrived.
+
+340. wobbiy:-  unstady
+
+### 28-Nov-20
+341. Fritz:-  a name for a german soldiers.
+
+342. That would be that:-  that was the end of the matter.
+
+343. Cello:-  a muisical instrunment like large violin.
+
+344. Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
+345. Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
+
+### 29-Nov-20
+346. Scarlet minivet:-  brightf red bird like a cuckoo.
+
+347. Drongo:-  a song-bird with a stout bill.
+
+348. Drumming:-  falling noisily.
+
+349. Disconsolately:-  unhappily.
+
+350. ravine:-  valley.
+
+### 30-Nov-20
+351. Archipelago:-  a group of many islands and the surrounding area.
+
+352. Tremor:-  the earth's shakes during an earthquick.
+
+353. Chaos:-  complete disorder or confusion.
+
+354. Relief helicoptors:-  helicoptors bringing help to people.
+
+355. Reced:-  move back from where it was.
+
+### 1-DEC-20
+356. Immense:-  huge
+
+357. Enormous:-  very big.
+
+358. Gigantic:-  immense.
+
+359. Clustering:-  gathering.
+
+360. Being:-  kind, gentle.
+
+### 2-DEC-20
+361. Grimace:-  twistead expression (on the face) due to pain.
+
+362. Glumy:-  sadly/gloomily.
+
+363. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+364. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+365 . Paniked:-  wasd very worriedd.
+
+### 3-DEC-20
+366. Balked:-  (also baulked) was unwilling (to do something).
+
+367. Worsted sockes:-  woolen socks.
+
+368. Astrophysicist:-  scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+
+369. Buoyant:-  intensely active and vibrant.
+
+370. Torso:-  upper of the body.
