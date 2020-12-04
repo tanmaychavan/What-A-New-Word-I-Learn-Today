@@ -825,3 +825,14 @@
 369. Buoyant:-  intensely active and vibrant.
 
 370. Torso:-  upper of the body.
+
+### 4-DEC-20
+291. Spotted it:-  found.
+
+292. Scorch marks:-  burn marks.
+
+293. Woing for:-  was selling for.
+
+294. Restore:-   repair.
+
+295. Venner:-  A thin layer of plastic or decorative.
