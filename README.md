@@ -836,3 +836,14 @@
 294. Restore:-   repair.
 
 295. Venner:-  A thin layer of plastic or decorative.
+
+### 6-DEC-20
+296. suggest masculine habitation: suggest that the room belonged to a man
+
+297. moor: grassland
+
+298. trecherous: dangerous (through it seems safe)
+
+299. bog: wet, spongy ground (one may sink into it)
+
+300. falteringly: a 'faltering' voice is shaky, hesitant; haltingly
