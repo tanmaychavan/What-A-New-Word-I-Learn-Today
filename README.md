@@ -847,3 +847,14 @@
 299. bog: wet, spongy ground (one may sink into it)
 
 300. falteringly: a 'faltering' voice is shaky, hesitant; haltingly
+
+### 7-DEC-20
+171. Incandescence:-  inner gloe or light.
+
+172. Enormous:-  very big
+
+173. Stirred:-  move.
+
+174. Clustering:-  gathering.
+
+175. Fathomless:-  So deep that depth can't be measured.
