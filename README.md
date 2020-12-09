@@ -858,3 +858,14 @@
 174. Clustering:-  gathering.
 
 175. Fathomless:-  So deep that depth can't be measured.
+
+### 8-DEC-20
+6. Taken their toll on:-  damaged.
+
+7. Stuck fast:-  shut tight.
+
+8. Scruples:  feelings that makes you hesitate to do something wrong.
+
+9. Standing to:-  taking up positions.
+
+10. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
