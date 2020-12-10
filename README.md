@@ -869,3 +869,14 @@
 179. Standing to:-  taking up positions.
 
 180. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+
+16. Burned out:-  destroy by fire.
+
+17. Boarded up:-  covered with wodden boards.
+
+18. Middel headed:-  confused.
+
+19. Lit up:-  became bright with happiness.
+
+20. Suffused with:-  spred all over her face.
