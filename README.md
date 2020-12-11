@@ -880,3 +880,14 @@
 19. Lit up:-  became bright with happiness.
 
 20. Suffused with:-  spred all over her face.
+
+
+6. Taken their toll on:-  damaged.
+
+7. Stuck fast:-  shut tight.
+
+8. Scruples:  feelings that makes you hesitate to do something wrong.
+
+9. Standing to:-  taking up positions.
+
+10. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
