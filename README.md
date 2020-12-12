@@ -891,3 +891,13 @@
 9. Standing to:-  taking up positions.
 
 10. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+41. Meek:-  quite
+
+42. Utter Disbelief:-  complete surprise.
+
+43. Head reeled:-  He was shoked and confused.
+
+44. Losing his mind:-  becoming mad.
+
+45. Intimate:-  very personal and private.
