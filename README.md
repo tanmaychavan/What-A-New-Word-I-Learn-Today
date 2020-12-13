@@ -931,3 +931,5 @@
 418. Eccentric:-  Unusual/unlike the orbitsof other planets.
 
 419. Optimistic:-  hopeful; excepting the best
+
+420. Smudges:-  spots/marks
