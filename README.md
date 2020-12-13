@@ -925,3 +925,6 @@
 
 ### 13-DEC-20
 416. Oblivious:-  forgetful.
+
+417. Astronomer:-   schlor of the science of the sun, moon, stars, planets, etc.
+
