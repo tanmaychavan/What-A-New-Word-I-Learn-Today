@@ -928,3 +928,4 @@
 
 417. Astronomer:-   schlor of the science of the sun, moon, stars, planets, etc.
 
+418. Eccentric:-  Unusual/unlike the orbitsof other planets.
