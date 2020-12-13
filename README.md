@@ -827,77 +827,101 @@
 370. Torso:-  upper of the body.
 
 ### 4-DEC-20
-291. Spotted it:-  found.
+371. Spotted it:-  found.
 
-292. Scorch marks:-  burn marks.
+372. Scorch marks:-  burn marks.
 
-293. Woing for:-  was selling for.
+373. Woing for:-  was selling for.
 
-294. Restore:-   repair.
+374. Restore:-   repair.
 
-295. Venner:-  A thin layer of plastic or decorative.
+375. Venner:-  A thin layer of plastic or decorative.
+
+### 5-DEC-20
+376. suggest masculine habitation: suggest that the room belonged to a man
+
+377. moor: grassland
+
+378. trecherous: dangerous (through it seems safe)
+
+379. bog: wet, spongy ground (one may sink into it)
+
+380. falteringly: a 'faltering' voice is shaky, hesitant; haltingly
 
 ### 6-DEC-20
-296. suggest masculine habitation: suggest that the room belonged to a man
+381. Incandescence:-  inner gloe or light.
 
-297. moor: grassland
+382. Enormous:-  very big
 
-298. trecherous: dangerous (through it seems safe)
+383. Stirred:-  move.
 
-299. bog: wet, spongy ground (one may sink into it)
+384. Clustering:-  gathering.
 
-300. falteringly: a 'faltering' voice is shaky, hesitant; haltingly
+385. Fathomless:-  So deep that depth can't be measured.
 
 ### 7-DEC-20
-171. Incandescence:-  inner gloe or light.
+386. Taken their toll on:-  damaged.
 
-172. Enormous:-  very big
+387. Stuck fast:-  shut tight.
 
-173. Stirred:-  move.
+388. Scruples:  feelings that makes you hesitate to do something wrong.
 
-174. Clustering:-  gathering.
+389. Standing to:-  taking up positions.
 
-175. Fathomless:-  So deep that depth can't be measured.
+390. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
 
 ### 8-DEC-20
-176. Taken their toll on:-  damaged.
+391. Burned out:-  destroy by fire.
 
-177. Stuck fast:-  shut tight.
+392. Boarded up:-  covered with wodden boards.
 
-178. Scruples:  feelings that makes you hesitate to do something wrong.
+394. Middel headed:-  confused.
 
-179. Standing to:-  taking up positions.
+395. Lit up:-  became bright with happiness.
 
-180. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+### 9-DEC-20
+396. Suffused with:-  spred all over her face.
 
+397. Taken their toll on:-  damaged.
 
-16. Burned out:-  destroy by fire.
+398. Stuck fast:-  shut tight.
 
-17. Boarded up:-  covered with wodden boards.
+399. Scruples:  feelings that makes you hesitate to do something wrong.
 
-18. Middel headed:-  confused.
+400. Standing to:-  taking up positions.
 
-19. Lit up:-  became bright with happiness.
+### 10-DEC-20
+401. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
 
-20. Suffused with:-  spred all over her face.
+402. Meek:-  quite
 
+403. Utter Disbelief:-  complete surprise.
 
-6. Taken their toll on:-  damaged.
+404. Head reeled:-  He was shoked and confused.
 
-7. Stuck fast:-  shut tight.
+405. Losing his mind:-  becoming mad.
 
-8. Scruples:  feelings that makes you hesitate to do something wrong.
+### 11-DEC-20
+406. Intimate:-  very personal and private.
 
-9. Standing to:-  taking up positions.
+407. Racket:-  uproar/loud noise
 
-10. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+408. Crouching:-  sitting(as if hiding)
 
-41. Meek:-  quite
+409. Surats:-  verses from the holy Quran.
 
-42. Utter Disbelief:-  complete surprise.
+410. Treasury:-  wealth
 
-43. Head reeled:-  He was shoked and confused.
+### 12-DEC-20
+411. Chaprasi:-  peon
 
-44. Losing his mind:-  becoming mad.
+412. Choo:-  sound of'blowing over the bag' (to ward off evil)
 
-45. Intimate:-  very personal and private.
+413. Bismillah:-  in the name os god (words spoken before starting something)
+
+414. Wazu:-  ablution (washing face, hands and feet before praying)
+
+415. Hobnob:-  have friendly talk/spend time together.
+
+### 13-DEC-20
+416. Oblivious:-  forgetful.
