@@ -940,3 +940,5 @@
 422. Trickel:-  weak or thin flow of water.
 
 423. Torrent:-  rushing strem (of water)
+
+424. Translucency:-  clarity (possible to see through)
