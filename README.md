@@ -939,3 +939,4 @@
 
 422. Trickel:-  weak or thin flow of water.
 
+423. Torrent:-  rushing strem (of water)
