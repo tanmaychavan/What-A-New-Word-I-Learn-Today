@@ -933,3 +933,7 @@
 419. Optimistic:-  hopeful; excepting the best
 
 420. Smudges:-  spots/marks
+
+### 14-DEC-20
+421. Interminably:-  endlessly
+
