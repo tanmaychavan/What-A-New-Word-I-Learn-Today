@@ -937,3 +937,5 @@
 ### 14-DEC-20
 421. Interminably:-  endlessly
 
+422. Trickel:-  weak or thin flow of water.
+
