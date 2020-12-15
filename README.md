@@ -951,3 +951,6 @@
 427. Endeavoured:-  tried
 
 428. Flatter:-  make (her) happy
+
+429. Suggest masculine habitation
+
