@@ -944,3 +944,7 @@
 424. Translucency:-  clarity (possible to see through)
 
 425. cascading:-  coming down (like a water fall)
+
+### 15-DEC-20
+426. Self-possessed:-  calm and canfident; sure of him self
+
