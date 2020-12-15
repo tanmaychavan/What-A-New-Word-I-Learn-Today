@@ -948,3 +948,5 @@
 ### 15-DEC-20
 426. Self-possessed:-  calm and canfident; sure of him self
 
+427. Endeavoured:-  tried
+
