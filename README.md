@@ -964,3 +964,5 @@
 433. Vigou:-  Strength
 
 434. Limped:-  Clear
+
+435. Plunge:-  Jump
