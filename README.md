@@ -961,3 +961,4 @@
 
 432. Penetratde:-  gone through/into
 
+433. Vigou:-  Strength
