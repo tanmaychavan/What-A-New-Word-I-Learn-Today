@@ -957,5 +957,7 @@
 430. moor:-  grassland
 
 ### 16-DEC-20
-431. impasse:-  (also pronounced ampass) deadlock; plase or positionfrom which there is no way out.
+431. Impasse:-  (also pronounced ampass) deadlock; plase or positionfrom which there is no way out.
+
+432. Penetratde:-  gone through/into
 
