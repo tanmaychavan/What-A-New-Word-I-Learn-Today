@@ -955,3 +955,7 @@
 429. Suggest masculine habitation
 
 430. moor:-  grassland
+
+### 16-DEC-20
+431. impasse:-  (also pronounced ampass) deadlock; plase or positionfrom which there is no way out.
+
