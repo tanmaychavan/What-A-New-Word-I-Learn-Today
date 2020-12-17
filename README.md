@@ -969,3 +969,5 @@
 
 ### 17-DEC-20
 436. Respite:-  relief
+
+437. Intercept:-  equipment
