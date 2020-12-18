@@ -977,3 +977,7 @@
 439. Aspersions:-  harsh remarks
 
 440. Nebulous:-  hazy
+
+### 18-DEC-20
+441. Taken their toll on:-  damaged.
+
