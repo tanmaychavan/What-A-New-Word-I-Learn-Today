@@ -985,3 +985,5 @@
 
 443. Scruples:  feelings that makes you hesitate to do something wrong.
 
+444. Standing to:-  taking up positions.
+
