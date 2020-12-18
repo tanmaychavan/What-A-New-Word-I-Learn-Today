@@ -983,3 +983,5 @@
 
 442. Stuck fast:-  shut tight.
 
+443. Scruples:  feelings that makes you hesitate to do something wrong.
+
