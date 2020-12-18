@@ -987,3 +987,4 @@
 
 444. Standing to:-  taking up positions.
 
+445. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
