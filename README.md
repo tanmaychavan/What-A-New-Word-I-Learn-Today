@@ -988,3 +988,14 @@
 444. Standing to:-  taking up positions.
 
 445. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 20-DEC-20
+311. Scorch marks:-  burn marks.
+
+312. Woing for:-  was selling for.
+
+313. Restore:-   repair.
+
+314. Venner:-  A thin layer of plastic or decorative.
+
+315. Clustering:-  gathering.
