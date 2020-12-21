@@ -999,3 +999,14 @@
 314. Venner:-  A thin layer of plastic or decorative.
 
 315. Clustering:-  gathering.
+
+### 21-DEC-20
+71. Defied:-  frustrated;resisted.
+
+72. Mystical:-  spiritual.
+
+73. Firm in:-  make your self firm.
+
+74. Belays:-  fixes a rope.
+
+75. Ascent:-  climb.
