@@ -1010,3 +1010,14 @@
 74. Belays:-  fixes a rope.
 
 75. Ascent:-  climb.
+
+### 22-DEC-20
+36. Levitation:-  floating in the air without any support.
+
+37. Fiend:-  devil.
+
+38. Feline:-  or relating to.
+
+39. Depravity:-  moral corruption.
+
+40. Idle chat:-  unnecessary routine conservasition.
