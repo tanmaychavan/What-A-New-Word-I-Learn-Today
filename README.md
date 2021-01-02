@@ -1024,3 +1024,6 @@
 
 ### 2-DEC-21
 41.  draft bck to:-  go back to
+
+42.  dilated:-  enlarged
+
