@@ -1027,3 +1027,6 @@
 
 42.  dilated:-  enlarged
 
+43. a close shave:-  a narrow escape
+
+44
