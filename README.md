@@ -1021,3 +1021,6 @@
 39. Depravity:-  moral corruption.
 
 40. Idle chat:-  unnecessary routine conservasition.
+
+### 2-DEC-21
+41.  draft bck to:-  go back to
