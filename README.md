@@ -1022,7 +1022,7 @@
 
 40. Idle chat:-  unnecessary routine conservasition.
 
-### 2-DEC-21
+### 2-JAN-21
 41.  draft bck to:-  go back to
 
 42.  dilated:-  enlarged
@@ -1032,3 +1032,7 @@
 44. kept your head:-  stead calm in a difficult situation
 
 45. acorns:- small brownnuts
+
+### 4-JAN-21
+466. Burned out:-  destroy by fire.
+
