@@ -1040,3 +1040,5 @@
 
 48. Middel headed:-  confused.
 
+49. Lit up:-  became bright with happiness.
+
