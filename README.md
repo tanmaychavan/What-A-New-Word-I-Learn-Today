@@ -1034,5 +1034,7 @@
 45. acorns:- small brownnuts
 
 ### 4-JAN-21
-466. Burned out:-  destroy by fire.
+46. Burned out:-  destroy by fire.
+
+47. Boarded up:-  covered with wodden boards.
 
