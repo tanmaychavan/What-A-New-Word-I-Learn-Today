@@ -1048,3 +1048,5 @@
 51. pulled:-  arrived
 
 52. wobby:-  unsteady
+
+53. glumly:- sadly
