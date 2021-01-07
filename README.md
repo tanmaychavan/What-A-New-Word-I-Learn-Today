@@ -1043,3 +1043,6 @@
 49. Lit up:-  became bright with happiness.
 
 50. Suffused with:-  spred all over her face.
+
+### 7-JAN-21
+51. pulled:-  arrived
