@@ -1052,3 +1052,5 @@
 53. glumly:- sadly
 
 54. tiffin:- snack
+
+55. squashay:;- crushed
