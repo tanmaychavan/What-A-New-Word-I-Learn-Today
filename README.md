@@ -1057,3 +1057,5 @@
 
 ### 9-Jan-21
 56. flatter:- make happy
+
+57. self possessed:- calm and confident
