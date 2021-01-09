@@ -1059,3 +1059,6 @@
 56. flatter:- make happy
 
 57. self possessed:- calm and confident
+
+58. bustled:-  entered noisly
+
