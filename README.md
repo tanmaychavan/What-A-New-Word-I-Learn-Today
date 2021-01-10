@@ -1068,3 +1068,10 @@
 
 ### 10. disagreeable:-  unpleasent
 
+62. trickle:-  weak or thin flow of water
+
+63. parched:-  hot and dry
+
+64. interminably:-  endless
+
+65. quench:-  cool
