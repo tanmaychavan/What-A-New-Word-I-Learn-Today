@@ -1065,3 +1065,6 @@
 59. birds:-  no birds or very few
 
 60. clamour:- loud noice
+
+### 10. disagreeable:-  unpleasent
+
