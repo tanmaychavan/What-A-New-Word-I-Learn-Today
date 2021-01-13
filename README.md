@@ -1079,3 +1079,5 @@
 ### 13-Jan-20
 66. Taken their toll on:-  damaged.
 
+67. Stuck fast:-  shut tight.
+
