@@ -1081,3 +1081,5 @@
 
 67. Stuck fast:-  shut tight.
 
+68. Scruples:  feelings that makes you hesitate to do something wrong.
+
