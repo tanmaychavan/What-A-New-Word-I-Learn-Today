@@ -1075,3 +1075,7 @@
 64. interminably:-  endless
 
 65. quench:-  cool
+
+### 13-Jan-20
+66. Taken their toll on:-  damaged.
+
