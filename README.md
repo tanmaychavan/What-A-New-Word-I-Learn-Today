@@ -1083,3 +1083,5 @@
 
 68. Scruples:  feelings that makes you hesitate to do something wrong.
 
+69. Standing to:-  taking up positions.
+
