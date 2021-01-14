@@ -1086,3 +1086,7 @@
 69. Standing to:-  taking up positions.
 
 70. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 14-Jan-21
+71. Burned out:-  destroy by fire.
+
