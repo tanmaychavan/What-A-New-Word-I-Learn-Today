@@ -1090,3 +1090,5 @@
 ### 14-Jan-21
 71. Burned out:-  destroy by fire.
 
+72. Boarded up:-  covered with wodden boards.
+
