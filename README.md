@@ -1127,4 +1127,6 @@
 
 507. Worsted sockes:-  woolen socks.
 
+508. Astrophysicist:-  scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+
 
