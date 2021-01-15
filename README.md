@@ -1130,3 +1130,6 @@
 508. Astrophysicist:-  scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 
 509. Buoyant:-  intensely active and vibrant.
+
+510. Torso:-  upper of the body.
+
