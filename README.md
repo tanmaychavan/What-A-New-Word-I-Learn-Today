@@ -989,111 +989,139 @@
 
 445. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
 
+### 19-DEC-20
+446. Scorch marks:-  burn marks.
+
+447. Woing for:-  was selling for.
+
+448. Restore:-   repair.
+
+449. Venner:-  A thin layer of plastic or decorative.
+
+450. Clustering:-  gathering.
+
 ### 20-DEC-20
-311. Scorch marks:-  burn marks.
+451. Defied:-  frustrated;resisted.
 
-312. Woing for:-  was selling for.
+452. Mystical:-  spiritual.
 
-313. Restore:-   repair.
+453. Firm in:-  make your self firm.
 
-314. Venner:-  A thin layer of plastic or decorative.
+454. Belays:-  fixes a rope.
 
-315. Clustering:-  gathering.
+455. Ascent:-  climb.
 
 ### 21-DEC-20
-71. Defied:-  frustrated;resisted.
+456. Levitation:-  floating in the air without any support.
 
-72. Mystical:-  spiritual.
+457. Fiend:-  devil.
 
-73. Firm in:-  make your self firm.
+458. Feline:-  or relating to.
 
-74. Belays:-  fixes a rope.
+459. Depravity:-  moral corruption.
 
-75. Ascent:-  climb.
+460. Idle chat:-  unnecessary routine conservasition.
 
 ### 22-DEC-20
-36. Levitation:-  floating in the air without any support.
+461.  draft bck to:-  go back to
 
-37. Fiend:-  devil.
+462.  dilated:-  enlarged
 
-38. Feline:-  or relating to.
+463. a close shave:-  a narrow escape
 
-39. Depravity:-  moral corruption.
+464. kept your head:-  stead calm in a difficult situation
 
-40. Idle chat:-  unnecessary routine conservasition.
+465. acorns:- small brownnuts
 
-### 2-JAN-21
-41.  draft bck to:-  go back to
+### 23-DEC-20
+466. Burned out:-  destroy by fire.
 
-42.  dilated:-  enlarged
+467. Boarded up:-  covered with wodden boards.
 
-43. a close shave:-  a narrow escape
+468. Middel headed:-  confused.
 
-44. kept your head:-  stead calm in a difficult situation
+469. Lit up:-  became bright with happiness.
 
-45. acorns:- small brownnuts
+470. Suffused with:-  spred all over her face.
 
-### 4-JAN-21
-46. Burned out:-  destroy by fire.
+### 24-DEC-20
+471. pulled:-  arrived
 
-47. Boarded up:-  covered with wodden boards.
+472. wobby:-  unsteady
 
-48. Middel headed:-  confused.
+473. glumly:- sadly
 
-49. Lit up:-  became bright with happiness.
+474. tiffin:- snack
 
-50. Suffused with:-  spred all over her face.
+475. squashay:;- crushed
 
-### 7-JAN-21
-51. pulled:-  arrived
+### 25-DEC-20
+476. flatter:- make happy
 
-52. wobby:-  unsteady
+477. self possessed:- calm and confident
 
-53. glumly:- sadly
+478. bustled:-  entered noisly
 
-54. tiffin:- snack
+479. birds:-  no birds or very few
 
-55. squashay:;- crushed
+480. clamour:- loud noice
 
-### 9-Jan-21
-56. flatter:- make happy
+### 26-DEC-20
 
-57. self possessed:- calm and confident
+481. trickle:-  weak or thin flow of water
 
-58. bustled:-  entered noisly
+482. parched:-  hot and dry
 
-59. birds:-  no birds or very few
+483. interminably:-  endless
 
-60. clamour:- loud noice
+484. quench:-  cool
 
-### 10. disagreeable:-  unpleasent
+485. Levitation:-  floating in the air without any support.
 
-62. trickle:-  weak or thin flow of water
+### 27-Jan-20
+486. Taken their toll on:-  damaged.
 
-63. parched:-  hot and dry
+487. Stuck fast:-  shut tight.
 
-64. interminably:-  endless
+488. Scruples:  feelings that makes you hesitate to do something wrong.
 
-65. quench:-  cool
+489. Standing to:-  taking up positions.
 
-### 13-Jan-20
-66. Taken their toll on:-  damaged.
+490. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
 
-67. Stuck fast:-  shut tight.
+### 28-DEC-20
+491. Burned out:-  destroy by fire.
 
-68. Scruples:  feelings that makes you hesitate to do something wrong.
+492. Boarded up:-  covered with wodden boards.
 
-69. Standing to:-  taking up positions.
+493. Middel headed:-  confused.
 
-70. Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+494. Lit up:-  became bright with happiness.
 
-### 14-Jan-21
-71. Burned out:-  destroy by fire.
+495. Suffused with:-  spred all over her face.
 
-72. Boarded up:-  covered with wodden boards.
+### 29-DEC-20
+496. Prophecy:-  ststement that tells what will happen in the future.
 
-73. Middel headed:-  confused.
+497. Pensive:- thoughtful.
 
-74. Lit up:-  became bright with happiness.
+498. Stirred:-  move.
 
-75. Suffused with:-  spred all over her face.
+499. Inhabinants:-  people living in the valley; dwellers.
+
+500. Labour:-  work.
+
+### 30-DEC-20
+501. Grimace:-  twistead expression (on the face) due to pain.
+
+502. Glumy:-  sadly/gloomily.
+
+503. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+504. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+505. Paniked:-  wasd very worriedd.
+
+### 15-JAN-21
+506. Balked:-  (also baulked) was unwilling (to do something).
+
