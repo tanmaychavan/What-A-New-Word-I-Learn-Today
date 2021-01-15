@@ -1125,3 +1125,6 @@
 ### 15-JAN-21
 506. Balked:-  (also baulked) was unwilling (to do something).
 
+507. Worsted sockes:-  woolen socks.
+
+
