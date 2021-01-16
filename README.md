@@ -1138,3 +1138,5 @@
 
 512. light-headed:-  unable to think clearly.
 
+513. romp:  play
+
