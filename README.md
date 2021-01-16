@@ -1133,3 +1133,6 @@
 
 510. Torso:-  upper of the body.
 
+### 16-Jan-21
+511. hoist:-  pull up higher
+
