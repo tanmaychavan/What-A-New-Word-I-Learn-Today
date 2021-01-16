@@ -1142,3 +1142,4 @@
 
 514. alarm:-  frighten.
 
+515. balked:-  (also baulked) was unwilling (to do something)
