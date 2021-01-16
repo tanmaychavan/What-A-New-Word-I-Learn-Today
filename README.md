@@ -1138,5 +1138,7 @@
 
 512. light-headed:-  unable to think clearly.
 
-513. romp:  play
+513. romp:-  play
+
+514. alarm:-  frighten.
 
