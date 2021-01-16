@@ -1136,3 +1136,5 @@
 ### 16-Jan-21
 511. hoist:-  pull up higher
 
+512. light-headed:-  unable to think clearly.
+
