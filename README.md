@@ -1143,3 +1143,7 @@
 514. alarm:-  frighten.
 
 515. balked:-  (also baulked) was unwilling (to do something)
+
+### 17-Jan-21
+516. Drift back:-  go back
+
