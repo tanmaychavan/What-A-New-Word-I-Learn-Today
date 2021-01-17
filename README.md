@@ -1153,3 +1153,4 @@
 
 519. Gourd:-  a countainer for liquid.
 
+520. dipped:-  put in
