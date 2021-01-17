@@ -1149,4 +1149,7 @@
 
 517. Lifted:- raise
 
-518. Instant:- movement
+518. Instant:- mement
+
+519. Gourd:-  a countainer for liquid.
+
