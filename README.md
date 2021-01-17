@@ -1149,3 +1149,4 @@
 
 517. Lifted:- raise
 
+518. Instant:- movement
