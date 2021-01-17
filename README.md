@@ -1147,3 +1147,5 @@
 ### 17-Jan-21
 516. Drift back:-  go back
 
+517. Lifted:- raise
+
