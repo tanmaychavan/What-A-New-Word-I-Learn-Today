@@ -1162,3 +1162,5 @@
 
 523. Astrophysicist:-  scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 
+524. Buoyant:-  intensely active and vibrant.
+
