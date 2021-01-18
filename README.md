@@ -1164,3 +1164,4 @@
 
 524. Buoyant:-  intensely active and vibrant.
 
+525. Torso:-  upper of the body.
