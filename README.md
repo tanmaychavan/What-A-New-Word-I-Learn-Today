@@ -1154,3 +1154,7 @@
 519. Gourd:-  a countainer for liquid.
 
 520. dipped:-  put in
+
+### 18-Jan-21
+521. Balked:-  (also baulked) was unwilling (to do something).
+
