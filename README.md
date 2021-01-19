@@ -1171,3 +1171,5 @@
 
 527. Sleek:-  smooth and shiny.
 
+528. light-headed:-  unabel to think clearly.
+
