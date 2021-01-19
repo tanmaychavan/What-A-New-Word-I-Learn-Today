@@ -1165,3 +1165,6 @@
 524. Buoyant:-  intensely active and vibrant.
 
 525. Torso:-  upper of the body.
+
+### 19-Jan-20
+526. A china deer:-  a clay deer that is easily broken.
