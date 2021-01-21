@@ -1182,3 +1182,8 @@
 
 532. Resort:-  a place where people go on holidays.
 
+533. Triggered:-  caused.
+
+534. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+
+535. Refuge:-  Shelter or protection from danger.
