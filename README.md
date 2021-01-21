@@ -1180,3 +1180,5 @@
 ### 20-Jan-21
 531. Traumatised:-  greatly shocked and distressed.
 
+532. Resort:-  a place where people go on holidays.
+
