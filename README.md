@@ -1187,3 +1187,14 @@
 534. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
 
 535. Refuge:-  Shelter or protection from danger.
+
+### 21-Jan-21
+536. Scarlet minivet:-  brightf red bird like a cuckoo.
+
+537. Drongo:-  a song-bird with a stout bill.
+
+538. Drumming:-  falling noisily.
+
+539. Disconsolately:-  unhappily.
+
+230. ravine:-  valley.
