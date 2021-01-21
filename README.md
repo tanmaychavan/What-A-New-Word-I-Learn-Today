@@ -1176,3 +1176,7 @@
 529. Romp:-  play.
 
 530. Clustering:-  gathering.
+
+### 20-Jan-21
+531. Traumatised:-  greatly shocked and distressed.
+
