@@ -1198,3 +1198,6 @@
 539. Disconsolately:-  unhappily.
 
 540. ravine:-  valley.
+
+### 22-Jan-21
+541. remonstrated:- protested
