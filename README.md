@@ -1208,3 +1208,4 @@
 
 544. Having a rough time:-  having a lot of problems.
 
+545. Turning up like a bad penny:-  appearing at a place where one is not welcome.
