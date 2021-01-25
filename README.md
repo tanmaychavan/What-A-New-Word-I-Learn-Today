@@ -1202,3 +1202,5 @@
 ### 25-Jan-21
 541. Conscientious:  careful and correct.
 
+542. Head was in whirl:-  confused and anable to think clearly.
+
