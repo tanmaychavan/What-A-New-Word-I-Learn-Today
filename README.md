@@ -1204,3 +1204,5 @@
 
 542. Head was in whirl:-  confused and anable to think clearly.
 
+543. Gather his wits together:-  make an effort to become calm and think clearly.
+
