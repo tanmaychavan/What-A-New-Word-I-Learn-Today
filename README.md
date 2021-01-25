@@ -1206,3 +1206,5 @@
 
 543. Gather his wits together:-  make an effort to become calm and think clearly.
 
+544. Having a rough time:-  having a lot of problems.
+
