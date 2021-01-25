@@ -1199,5 +1199,6 @@
 
 540. ravine:-  valley.
 
-### 22-Jan-21
-541. remonstrated:- protested
+### 25-Jan-21
+541. Conscientious:  careful and correct.
+
