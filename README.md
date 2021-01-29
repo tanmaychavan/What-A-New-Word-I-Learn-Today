@@ -1215,3 +1215,5 @@
 
 547. Racket:-  uproar/loud noise
 
+548. Crouching:-  sitting(as if hiding)
+
