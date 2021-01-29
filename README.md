@@ -1219,3 +1219,4 @@
 
 549. Surats:-  verses from the holy Quran.
 
+550. Treasury:-  wealth
