@@ -1217,3 +1217,5 @@
 
 548. Crouching:-  sitting(as if hiding)
 
+549. Surats:-  verses from the holy Quran.
+
