@@ -1230,3 +1230,6 @@
 
 554. Gourd:-  a countainer for liquid.
 
+### 4-Feb-21
+555. Withstood:-  endured without collapsing.
+
