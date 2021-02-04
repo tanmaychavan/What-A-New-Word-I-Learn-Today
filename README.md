@@ -1233,3 +1233,5 @@
 ### 4-Feb-21
 555. Withstood:-  endured without collapsing.
 
+556. Sure:-  momentum.
+
