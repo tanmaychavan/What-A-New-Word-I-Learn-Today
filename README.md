@@ -1239,3 +1239,4 @@
 
 558. Scotland:-  the headquaters of the London police force.
 
+559. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
