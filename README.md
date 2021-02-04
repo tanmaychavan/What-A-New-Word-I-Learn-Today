@@ -1235,3 +1235,5 @@
 
 556. Sure:-  momentum.
 
+557. Def:-  disobey or resist openly.
+
