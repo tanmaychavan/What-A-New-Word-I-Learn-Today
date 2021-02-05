@@ -1246,3 +1246,6 @@
 
 561. Fiend:-  devil.
 
+562. Feline:-  or relating to.
+
+
