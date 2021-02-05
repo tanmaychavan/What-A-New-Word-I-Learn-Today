@@ -1250,4 +1250,5 @@
 
 563. Depravity:-  moral corruption.
 
+564. Idle chat:-  unnecessary routine conservasition.
 
