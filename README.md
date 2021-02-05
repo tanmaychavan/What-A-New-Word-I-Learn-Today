@@ -1244,3 +1244,5 @@
 ### 5-Feb-21
 560. Levitation:-  floating in the air without any support.
 
+561. Fiend:-  devil.
+
