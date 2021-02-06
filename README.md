@@ -1257,3 +1257,5 @@
 
 566. Lyonnesse:-  (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
 
+567. Rime:-  frost.
+
