@@ -1261,3 +1261,4 @@
 
 568. The spray:-  leaves and branches of trees; foliage.
 
+569. Durst:-  (poetic word for) dared.
