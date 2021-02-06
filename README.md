@@ -1259,3 +1259,5 @@
 
 567. Rime:-  frost.
 
+568. The spray:-  leaves and branches of trees; foliage.
+
