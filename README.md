@@ -1255,3 +1255,5 @@
 ### 06-FEB-21
 565. Geefully:-  Very happy.
 
+566. Lyonnesse:-  (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
+
