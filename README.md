@@ -1259,3 +1259,5 @@
  
 571. light-headed:-  unabel to think clearly.
 
+572. Colvulsion:-  shiver.
+
