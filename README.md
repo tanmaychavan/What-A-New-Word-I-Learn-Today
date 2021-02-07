@@ -1257,3 +1257,5 @@
 ### 7-Feb-21
 570.  Fern:-  a flower less plant with festhery green leaves.
  
+571. light-headed:-  unabel to think clearly.
+
