@@ -1263,3 +1263,4 @@
 
 573. Venner:-  A thin layer of plastic or decorative.
 
+574. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
