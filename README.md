@@ -365,15 +365,6 @@
 160. Paniked:-  wasd very worriedd.
 
 ### 23-Oct-20
-161.  Fern:-  a flower less plant with festhery green leaves.
- 
-162. light-headed:-  unabel to think clearly.
-
-163. Colvulsion:-  shiver.
-
-164. Venner:-  A thin layer of plastic or decorative.
-
-165. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
 
 ### 24-Oct-20
 166. Ordeals:-  Painful experiences.
@@ -1262,3 +1253,7 @@
 568. The spray:-  leaves and branches of trees; foliage.
 
 569. Durst:-  (poetic word for) dared.
+
+### 7-Feb-21
+570.  Fern:-  a flower less plant with festhery green leaves.
+ 
