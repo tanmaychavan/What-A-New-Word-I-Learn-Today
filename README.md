@@ -1264,3 +1264,7 @@
 573. Venner:-  A thin layer of plastic or decorative.
 
 574. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
+
+### 8-Feb-21
+575. Incandescence:-  inner gloe or light.
+
