@@ -1268,3 +1268,5 @@
 ### 8-Feb-21
 575. Incandescence:-  inner gloe or light.
 
+576. Enormous:-  very big
+
