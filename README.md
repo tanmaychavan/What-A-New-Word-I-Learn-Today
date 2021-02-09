@@ -1281,3 +1281,5 @@
 
 581. Enormous:-  very big.
 
+582. Gigantic:-  immense.
+
