@@ -1283,3 +1283,5 @@
 
 582. Gigantic:-  immense.
 
+583. Clustering:-  gathering.
+
