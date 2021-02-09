@@ -1285,3 +1285,4 @@
 
 583. Clustering:-  gathering.
 
+584. Being:-  kind, gentle.
