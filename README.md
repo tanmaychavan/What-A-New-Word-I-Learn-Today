@@ -1279,3 +1279,5 @@
 ### 9-Feb-21
 580. Immense:-  huge
 
+581. Enormous:-  very big.
+
