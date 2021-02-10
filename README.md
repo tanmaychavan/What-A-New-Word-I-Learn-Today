@@ -1292,4 +1292,4 @@
 
 586. panorama:- view of a wide area
 
-587. 
+587. jubilant:- very happy because of success
