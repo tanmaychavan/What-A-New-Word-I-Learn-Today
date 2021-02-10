@@ -1295,3 +1295,5 @@
 587. jubilant:- very happy because of success
 
 588. tingle:- tace
+
+589. exhaustion:- fatigue; tridness
