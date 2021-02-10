@@ -1290,4 +1290,6 @@
 ### 10-Feb-21
 585. surged:-  arose suddenly and intensly
 
-586. 
+586. panorama:- view of a wide area
+
+587. 
