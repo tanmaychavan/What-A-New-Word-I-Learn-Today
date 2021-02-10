@@ -1286,3 +1286,8 @@
 583. Clustering:-  gathering.
 
 584. Being:-  kind, gentle.
+
+### 10-Feb-21
+585. surged:-  arose suddenly and intensly
+
+586. 
