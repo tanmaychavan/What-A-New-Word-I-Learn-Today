@@ -1297,3 +1297,7 @@
 588. tingle:- tace
 
 589. exhaustion:- fatigue; tridness
+
+### 13-02-21
+590. Djinn:-  (pornounced 'jin' and variously spelt as 'genie', 'genii', 'jinnee', 'djinni', 'djinny'): a spirit that has strange powers assume any form , human or animal.
+
