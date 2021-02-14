@@ -1069,7 +1069,7 @@
 
 485. Levitation:-  floating in the air without any support.
 
-### 27-Jan-20
+### 27-Dec-20
 486. Taken their toll on:-  damaged.
 
 487. Stuck fast:-  shut tight.
@@ -1113,7 +1113,7 @@
 
 505. Paniked:-  wasd very worriedd.
 
-### 15-JAN-21
+### 31-JAN-21
 506. Balked:-  (also baulked) was unwilling (to do something).
 
 507. Worsted sockes:-  woolen socks.
@@ -1124,7 +1124,7 @@
 
 510. Torso:-  upper of the body.
 
-### 16-Jan-21
+### 1-Jan-21
 511. hoist:-  pull up higher
 
 512. light-headed:-  unable to think clearly.
@@ -1135,7 +1135,7 @@
 
 515. balked:-  (also baulked) was unwilling (to do something)
 
-### 17-Jan-21
+### 2-Jan-21
 516. Drift back:-  go back
 
 517. Lifted:- raise
@@ -1146,7 +1146,7 @@
 
 520. dipped:-  put in
 
-### 18-Jan-21
+### 3-Jan-21
 521. Balked:-  (also baulked) was unwilling (to do something).
 
 522. Worsted sockes:-  woolen socks.
@@ -1157,7 +1157,7 @@
 
 525. Torso:-  upper of the body.
 
-### 19-Jan-20
+### 4-Jan-20
 526. A china deer:-  a clay deer that is easily broken.
 
 527. Sleek:-  smooth and shiny.
@@ -1168,7 +1168,7 @@
 
 530. Clustering:-  gathering.
 
-### 20-Jan-21
+### 5-Jan-21
 531. Traumatised:-  greatly shocked and distressed.
 
 532. Resort:-  a place where people go on holidays.
@@ -1179,7 +1179,7 @@
 
 535. Refuge:-  Shelter or protection from danger.
 
-### 21-Jan-21
+### 6-Jan-21
 536. Scarlet minivet:-  brightf red bird like a cuckoo.
 
 537. Drongo:-  a song-bird with a stout bill.
@@ -1190,7 +1190,7 @@
 
 540. ravine:-  valley.
 
-### 25-Jan-21
+### 7-Jan-21
 541. Conscientious:  careful and correct.
 
 542. Head was in whirl:-  confused and anable to think clearly.
@@ -1201,7 +1201,7 @@
 
 545. Turning up like a bad penny:-  appearing at a place where one is not welcome.
 
-### 29-Jan-21
+### 8-Jan-21
 546. Intimate:-  very personal and private.
 
 547. Racket:-  uproar/loud noise
@@ -1212,7 +1212,7 @@
 
 550. Treasury:-  wealth
 
-### 3-Feb-21
+### 9-Jan-21
 551. Drift back:-  go back
 
 552. Lifted:- raise
@@ -1221,9 +1221,9 @@
 
 554. Gourd:-  a countainer for liquid.
 
-### 4-Feb-21
 555. Withstood:-  endured without collapsing.
 
+### 10-Jan-21
 556. Sure:-  momentum.
 
 557. Def:-  disobey or resist openly.
@@ -1232,9 +1232,9 @@
 
 559. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
 
-### 5-Feb-21
 560. Levitation:-  floating in the air without any support.
 
+### 11-Jan-21
 561. Fiend:-  devil.
 
 562. Feline:-  or relating to.
@@ -1243,9 +1243,9 @@
 
 564. Idle chat:-  unnecessary routine conservasition.
 
-### 06-FEB-21
 565. Geefully:-  Very happy.
 
+### 12-Jan-21
 566. Lyonnesse:-  (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
 
 567. Rime:-  frost.
@@ -1254,9 +1254,9 @@
 
 569. Durst:-  (poetic word for) dared.
 
-### 7-Feb-21
 570.  Fern:-  a flower less plant with festhery green leaves.
- 
+
+### 13-Jan-21 
 571. light-headed:-  unabel to think clearly.
 
 572. Colvulsion:-  shiver.
@@ -1265,9 +1265,9 @@
 
 574. Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
 
-### 8-Feb-21
 575. Incandescence:-  inner gloe or light.
 
+### 14-Jan-21
 576. Enormous:-  very big
 
 577. Stirred:-  move.
@@ -1276,9 +1276,9 @@
 
 579. Fathomless:-  So deep that depth can't be measured.
 
-### 9-Feb-21
 580. Immense:-  huge
 
+### 15-Jan-21
 581. Enormous:-  very big.
 
 582. Gigantic:-  immense.
@@ -1287,9 +1287,9 @@
 
 584. Being:-  kind, gentle.
 
-### 10-Feb-21
 585. surged:-  arose suddenly and intensly
 
+### 16-Jan-21
 586. panorama:- view of a wide area
 
 587. jubilant:- very happy because of success
@@ -1298,9 +1298,9 @@
 
 589. exhaustion:- fatigue; tridness
 
-### 13-02-21
 590. Djinn:-  (pornounced 'jin' and variously spelt as 'genie', 'genii', 'jinnee', 'djinni', 'djinny'): a spirit that has strange powers assume any form , human or animal.
 
+### 17-Jan-21
 591. I'll hump him:-  I'll deal with him appropriately./I'll set him right.
 
 592. Remonstrated:-  protested/complainede
@@ -1308,3 +1308,9 @@
 593. pulled in:-  arrived.
 
 594. wobbiy:-  unstady
+
+595. Scorch marks:-  burn marks.
+
+### 14-Feb-21
+596. A china deer:-  a clay deer that is easily broken.
+
