@@ -1320,3 +1320,5 @@
 
 599. Romp:-  play.
 
+600. Alarm:-  frighten.
+
