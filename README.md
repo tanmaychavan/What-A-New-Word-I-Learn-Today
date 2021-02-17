@@ -1331,3 +1331,5 @@
 
 604.  Withstood:-  endured without collapsing.
 
+605
+606.  .  Triggered:-  caused.
