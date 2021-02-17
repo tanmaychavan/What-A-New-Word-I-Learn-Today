@@ -1322,3 +1322,6 @@
 
 600. Alarm:-  frighten.
 
+### 17-Feb-21
+601. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
