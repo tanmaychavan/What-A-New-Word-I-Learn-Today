@@ -1327,3 +1327,5 @@
 
 602.  ponorama:-  view of a wide area.
 
+603.  Restore:-   repair.
+
