@@ -1325,3 +1325,5 @@
 ### 17-Feb-21
 601. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
 
+602.  ponorama:-  view of a wide area.
+
