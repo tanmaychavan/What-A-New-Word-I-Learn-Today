@@ -1329,3 +1329,5 @@
 
 603.  Restore:-   repair.
 
+604.  Withstood:-  endured without collapsing.
+
