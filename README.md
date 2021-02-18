@@ -1340,3 +1340,6 @@
 
 608. Crouching:-  sitting(as if hiding)
 
+609. Surats:-  verses from the holy Quran.
+
+
