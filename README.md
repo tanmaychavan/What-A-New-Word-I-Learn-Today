@@ -1333,3 +1333,7 @@
 
 605
 606.  .  Triggered:-  caused.
+
+### 18-Feb-21
+606. Intimate:-  very personal and private.
+
