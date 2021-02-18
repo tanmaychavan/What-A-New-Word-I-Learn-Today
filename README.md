@@ -1331,9 +1331,10 @@
 
 604.  Withstood:-  endured without collapsing.
 
-605
-606.  .  Triggered:-  caused.
+605. Triggered:-  caused.
 
 ### 18-Feb-21
 606. Intimate:-  very personal and private.
+
+607. Racket:-  uproar/loud noise
 
