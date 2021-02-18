@@ -1342,4 +1342,5 @@
 
 609. Surats:-  verses from the holy Quran.
 
+610. Treasury:-  wealth
 
