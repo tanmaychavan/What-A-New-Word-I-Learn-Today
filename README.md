@@ -1338,3 +1338,5 @@
 
 607. Racket:-  uproar/loud noise
 
+608. Crouching:-  sitting(as if hiding)
+
