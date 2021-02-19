@@ -1349,4 +1349,4 @@
 
 612.Tremor:- a slight shake Earth tremors:the earth shake during earthquick
 
-613. 
+613. Chaos:- complete disorder or confusion [pronounced, kay-os]
