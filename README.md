@@ -1350,3 +1350,7 @@
 612.Tremor:- a slight shake Earth tremors:the earth shake during earthquick
 
 613. Chaos:- complete disorder or confusion [pronounced, kay-os]
+
+614. relief helicopter:- helicopter bringing help to people (e.g during floods
+
+615. 
