@@ -1347,10 +1347,10 @@
 ### 19-Feb-21
 611. Archipelago:- a griup of many islands and the surrounding sea
 
-612.Tremor:- a slight shake Earth tremors:the earth shake during earthquick
+612. Tremor:- a slight shake Earth tremors:the earth shake during earthquick
 
 613. Chaos:- complete disorder or confusion [pronounced, kay-os]
 
-614. relief helicopter:- helicopter bringing help to people (e.g during floods
+614. Relief helicopter:- helicopter bringing help to people (e.g during floods
 
-615. 
+615. Reced:- move back from where it was 
