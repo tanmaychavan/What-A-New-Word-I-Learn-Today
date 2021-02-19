@@ -1346,3 +1346,7 @@
 
 ### 19-Feb-21
 611. Archipelago:- a griup of many islands and the surrounding sea
+
+612.Tremor:- a slight shake Earth tremors:the earth shake during earthquick
+
+613. 
