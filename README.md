@@ -1354,3 +1354,7 @@
 614. Relief helicopter:- helicopter bringing help to people (e.g during floods
 
 615. Reced:- move back from where it was 
+
+### 20-Feb-21
+616. Ordeals:-  Painful experiences.
+
