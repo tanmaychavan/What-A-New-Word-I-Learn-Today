@@ -1360,5 +1360,7 @@
 
 617. Sleek:-  smooth and shiny.
 
+618. Didn't beat about the bush:-  came straight to the point.
+
 
 
