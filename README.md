@@ -1373,3 +1373,5 @@
 
 623. Cello:-  a muisical instrunment like large violin.
 
+624. Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
