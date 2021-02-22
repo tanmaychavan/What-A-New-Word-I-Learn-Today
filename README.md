@@ -1365,3 +1365,7 @@
 619. Blankets:-  covers.
 
 620. Inhabinants:-  people living in the valley; dwellers.
+
+### 21-Feb-21
+621. Fritz:-  a name for a german soldiers.
+
