@@ -1375,3 +1375,8 @@
 
 624. Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
 
+625. Incandescence:-  inner gloe or light.
+
+### 22-Feb-21
+626. Withstood:-  endured without collapsing.
+
