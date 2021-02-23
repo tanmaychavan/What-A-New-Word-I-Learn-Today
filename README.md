@@ -1380,3 +1380,5 @@
 ### 22-Feb-21
 626. Withstood:-  endured without collapsing.
 
+627. Sure:-  momentum.
+
