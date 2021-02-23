@@ -1382,3 +1382,5 @@
 
 627. Sure:-  momentum.
 
+628. Def:-  disobey or resist openly.
+
