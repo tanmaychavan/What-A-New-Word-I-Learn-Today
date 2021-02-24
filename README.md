@@ -1387,3 +1387,7 @@
 629. Scotland:-  the headquaters of the London police force.
 
 630. Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+### 24-Feb-21
+631. Incandescence:-  inner gloe or light.
+
