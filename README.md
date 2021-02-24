@@ -1391,3 +1391,5 @@
 ### 24-Feb-21
 631. Incandescence:-  inner gloe or light.
 
+632. Enormous:-  very big
+
