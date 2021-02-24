@@ -1393,3 +1393,5 @@
 
 632. Enormous:-  very big
 
+633. Stirred:-  move.
+
