@@ -1404,3 +1404,5 @@
 
 637. Resort:-  a place where people go on holidays.
 
+638. Triggered:-  caused.
+
