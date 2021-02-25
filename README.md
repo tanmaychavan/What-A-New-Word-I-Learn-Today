@@ -1402,3 +1402,5 @@
 ### 25-Feb-21
 636. Traumatised:-  greatly shocked and distressed.
 
+637. Resort:-  a place where people go on holidays.
+
