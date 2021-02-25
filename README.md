@@ -1408,3 +1408,4 @@
 
 639. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
 
+640. Refuge:-  Shelter or protection from danger.
