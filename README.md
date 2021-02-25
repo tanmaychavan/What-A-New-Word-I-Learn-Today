@@ -1406,3 +1406,5 @@
 
 638. Triggered:-  caused.
 
+639. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+
