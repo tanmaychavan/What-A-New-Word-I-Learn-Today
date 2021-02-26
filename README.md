@@ -1413,3 +1413,5 @@
 ### 26-Feb-21
 641. Grimace:-  twistead expression (on the face) due to pain.
 
+642. Acorns:-  small brown nuts.
+
