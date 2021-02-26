@@ -1417,3 +1417,5 @@
 
 643. Sidled back:-  walk back quitely, trying not to be noticed.
 
+644. Evare which way:-  in diffecult direction.
+
