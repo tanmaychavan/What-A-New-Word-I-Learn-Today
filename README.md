@@ -1415,3 +1415,5 @@
 
 642. Acorns:-  small brown nuts.
 
+643. Sidled back:-  walk back quitely, trying not to be noticed.
+
