@@ -1426,3 +1426,5 @@
 
 647. Woing for:-  was selling for.
 
+648. Restore:-   repair.
+
