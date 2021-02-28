@@ -1419,8 +1419,8 @@
 
 644. Evare which way:-  in diffecult direction.
 
-### 27-Feb-21
 645. Spotted it:-  found.
+### 27-Feb-21
 
 646. Scorch marks:-  burn marks.
 
@@ -1428,3 +1428,4 @@
 
 648. Restore:-   repair.
 
+649. Venner:-  A thin layer of plastic or decorative.
