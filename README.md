@@ -1424,3 +1424,5 @@
 
 646. Scorch marks:-  burn marks.
 
+647. Woing for:-  was selling for.
+
