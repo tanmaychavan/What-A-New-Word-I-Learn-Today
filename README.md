@@ -1422,3 +1422,5 @@
 ### 27-Feb-21
 645. Spotted it:-  found.
 
+646. Scorch marks:-  burn marks.
+
