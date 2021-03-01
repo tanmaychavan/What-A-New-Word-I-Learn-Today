@@ -1429,3 +1429,16 @@
 648. Restore:-   repair.
 
 649. Venner:-  A thin layer of plastic or decorative.
+
+650. Grimace:-  twistead expression (on the face) due to pain.
+
+### 1-Mar-21
+651. Glumy:-  sadly/gloomily.
+
+652. Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+653. Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+654. Paniked:-  wasd very worriedd.
+
+655. Wobbiy:-  unstady
