@@ -1442,3 +1442,14 @@
 654. Paniked:-  wasd very worriedd.
 
 655. Wobbiy:-  unstady
+
+### 2-Mar-21
+656. Ordeals:-  Painful experiences.
+
+657. Sleek:-  smooth and shiny.
+
+658. Didn't beat about the bush:-  came straight to the point.
+
+659. Blankets:-  covers.
+
+660. Inhabinants:-  people living in the valley; dwellers.
