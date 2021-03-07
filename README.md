@@ -1453,3 +1453,15 @@
 659. Blankets:-  covers.
 
 660. Inhabinants:-  people living in the valley; dwellers.
+
+### 7-Mar-21
+661. Spotted it:-  found.
+
+662. Scorch marks:-  burn marks.
+
+663. Woing for:-  was selling for.
+
+664. Restore:-   repair.
+
+665. Venner:-  A thin layer of plastic or decorative.
+
