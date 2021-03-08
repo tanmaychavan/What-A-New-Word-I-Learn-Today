@@ -1465,3 +1465,13 @@
 
 665. Venner:-  A thin layer of plastic or decorative.
 
+### 8-Mar-21
+666. Taken their toll on:- damaged.
+
+667. Stuck fast:- shut tight.
+
+668. Scruples: feelings that makes you hesitate to do something wrong.
+
+669. Standing to:- taking up positions.
+
+670. Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
