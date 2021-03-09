@@ -1475,3 +1475,14 @@
 669. Standing to:- taking up positions.
 
 670. Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
+
+### 9-Mar-21
+671. Scarlet minivet:- brightf red bird like a cuckoo.
+
+672. Drongo:- a song-bird with a stout bill.
+
+673. Drumming:- falling noisily.
+
+674. Disconsolately:- unhappily.
+
+675. ravine:- valley.
