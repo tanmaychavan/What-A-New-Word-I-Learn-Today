@@ -1486,3 +1486,14 @@
 674. Disconsolately:- unhappily.
 
 675. ravine:- valley.
+
+### 10-Mar-21
+676. Immense:- huge
+
+677. Enormous:- very big.
+
+678. Gigantic:- immense.
+
+679. Clustering:- gathering.
+
+680. Being:- kind, gentle.
