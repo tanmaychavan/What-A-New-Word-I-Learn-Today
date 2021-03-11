@@ -1497,3 +1497,14 @@
 679. Clustering:- gathering.
 
 680. Being:- kind, gentle.
+
+### 11-Mar-21
+681. Incandescence:- inner gloe or light.
+
+682. Accesory:- not essential but extra, though decorative.
+
+683. Inflection:- rise and fall of the voice in specing.
+
+684. Cliche:- phrase used so often that it loses its meaning.
+
+685. Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
