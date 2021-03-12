@@ -1508,3 +1508,14 @@
 684. Cliche:- phrase used so often that it loses its meaning.
 
 685. Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
+
+### 12-Mar-21
+686. Bracing:- stimulating.
+
+687. Going nuts:- going mad.
+
+688. Geting into people's hair:- interfering.
+
+689. Sleuthing:- investing.
+
+690. Carry on:- continue.
