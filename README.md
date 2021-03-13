@@ -1519,3 +1519,14 @@
 689. Sleuthing:- investing.
 
 690. Carry on:- continue.
+
+### 13-Mar-21
+691. A china deer:- a clay deer that is easily broken.
+
+692. Sleek:- smooth and shiny.
+
+693. light-headed:- unabel to think clearly.
+
+694. Romp:- play.
+
+695. Alarm:- frighten.
