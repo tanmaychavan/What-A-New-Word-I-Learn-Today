@@ -1530,3 +1530,14 @@
 694. Romp:- play.
 
 695. Alarm:- frighten.
+
+### 14-03-21
+696. rimace:- twistead expression (on the face) due to pain.
+
+697. Glumy:- sadly/gloomily.
+
+698. Making his head spin:- givinh him a headache/making him feel dizzy.
+
+699. Chutney:- (here) run over/killed; crushed and ground into chutney.
+
+700. Paniked:- wasd very worriedd.
