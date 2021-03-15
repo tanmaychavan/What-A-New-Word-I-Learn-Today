@@ -1552,3 +1552,5 @@
 704. menace:-  threaten. 
 
 705. Perpendicular:-  (cliff or rock-face) rising very steeply.
+
+### 16-Mar-21
