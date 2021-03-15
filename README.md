@@ -1531,7 +1531,7 @@
 
 695. Alarm:- frighten.
 
-### 14-03-21
+### 14-Mar-21
 696. rimace:- twistead expression (on the face) due to pain.
 
 697. Glumy:- sadly/gloomily.
@@ -1541,3 +1541,14 @@
 699. Chutney:- (here) run over/killed; crushed and ground into chutney.
 
 700. Paniked:- wasd very worriedd.
+
+### 15-Mar-21
+701Crevices:-  narrow openings or cracks in rock or wall.
+
+702. Shrew:-  (find its hindi equivalent in the next sentance).
+
+703. Caress:-  touching or holding lovingly 
+
+704. menace:-  threaten. 
+
+705. Perpendicular:-  (cliff or rock-face) rising very steeply.
