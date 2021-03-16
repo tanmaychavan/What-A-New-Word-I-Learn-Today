@@ -1554,3 +1554,12 @@
 705. Perpendicular:-  (cliff or rock-face) rising very steeply.
 
 ### 16-Mar-21
+706. A china deer:- a clay deer that is easily broken.
+
+707. Sleek:- smooth and shiny.
+
+708. light-headed:- unabel to think clearly.
+
+709. Romp:- play.
+
+710. Alarm:- frighten.
