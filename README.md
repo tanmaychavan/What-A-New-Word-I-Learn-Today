@@ -1563,3 +1563,14 @@
 709. Romp:- play.
 
 710. Alarm:- frighten.
+
+### 17-Mar-21
+711. A china deer:- a clay deer that is easily broken.
+
+712. Sleek:- smooth and shiny.
+
+713. light-headed:- unabel to think clearly.
+
+714. Romp:- play.
+
+715. Alarm:- frighten.
