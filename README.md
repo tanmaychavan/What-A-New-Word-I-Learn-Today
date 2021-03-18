@@ -1574,3 +1574,14 @@
 714. Romp:- play.
 
 715. Alarm:- frighten.
+
+### 18-Mar-21
+716. Burned out:- destroy by fire.
+
+717. Boarded up:- covered with wodden boards.
+
+718. Middel headed:- confused.
+
+719. Lit up:- became bright with happiness.
+
+720. Suffused with:- spred all over her face.
