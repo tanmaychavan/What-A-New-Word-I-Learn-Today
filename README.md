@@ -1585,3 +1585,14 @@
 719. Lit up:- became bright with happiness.
 
 720. Suffused with:- spred all over her face.
+
+19-Mar-21
+721. flatter:- make happy
+
+722. self possessed:- calm and confident
+
+723. bustled:- entered noisly
+
+724. birds:- no birds or very few
+
+725. clamour:- loud noice
