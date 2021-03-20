@@ -1596,3 +1596,14 @@
 724. birds:- no birds or very few
 
 725. clamour:- loud noice
+
+### 20-Mar-21
+726. Fritz:-  a name for a german soldiers.
+
+727. That would be that:-  that was the end of the matter.
+
+728. Cello:-  a muisical instrunment like large violin.
+
+729. Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
+730. Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
