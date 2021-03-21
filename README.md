@@ -1609,3 +1609,12 @@
 730. Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
 
 ### 21-Mar-21
+731. Balked:- (also baulked) was unwilling (to do something).
+
+732. Worsted sockes:- woolen socks.
+
+733. Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+
+734. Buoyant:- intensely active and vibrant.
+
+735. Torso:- upper of the body.
