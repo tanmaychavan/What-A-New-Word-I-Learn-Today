@@ -1618,3 +1618,14 @@
 734. Buoyant:- intensely active and vibrant.
 
 735. Torso:- upper of the body.
+
+### 22-Mar-21
+736. Grimace:- twistead expression (on the face) due to pain.
+
+737. Glumy:- sadly/gloomily.
+
+738. Making his head spin:- givinh him a headache/making him feel dizzy.
+
+739. Chutney:- (here) run over/killed; crushed and ground into chutney.
+
+740. Paniked:- wasd very worriedd.
