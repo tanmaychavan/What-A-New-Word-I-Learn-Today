@@ -1629,3 +1629,14 @@
 739. Chutney:- (here) run over/killed; crushed and ground into chutney.
 
 740. Paniked:- wasd very worriedd.
+
+### 23-Mar-21
+741. Spotted it:- found.
+
+742. Scorch marks:- burn marks.
+
+743. Woing for:- was selling for.
+
+744. Restore:- repair.
+
+745. Venner:- A thin layer of plastic or decorative.
