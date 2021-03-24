@@ -1640,3 +1640,12 @@
 744. Restore:- repair.
 
 745. Venner:- A thin layer of plastic or decorative.
+
+### 24-Mar-21
+Ordeals:- Painful experiences.
+
+Resolutely:- with determination of frimless.
+
+Nip'd:- (nipped) 'to nip something in the bud' is to stop or destroy it st an early stage of its development.
+
+Strip'd:- stripped.
