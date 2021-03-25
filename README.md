@@ -1651,3 +1651,13 @@ Nip'd:- (nipped) 'to nip something in the bud' is to stop or destroy it st an ea
 Strip'd:- stripped.
 
 ### 25-Mar-21
+
+utter disbelief: complete surprise
+
+losing his mind: becoming mad
+
+intimate: very personal and private
+
+bracing: stimulating
+
+going nuts: going mad / crazy
