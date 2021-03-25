@@ -1649,3 +1649,5 @@ Resolutely:- with determination of frimless.
 Nip'd:- (nipped) 'to nip something in the bud' is to stop or destroy it st an early stage of its development.
 
 Strip'd:- stripped.
+
+### 25-Mar-21
