@@ -1661,3 +1661,14 @@ intimate: very personal and private
 bracing: stimulating
 
 going nuts: going mad / crazy
+
+### 26-Mar-21
+Torso:-  upper part of the body
+
+incandescence:- inner glow or light 
+
+accessory:- not essential
+
+infection:- rise and fall of the voise in speaking
+
+gleefully:- very happy
