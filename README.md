@@ -1672,3 +1672,14 @@ accessory:- not essential
 infection:- rise and fall of the voise in speaking
 
 gleefully:- very happy
+
+### 27-Mar-21
+Traumatised:- greatly shocked and distressed.
+
+Resort:- a place where people go on holidays.
+
+Triggered:- caused.
+
+Hysterical:- When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+
+Refuge:- Shelter or protection from danger.
