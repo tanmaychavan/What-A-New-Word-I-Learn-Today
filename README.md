@@ -1683,3 +1683,14 @@ Triggered:- caused.
 Hysterical:- When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
 
 Refuge:- Shelter or protection from danger.
+
+### 28-Mar-21
+Taken their toll on:- damaged.
+
+Stuck fast:- shut tight.
+
+Scruples: feelings that makes you hesitate to do something wrong.
+
+Standing to:- taking up positions.
+
+Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
