@@ -1705,3 +1705,14 @@ Middel headed:-  confused.
 Lit up:-  became bright with happiness.
 
 Suffused with:-  spred all over her face.
+
+### 30 -Mar-21
+Awfully:-  Extremly
+
+Crinkly:- with many floods in lines
+
+Attic:- a space just below the roof, use as a storeroom.
+
+Scornful:- comtemptuous; showing you think something is worthless
+
+Loftily:- in a superior way
