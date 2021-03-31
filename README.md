@@ -1716,3 +1716,14 @@ Attic:- a space just below the roof, use as a storeroom.
 Scornful:- comtemptuous; showing you think something is worthless
 
 Loftily:- in a superior way
+
+### 31-Mar-21
+Geared:-  adjust to a particular  standard or level
+
+Superior:- higher in rank or excellence
+
+regular:- here,  normal; of the usual kind
+
+dispute:- disagree with
+
+nonchalantly:- not showing much intrest or enthusiasm; careless
