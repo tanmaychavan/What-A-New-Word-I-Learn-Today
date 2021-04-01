@@ -1738,3 +1738,14 @@ Scruples:  feelings that makes you hesitate to do something wrong.
 Standing to:-  taking up positions.
 
 Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 2-April-21
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+Alarm:-  frighten.
