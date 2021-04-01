@@ -1727,3 +1727,14 @@ regular:- here,  normal; of the usual kind
 dispute:- disagree with
 
 nonchalantly:- not showing much intrest or enthusiasm; careless
+
+### 1-April-21
+Taken their toll on:-  damaged.
+
+Stuck fast:-  shut tight.
+
+Scruples:  feelings that makes you hesitate to do something wrong.
+
+Standing to:-  taking up positions.
+
+Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
