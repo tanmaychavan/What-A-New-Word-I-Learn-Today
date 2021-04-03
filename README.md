@@ -1749,3 +1749,25 @@ light-headed:-  unabel to think clearly.
 Romp:-  play.
 
 Alarm:-  frighten.
+
+### 3-April-21
+Fritz:-  a name for a german soldiers.
+
+That would be that:-  that was the end of the matter.
+
+Cello:-  a muisical instrunment like large violin.
+
+Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
+Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
+
+### 4-April-21
+Burned out:-  destroy by fire.
+
+Boarded up:-  covered with wodden boards.
+
+Middel headed:-  confused.
+
+Lit up:-  became bright with happiness.
+
+Suffused with:-  spred all over her face.
