@@ -1761,3 +1761,13 @@ Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
 
 Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
                                                         
+### 4-April-21
+Scorch marks:-  burn marks.
+
+Woing for:-  was selling for.
+
+Restore:-   repair.
+
+Venner:-  A thin layer of plastic or decorative.
+
+ Clustering:-  gathering.	
