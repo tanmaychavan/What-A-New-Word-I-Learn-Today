@@ -1770,4 +1770,15 @@ Restore:-   repair.
 
 Venner:-  A thin layer of plastic or decorative.
 
- Clustering:-  gathering.	
+Clustering:-  gathering.	
+ 
+### 5-April-21
+Amateur:- doing something for personal enjoyment rather than as a profession
+ 
+Regimentation:- order or discipline taken to an extreme
+
+Stifled:- unable to breath; suffocated
+
+Leberal:- willing to understand and respect others opinions
+
+Ally:- a friend or an associate
