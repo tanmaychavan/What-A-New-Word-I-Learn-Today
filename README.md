@@ -1782,3 +1782,14 @@ Stifled:- unable to breath; suffocated
 Leberal:- willing to understand and respect others opinions
 
 Ally:- a friend or an associate
+
+### 6-April-21
+Jostle:- push roughly
+
+Slight:- small and thin
+
+Dounting:- froghtening
+
+Aspiring musician:- a person who wants to be a musician
+
+Workaholic:- (informal) a person who finds it difficult to stop working
