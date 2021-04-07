@@ -1793,3 +1793,14 @@ Dounting:- froghtening
 Aspiring musician:- a person who wants to be a musician
 
 Workaholic:- (informal) a person who finds it difficult to stop working
+
+### 7-April-21
+Impaired:-  weakened
+
+xylophone:-  a musical instrument with a row of wooden bares of different lengths
+
+percussionist:- aperson who plays the drum, the tabala etc.
+
+potential:- quality or ability that can be developed 
+
+audinoned:- gave a short performance so that the director could decide wheather she was good enough.
