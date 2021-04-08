@@ -1804,3 +1804,14 @@ percussionist:- aperson who plays the drum, the tabala etc.
 potential:- quality or ability that can be developed 
 
 audinoned:- gave a short performance so that the director could decide wheather she was good enough.
+
+### 8-April-21
+Oblivious:-  forgetful.
+
+Astronomer:-   schlor of the science of the sun, moon, stars, planets, etc.
+
+Eccentric:-  Unusual/unlike the orbitsof other planets.
+
+Optimistic:-  hopeful; excepting the best
+
+Smudges:-  spots/marks
