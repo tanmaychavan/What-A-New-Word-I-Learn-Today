@@ -1815,3 +1815,14 @@ Eccentric:-  Unusual/unlike the orbitsof other planets.
 Optimistic:-  hopeful; excepting the best
 
 Smudges:-  spots/marks
+
+### 9-April-21
+Incandescence:-  inner gloe or light.
+
+Enormous:-  very big
+
+Stirred:-  move.
+
+Clustering:-  gathering.
+
+Fathomless:-  So deep that depth can't be measured.
