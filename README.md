@@ -1837,3 +1837,14 @@ In retribution of:-  as a punishment.
 Surged:-  arose suddenly and intensely.
 
 ponorama:-  view of a wide area.
+
+### 11-April-21
+Grimace:-  twistead expression (on the face) due to pain.
+
+Glumy:-  sadly/gloomily.
+
+Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+Paniked:-  wasd very worriedd.
