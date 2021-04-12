@@ -1848,3 +1848,14 @@ Making his head spin:-  givinh him a headache/making him feel dizzy.
 Chutney:-  (here) run over/killed; crushed and ground into chutney.
 
 Paniked:-  wasd very worriedd.
+
+### 12-April-21
+Taken their toll on:-  damaged.
+
+Stuck fast:-  shut tight.
+
+Scruples:  feelings that makes you hesitate to do something wrong.
+
+Standing to:-  taking up positions.
+
+Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
