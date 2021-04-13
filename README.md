@@ -1859,3 +1859,14 @@ Scruples:  feelings that makes you hesitate to do something wrong.
 Standing to:-  taking up positions.
 
 Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 13-April-21
+Burned out:-  destroy by fire.
+
+Boarded up:-  covered with wodden boards.
+
+Middel headed:-  confused.
+
+Lit up:-  became bright with happiness.
+
+Suffused with:-  spred all over her face.
