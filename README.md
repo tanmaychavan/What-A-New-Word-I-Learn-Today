@@ -1852,21 +1852,32 @@ Paniked:-  wasd very worriedd.
 ### 12-April-21
 Taken their toll on:-  damaged.
 
-Stuck fast:-  shut tight.
+Stuck fast:-  Shut tight.
 
-Scruples:  feelings that makes you hesitate to do something wrong.
+Scruples:  Feelings that makes you hesitate to do something wrong.
 
-Standing to:-  taking up positions.
+Standing to:-  Taking up positions.
 
-Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+Trenches:-  Long deep ditches in the ground where soldiers hide from the enemy.
 
 ### 13-April-21
-Burned out:-  destroy by fire.
+Burned out:-  Destroy by fire.
 
-Boarded up:-  covered with wodden boards.
+Boarded up:-  Covered with wodden boards.
 
-Middel headed:-  confused.
+Middel headed:-  Confused.
 
-Lit up:-  became bright with happiness.
+Lit up:-  Became bright with happiness.
 
-Suffused with:-  spred all over her face.
+Suffused with:-  Spred all over her face.
+
+### 14-April-21
+Proclaim:- Make known publicly or officially
+
+Febrile confusion:- Hurried activity; complete chaos
+
+Shrine:- A place of worship
+
+Haven:- A safe place
+
+Marzipan:- A sweet made with grated almond
