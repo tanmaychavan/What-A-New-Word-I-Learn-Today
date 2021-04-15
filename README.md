@@ -1881,3 +1881,14 @@ Shrine:- A place of worship
 Haven:- A safe place
 
 Marzipan:- A sweet made with grated almond
+
+### 15-April-21
+Brazier:- Open Stove
+
+Nauseating:- Sickening
+
+Per-se:- By itself
+
+Meditatively:- Thoughtfully
+
+Offhanded:- Casual; not showing much interest in something
