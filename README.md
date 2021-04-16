@@ -1892,3 +1892,14 @@ Per-se:- By itself
 Meditatively:- Thoughtfully
 
 Offhanded:- Casual; not showing much interest in something
+
+### 16-April-21
+Taken their toll on:-  damaged.
+
+Stuck fast:-  shut tight.
+
+Scruples:  feelings that makes you hesitate to do something wrong.
+
+Standing to:-  taking up positions.
+
+Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
