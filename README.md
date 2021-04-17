@@ -1903,3 +1903,14 @@ Scruples:  feelings that makes you hesitate to do something wrong.
 Standing to:-  taking up positions.
 
 Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 17-April-21
+Oblivious:-  forgetful.
+
+Astronomer:-   schlor of the science of the sun, moon, stars, planets, etc.
+
+Eccentric:-  Unusual/unlike the orbitsof other planets.
+
+Optimistic:-  hopeful; excepting the best
+
+Smudges:-  spots/marks
