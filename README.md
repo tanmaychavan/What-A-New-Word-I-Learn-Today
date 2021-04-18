@@ -1914,3 +1914,14 @@ Eccentric:-  Unusual/unlike the orbitsof other planets.
 Optimistic:-  hopeful; excepting the best
 
 Smudges:-  spots/marks
+
+### 18-April-21
+Plants strip'd of joy:-  if joy is taken away from plants.
+
+Drift back to:-  go back to.
+
+Dilated:-  enlarged.
+
+A close shave:-  a narrow escape.
+
+Kept your head:-  stead clam in a difficult situation.
