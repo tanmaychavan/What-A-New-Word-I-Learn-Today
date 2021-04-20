@@ -1942,10 +1942,10 @@ Colvulsion:-  shiver.
 ### 20-April-21
 Traumatised:-  greatly shocked and distressed.
 
-27. Resort:-  a place where people go on holidays.
+Resort:-  a place where people go on holidays.
 
-28. Triggered:-  caused.
+Triggered:-  caused.
 
-29. Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
 
-30. Refuge:-  Shelter or protection from danger.
+Refuge:-  Shelter or protection from danger.
