@@ -1960,3 +1960,14 @@ Feline:-  or relating to.
 Depravity:-  moral corruption.
 
 Idle chat:-  unnecessary routine conservasition.
+
+### 22-April-21
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+Alarm:-  frighten.
