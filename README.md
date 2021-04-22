@@ -1949,3 +1949,14 @@ Triggered:-  caused.
 Hysterical:-  When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
 
 Refuge:-  Shelter or protection from danger.
+
+### 21-April-21
+Levitation:-  floating in the air without any support.
+
+Fiend:-  devil.
+
+Feline:-  or relating to.
+
+Depravity:-  moral corruption.
+
+Idle chat:-  unnecessary routine conservasition.
