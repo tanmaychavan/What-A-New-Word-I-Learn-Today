@@ -1982,3 +1982,14 @@ Head reeled:-  He was shoked and confused.
 Losing his mind:-  becoming mad.
 
 Intimate:-  very personal and private.
+
+### 24-April-21
+Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+ponorama:-  view of a wide area.
+
+Restore:-   repair.
+
+Withstood:-  endured without collapsing.
+
+Triggered:-  caused.
