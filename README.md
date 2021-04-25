@@ -1993,3 +1993,14 @@ Restore:-   repair.
 Withstood:-  endured without collapsing.
 
 Triggered:-  caused.
+
+### 25-April-21
+Procured:-  got (with a littel difficulty)
+
+Came round:-  regained conciousness.
+
+In retribution of:-  as a punishment.
+
+Surged:-  arose suddenly and intensely.
+
+ponorama:-  view of a wide area.
