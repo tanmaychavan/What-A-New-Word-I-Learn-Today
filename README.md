@@ -2015,3 +2015,14 @@ Gather his wits together:-  make an effort to become calm and think clearly.
 Having a rough time:-  having a lot of problems.
 
 Turning up like a bad penny:-  appearing at a place where one is not welcome.
+
+### 27-April-21
+Scarlet minivet:-  brightf red bird like a cuckoo.
+
+Drongo:-  a song-bird with a stout bill.
+
+Drumming:-  falling noisily.
+
+Disconsolately:-  unhappily.
+
+ravine:-  valley.
