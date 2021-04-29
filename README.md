@@ -164,9 +164,9 @@
 
 75. Ascent:-  climb.
 
+### 5-Oct-20
 76. Make your obeisance:-  show your obedience or subimmision.
 
-### 5-Oct-20
 77. Ordeals:-  Painful experiences.
 
 78. Resolutely:-  with determination of frimless.
@@ -2026,3 +2026,25 @@ Drumming:-  falling noisily.
 Disconsolately:-  unhappily.
 
 ravine:-  valley.
+
+### 28-April-21
+76. Make your obeisance:-  show your obedience or subimmision.
+
+77. Ordeals:-  Painful experiences.
+
+78. Resolutely:-  with determination of frimless.
+
+79. Nip'd:-  (nipped) 'to nip something in the bud' is to stop or destroy it st an early stage of its development.
+
+80. Strip'd:-  stripped.
+
+### 29-April-21
+81. Plants strip'd of joy:-  if joy is taken away from plants.
+
+82. Drift back to:-  go back to.
+
+83. Dilated:-  enlarged.
+
+84. A close shave:-  a narrow escape.
+
+85. Kept your head:-  stead clam in a difficult situation.
