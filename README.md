@@ -2048,3 +2048,14 @@ ravine:-  valley.
 84. A close shave:-  a narrow escape.
 
 85. Kept your head:-  stead clam in a difficult situation.
+
+### 30-April-21
+Scarlet minivet:- brightf red bird like a cuckoo.
+
+Drongo:- a song-bird with a stout bill.
+
+Drumming:- falling noisily.
+
+Disconsolately:- unhappily.
+
+ravine:- valley.
