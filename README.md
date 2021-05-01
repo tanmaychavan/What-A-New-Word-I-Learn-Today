@@ -2059,3 +2059,14 @@ Caress:-  touching or holding lovingly
 menace:-  threaten. 
 
 Perpendicular:-  (cliff or rock-face) rising very steeply.
+
+### 1-May-21
+Procured:-  got (with a littel difficulty)
+
+Came round:-  regained conciousness.
+
+In retribution of:-  as a punishment.
+
+Surged:-  arose suddenly and intensely.
+
+ponorama:-  view of a wide area.
