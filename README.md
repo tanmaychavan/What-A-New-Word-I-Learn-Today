@@ -2048,3 +2048,14 @@ ravine:-  valley.
 84. A close shave:-  a narrow escape.
 
 85. Kept your head:-  stead clam in a difficult situation.
+
+### 30-April-21
+Crevices:-  narrow openings or cracks in rock or wall.
+
+Shrew:-  (find its hindi equivalent in the next sentance).
+
+Caress:-  touching or holding lovingly 
+
+menace:-  threaten. 
+
+Perpendicular:-  (cliff or rock-face) rising very steeply.
