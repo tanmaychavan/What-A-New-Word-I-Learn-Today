@@ -2060,3 +2060,24 @@ Disconsolately:- unhappily.
 
 ravine:- valley.
                                      
+### 1-May-21
+Plants strip'd of joy:- if joy is taken away from plants.
+
+Drift back to:- go back to.
+
+Dilated:- enlarged.
+
+A close shave:- a narrow escape.
+
+Kept your head:- stead clam in a difficult situation.
+
+### 2-May-21
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+Alarm:-  frighten.
