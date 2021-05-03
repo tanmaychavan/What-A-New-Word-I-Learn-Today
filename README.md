@@ -2081,3 +2081,15 @@ light-headed:-  unabel to think clearly.
 Romp:-  play.
 
 Alarm:-  frighten.
+
+### 3-May-21
+Council:- a group of people choose to give advice or to make rules
+
+Councillers:- members of a council
+
+Hermit:- aperson who lives alone and lead a simple life
+
+Wood/Woods:- a small forest
+
+Beds:- smaill patches of ground for plants
+
