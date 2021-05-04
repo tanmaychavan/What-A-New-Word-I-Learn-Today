@@ -2093,3 +2093,13 @@ Wood/Woods:- a small forest
 
 Beds:- smaill patches of ground for plants
 
+### 4-May-21
+efied:- frustrated;resisted.
+
+Mystical:- spiritual.
+
+Firm in:- make your self firm.
+
+Belays:- fixes a rope.
+
+Ascent:- climb.
