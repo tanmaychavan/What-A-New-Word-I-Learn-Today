@@ -2103,3 +2103,14 @@ Firm in:- make your self firm.
 Belays:- fixes a rope.
 
 Ascent:- climb.
+
+### 5-May-21
+Blankets:- covers.
+
+Fern:- a flower less plant with festhery green leaves.
+
+Heralded:- announced or brought the news of.
+
+Imprecations:- curses.
+
+Bloodletting:- losing blood (Decades ago, leeches where used to remove blood from a patient's body)
