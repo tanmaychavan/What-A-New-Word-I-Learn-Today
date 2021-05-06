@@ -2114,3 +2114,15 @@ Heralded:- announced or brought the news of.
 Imprecations:- curses.
 
 Bloodletting:- losing blood (Decades ago, leeches where used to remove blood from a patient's body)
+
+### 6-May-21
+Jubilant:- Very happy because of success.
+
+Tinge:- trace/shade.
+
+Exhaustion:- fatigue;tiredness.
+
+Exhilarating:- very exciting.
+
+Communion:- state of felling close relationsheep.
+
