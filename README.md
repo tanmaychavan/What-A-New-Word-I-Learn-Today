@@ -2058,7 +2058,6 @@ Caress:-  touching or holding lovingly
 
 menace:-  threaten. 
 
- HEAD
 Perpendicular:-  (cliff or rock-face) rising very steeply.
 
 ravine:- valley.
@@ -2138,5 +2137,3 @@ Exhaustion:- fatigue;tiredness.
 Exhilarating:- very exciting.
 
 Communion:- state of felling close relationsheep.
-
- bd258822caf049dab4ba70a95b733d8cc80ff2a5
