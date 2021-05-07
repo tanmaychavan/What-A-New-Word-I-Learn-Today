@@ -2058,8 +2058,11 @@ Caress:-  touching or holding lovingly
 
 menace:-  threaten. 
 
+ HEAD
 Perpendicular:-  (cliff or rock-face) rising very steeply.
 
+ravine:- valley.
+                                     
 ### 1-May-21
 Procured:-  got (with a littel difficulty)
 
@@ -2070,3 +2073,70 @@ In retribution of:-  as a punishment.
 Surged:-  arose suddenly and intensely.
 
 ponorama:-  view of a wide area.
+
+Plants strip'd of joy:- if joy is taken away from plants.
+
+Drift back to:- go back to.
+
+Dilated:- enlarged.
+
+A close shave:- a narrow escape.
+
+Kept your head:- stead clam in a difficult situation.
+
+### 2-May-21
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+Alarm:-  frighten.
+
+### 3-May-21
+Council:- a group of people choose to give advice or to make rules
+
+Councillers:- members of a council
+
+Hermit:- aperson who lives alone and lead a simple life
+
+Wood/Woods:- a small forest
+
+Beds:- smaill patches of ground for plants
+
+### 4-May-21
+efied:- frustrated;resisted.
+
+Mystical:- spiritual.
+
+Firm in:- make your self firm.
+
+Belays:- fixes a rope.
+
+Ascent:- climb.
+
+### 5-May-21
+Blankets:- covers.
+
+Fern:- a flower less plant with festhery green leaves.
+
+Heralded:- announced or brought the news of.
+
+Imprecations:- curses.
+
+Bloodletting:- losing blood (Decades ago, leeches where used to remove blood from a patient's body)
+
+### 6-May-21
+Jubilant:- Very happy because of success.
+
+Tinge:- trace/shade.
+
+Exhaustion:- fatigue;tiredness.
+
+Exhilarating:- very exciting.
+
+Communion:- state of felling close relationsheep.
+
+ bd258822caf049dab4ba70a95b733d8cc80ff2a5
