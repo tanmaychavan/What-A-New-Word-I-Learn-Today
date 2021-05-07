@@ -2137,3 +2137,14 @@ Exhaustion:- fatigue;tiredness.
 Exhilarating:- very exciting.
 
 Communion:- state of felling close relationsheep.
+
+### 7-May-21
+Burned out:- destroy by fire.
+
+Boarded up:- covered with wodden boards.
+
+Middel headed:- confused.
+
+Lit up:- became bright with happiness.
+
+Suffused with:- spred all over her face.
