@@ -2159,3 +2159,6 @@ Cello:- a muisical instrunment like large violin.
 Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 
 Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+
+### 9-May-21
+Scrawny:- thin (suggesting skinny toes)
