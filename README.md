@@ -2164,3 +2164,6 @@ Dugout:- a shelte for sholdiers made by digging a whole in the ground and coveri
 Scrawny:- thin (suggesting skinny toes)
 
 Patti:- grandmother (in tamil)
+
+Throw her off the scent:- mislead her so that she won't understand the real purpose
+
