@@ -2162,3 +2162,5 @@ Dugout:- a shelte for sholdiers made by digging a whole in the ground and coveri
 
 ### 9-May-21
 Scrawny:- thin (suggesting skinny toes)
+
+Patti:- grandmother (in tamil)
