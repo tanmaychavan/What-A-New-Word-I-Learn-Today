@@ -2167,3 +2167,4 @@ Patti:- grandmother (in tamil)
 
 Throw her off the scent:- mislead her so that she won't understand the real purpose
 
+ThaTha:- grandfather (in tamil)
