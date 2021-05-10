@@ -2173,3 +2173,5 @@ Descended from:- a descended of, or comes from, the same family
 
 ### 10-May-21
 Stowaway:- someone who hides himself/herself in a ship or an aircraft to travel unnoticed
+
+weire:- strange or unusual
