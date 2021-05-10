@@ -2170,3 +2170,6 @@ Throw her off the scent:- mislead her so that she won't understand the real purp
 ThaTha:- grandfather (in tamil)
 
 Descended from:- a descended of, or comes from, the same family
+
+### 10-May-21
+Stowaway:- someone who hides himself/herself in a ship or an aircraft to travel unnoticed
