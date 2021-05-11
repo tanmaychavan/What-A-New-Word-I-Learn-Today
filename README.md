@@ -2188,3 +2188,5 @@ Beringed:- the musicmaster is wearing a ring
 Snooze:- short sleep
 
 Kept my body and soul together:- managed to stay alive
+
+Fed up:- tired and unhappy
