@@ -2174,4 +2174,13 @@ Descended from:- a descended of, or comes from, the same family
 ### 10-May-21
 Stowaway:- someone who hides himself/herself in a ship or an aircraft to travel unnoticed
 
-weire:- strange or unusual
+weird:- strange or unusual
+
+Glided:- moved aling smoothly
+
+Veshti:- dhoti (in tamil)
+
+Stumbled:- followed haltingly
+
+### 11-May-21
+Beringed:- the musicmaster is wearing a ring
