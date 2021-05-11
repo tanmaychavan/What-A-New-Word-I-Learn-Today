@@ -2184,3 +2184,5 @@ Stumbled:- followed haltingly
 
 ### 11-May-21
 Beringed:- the musicmaster is wearing a ring
+
+Snooze:- short sleep
