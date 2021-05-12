@@ -2197,3 +2197,5 @@ Blisters:- boils/bubbles on the skin, from burns or rubbing
 Eyes filling:- with tears
 
 Unappreciative:- disapproving
+
+Lurking:- wating quitely (without attracting attention)
