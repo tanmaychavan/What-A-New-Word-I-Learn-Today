@@ -2201,3 +2201,5 @@ Unappreciative:- disapproving
 Lurking:- wating quitely (without attracting attention)
 
 Clattered off:- gone off nosely (with the noise of clatter of chappales)
+
+Daimios:- (in 19th century Japan) wealthy landowners
