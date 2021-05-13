@@ -2212,3 +2212,5 @@ A being with a soul:-  like a human child (showing imotion)
 Turned up:- dug up
 
 On purpose:- Intentionally
+
+Gleamed:- shone/glittered
