@@ -2225,3 +2225,6 @@ Covetous:- greedy
 Crone:- old women (old man's wife)
 
 Flung:- threw
+
+### 15-May-21
+Carcass:- Dead body
