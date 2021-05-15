@@ -2232,3 +2232,5 @@ Carcass:- Dead body
 Mortar:- Bowl
 
 Ponuding:- crushing
+
+Stingy:- miserly
