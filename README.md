@@ -2228,3 +2228,5 @@ Flung:- threw
 
 ### 15-May-21
 Carcass:- Dead body
+
+Mortar:- Bowl
