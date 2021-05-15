@@ -2230,3 +2230,5 @@ Flung:- threw
 Carcass:- Dead body
 
 Mortar:- Bowl
+
+Ponuding:- crushing
