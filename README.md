@@ -2216,4 +2216,6 @@ On purpose:- Intentionally
 Gleamed:- shone/glittered
 
 ### 14-May-21
-                                                                     
+Coaxed:- persuaded; enticed
+
+Dainties:- testy food
