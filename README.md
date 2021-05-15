@@ -2219,3 +2219,5 @@ Gleamed:- shone/glittered
 Coaxed:- persuaded; enticed
 
 Dainties:- testy food
+
+Covetous:- greedy
