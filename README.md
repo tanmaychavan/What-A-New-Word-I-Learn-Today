@@ -2221,3 +2221,5 @@ Coaxed:- persuaded; enticed
 Dainties:- testy food
 
 Covetous:- greedy
+
+Crone:- old women (old man's wife)
