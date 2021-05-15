@@ -2234,3 +2234,5 @@ Mortar:- Bowl
 Ponuding:- crushing
 
 Stingy:- miserly
+
+Turned up there noisess:- treated him with contempt
