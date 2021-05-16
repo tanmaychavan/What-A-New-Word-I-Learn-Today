@@ -2236,3 +2236,6 @@ Ponuding:- crushing
 Stingy:- miserly
 
 Turned up there noisess:- treated him with contempt
+
+### 16-May-21
+Train:- procession
