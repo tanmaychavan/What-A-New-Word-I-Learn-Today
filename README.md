@@ -2243,3 +2243,5 @@ Train:- procession
 Prostrate:- lying on the ground face down ward
 
 Palanquin:- royal van/cart
+
+Glefully:- happily
