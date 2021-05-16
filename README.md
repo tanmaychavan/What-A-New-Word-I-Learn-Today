@@ -2241,3 +2241,5 @@ Turned up there noisess:- treated him with contempt
 Train:- procession
 
 Prostrate:- lying on the ground face down ward
+
+Palanquin:- royal van/cart
