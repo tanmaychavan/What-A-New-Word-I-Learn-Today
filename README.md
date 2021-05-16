@@ -2245,3 +2245,5 @@ Prostrate:- lying on the ground face down ward
 Palanquin:- royal van/cart
 
 Glefully:- happily
+
+A practice:- even a little bit
