@@ -2250,3 +2250,5 @@ A practice:- even a little bit
 
 ### 17-May-21
 Seized:- caught
+
+Green:- (here) healthy, active and prosperous
