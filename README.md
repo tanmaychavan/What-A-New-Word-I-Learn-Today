@@ -2252,3 +2252,5 @@ A practice:- even a little bit
 Seized:- caught
 
 Green:- (here) healthy, active and prosperous
+
+Lasted Terribly:- lasted very long
