@@ -2254,3 +2254,5 @@ Seized:- caught
 Green:- (here) healthy, active and prosperous
 
 Lasted Terribly:- lasted very long
+
+Guttural:- harsh and grating
