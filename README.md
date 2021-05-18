@@ -2258,3 +2258,6 @@ Lasted Terribly:- lasted very long
 Guttural:- harsh and grating
 
 Stashed away:- hidden away
+
+### 18-May-21
+Following:- coming after
