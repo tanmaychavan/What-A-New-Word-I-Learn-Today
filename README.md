@@ -2263,3 +2263,5 @@ Stashed away:- hidden away
 Following:- coming after
 
 Gaunt:- sickly
+
+Peek:- look quickly and secretively
