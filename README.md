@@ -2261,3 +2261,5 @@ Stashed away:- hidden away
 
 ### 18-May-21
 Following:- coming after
+
+Gaunt:- sickly
