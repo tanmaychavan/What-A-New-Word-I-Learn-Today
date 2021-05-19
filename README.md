@@ -2278,3 +2278,5 @@ By appointment to:- official choosen(by some one important)
 Alias:- an alternate name
 
 Accomplice:- a helper in crime
+
+Smouldering:- burning slowely with flame4
