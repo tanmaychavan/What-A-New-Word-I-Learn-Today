@@ -2269,3 +2269,6 @@ Peek:- look quickly and secretively
 Tips well:- gives a generous tip (money in thanks for services)
 
 Sort out:- arrange systematically
+
+### 19-May-21
+Crook:- criminal (informal)
