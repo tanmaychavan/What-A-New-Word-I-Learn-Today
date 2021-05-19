@@ -2274,3 +2274,5 @@ Sort out:- arrange systematically
 Crook:- criminal (informal)
 
 By appointment to:- official choosen(by some one important)
+
+Alias:- an alternate name
