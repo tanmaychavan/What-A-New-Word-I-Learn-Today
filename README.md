@@ -2272,3 +2272,5 @@ Sort out:- arrange systematically
 
 ### 19-May-21
 Crook:- criminal (informal)
+
+By appointment to:- official choosen(by some one important)
