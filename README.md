@@ -2287,3 +2287,5 @@ Set to work:- began to work
 Recipe:- instructions for making something
 
 Fir:- a tree with needlelike leaves, and cones
+
+Oak:- a family of large trees with a hard woods
