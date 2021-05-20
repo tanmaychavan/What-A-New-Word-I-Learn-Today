@@ -2289,3 +2289,5 @@ Recipe:- instructions for making something
 Fir:- a tree with needlelike leaves, and cones
 
 Oak:- a family of large trees with a hard woods
+
+Cedar:- evergreen tree with hard, red sweet-smelliingwood, used for making boxes, penciles, etc.
