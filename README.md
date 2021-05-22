@@ -2311,3 +2311,5 @@ Smothered:- suffocated(from lack of air)
 extinguish:- put out
 
 Bands:- groups
+
+Equipment:- things needed
