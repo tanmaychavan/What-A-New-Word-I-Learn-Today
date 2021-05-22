@@ -2309,3 +2309,5 @@ Add fuel to the flames(idiom): say or do
 Smothered:- suffocated(from lack of air)
 
 extinguish:- put out
+
+Bands:- groups
