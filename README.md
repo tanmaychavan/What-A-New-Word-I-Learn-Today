@@ -2312,4 +2312,4 @@ extinguish:- put out
 
 Bands:- groups
 
-Equipment:- things needed
+Equipment:- things needed 
