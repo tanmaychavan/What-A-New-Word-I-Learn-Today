@@ -2292,4 +2292,16 @@ Oak:- a family of large trees with a hard woods
 
 Cedar:- evergreen tree with hard, red sweet-smelliingwood, used for making boxes, penciles, etc.
 
+### 21-May-21
+Pine:- an evergreen tree with needleshaped leaves and cones
 
+Flea:- a small insect living on the skin of animals, for their blood
+
+Tracked down:- found by searching for it
+
+Generate:- produce
+
+Smouldering:- burning without flame
+
+### 22-May-21
+Add fuel to the flames(idiom): say or do
