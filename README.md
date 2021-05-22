@@ -2305,3 +2305,5 @@ Smouldering:- burning without flame
 
 ### 22-May-21
 Add fuel to the flames(idiom): say or do
+
+Smothered:- suffocated(from lack of air)
