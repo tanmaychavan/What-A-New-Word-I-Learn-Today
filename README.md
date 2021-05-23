@@ -2313,3 +2313,6 @@ extinguish:- put out
 Bands:- groups
 
 Equipment:- things needed 
+
+### 23-May-21
+Cope:- with; manage
