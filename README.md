@@ -2316,5 +2316,5 @@ Equipment:- things needed
 
 ### 23-May-21
 Cope:- with; manage
-
+ 
 Whacking:- beating; striking
