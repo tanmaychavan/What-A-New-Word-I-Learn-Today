@@ -2318,3 +2318,9 @@ Equipment:- things needed
 Cope:- with; manage
  
 Whacking:- beating; striking
+
+Wobble:- move unsteadly
+
+Twiddling:- turning
+
+Remnant:- remaining parts
