@@ -2324,3 +2324,25 @@ Wobble:- move unsteadly
 Twiddling:- turning
 
 Remnant:- remaining parts
+
+### 24-May-21
+Bearings:- ball bearings
+
+Grovelled:- crawled on ground
+
+See to the chain:- check or examine the chain
+
+Ravages:- damages
+
+Luntic:- mad person 
+
+### 25-May-21
+Muddle:- mix up things
+
+Topsy-turvy:- upside down
+
+Inexplicable:- that can't be explained; mysterous
+
+Off/on side:- off side is that side of the field which the batsman is facing to receive the ball
+
+Degenerated into:- were reduced
