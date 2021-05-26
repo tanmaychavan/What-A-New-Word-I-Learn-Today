@@ -2346,3 +2346,14 @@ Inexplicable:- that can't be explained; mysterous
 Off/on side:- off side is that side of the field which the batsman is facing to receive the ball
 
 Degenerated into:- were reduced
+
+### 26-May-21
+Draw:- resualt of a game in whic nither side wins or looses
+
+Baseball:- game played with a bat and ball by two teams of nine players each on a field with four bases
+
+Dimensions;- length; breadth. etc
+
+Oval:- shaped like an egg
+
+Condifident:- Standardise with rules and regulations
