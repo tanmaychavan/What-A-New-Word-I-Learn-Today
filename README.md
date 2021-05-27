@@ -2357,3 +2357,15 @@ Dimensions;- length; breadth. etc
 Oval:- shaped like an egg
 
 Condifident:- Standardise with rules and regulations
+
+
+### 27-May-21
+Aback:- backwords
+
+Abacus:- counting-frame
+
+Abaft:- behind
+
+Abandon:- to give up completely
+
+Abash:- to cause to feel embarrassed
