@@ -2358,7 +2358,6 @@ Oval:- shaped like an egg
 
 Condifident:- Standardise with rules and regulations
 
-
 ### 27-May-21
 Aback:- backwords
 
@@ -2369,3 +2368,14 @@ Abaft:- behind
 Abandon:- to give up completely
 
 Abash:- to cause to feel embarrassed
+
+### 28-May-21
+Allusion:- passing reference
+
+Ally:- a freind or friendly nation
+
+Alpha:- the first letter in greek alphabet
+
+Aloe:- plant with thik sharp pointed leave
+
+Almost:- very nearly
