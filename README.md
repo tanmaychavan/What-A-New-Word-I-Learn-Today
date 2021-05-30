@@ -2395,3 +2395,5 @@ Acre:- a measure of land
 Acquire:- to get, to obtain
 
 Adjudicate:- to give a jadgement or decision upon
+
+Adman:- a person who works in advertising
