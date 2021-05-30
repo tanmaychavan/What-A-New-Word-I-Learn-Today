@@ -2379,3 +2379,17 @@ Alpha:- the first letter in greek alphabet
 Aloe:- plant with thik sharp pointed leave
 
 Almost:- very nearly
+
+### 29-May-21
+Acoustic:- having to do with sound of hearing
+
+Acquaintance:- knowledge gained through experience
+
+Acquiesce:- to agree; to accept
+
+Acrobat:- rope-dancer
+
+Acre:- a measure of land
+
+### 30-May-21
+Acquire:- to get, to obtain
