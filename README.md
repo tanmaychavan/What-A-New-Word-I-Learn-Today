@@ -2393,3 +2393,5 @@ Acre:- a measure of land
 
 ### 30-May-21
 Acquire:- to get, to obtain
+
+Adjudicate:- to give a jadgement or decision upon
