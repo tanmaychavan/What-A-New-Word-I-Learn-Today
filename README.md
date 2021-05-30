@@ -2399,3 +2399,5 @@ Adjudicate:- to give a jadgement or decision upon
 Adman:- a person who works in advertising
 
 Adduce:- to put forward
+
+Adept:- proficient
