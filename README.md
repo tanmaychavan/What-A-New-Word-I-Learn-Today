@@ -2401,3 +2401,6 @@ Adman:- a person who works in advertising
 Adduce:- to put forward
 
 Adept:- proficient
+
+### 1-April-21
+Belated:- Too late
