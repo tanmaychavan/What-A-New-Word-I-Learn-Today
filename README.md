@@ -2408,3 +2408,5 @@ Belated:- Too late
 Belittle:- to cause to seem unimportant
 
 Blefry:- Brll tower
+
+Befuddle:- to confuse
