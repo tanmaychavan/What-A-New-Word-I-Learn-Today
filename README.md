@@ -2402,7 +2402,7 @@ Adduce:- to put forward
 
 Adept:- proficient
 
-### 1-April-21
+### 31-April-21
 Belated:- Too late
 
 Belittle:- to cause to seem unimportant
@@ -2410,3 +2410,5 @@ Belittle:- to cause to seem unimportant
 Blefry:- Brll tower
 
 Befuddle:- to confuse
+
+Before:- earlier than
