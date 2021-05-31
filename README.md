@@ -2404,3 +2404,5 @@ Adept:- proficient
 
 ### 1-April-21
 Belated:- Too late
+
+Belittle:- to cause to seem unimportant
