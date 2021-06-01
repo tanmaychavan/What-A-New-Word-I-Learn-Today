@@ -2415,3 +2415,5 @@ Before:- earlier than
 
 ### 1-June-21
 Aspirin:- medicinal substanceused for colds and to take away pain
+
+Audible:- loud enough to be heard
