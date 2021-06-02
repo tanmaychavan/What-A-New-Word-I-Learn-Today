@@ -2427,3 +2427,5 @@ Caress:- touching or holding lovingly
 ### 2-June-21
 menace:- threaten.
 
+Incandescence:- inner gloe or light.
+
