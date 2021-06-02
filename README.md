@@ -2417,3 +2417,13 @@ Before:- earlier than
 Aspirin:- medicinal substanceused for colds and to take away pain
 
 Audible:- loud enough to be heard
+
+revices:- narrow openings or cracks in rock or wall.
+
+Shrew:- (find its hindi equivalent in the next sentance).
+
+Caress:- touching or holding lovingly
+
+### 2-June-21
+menace:- threaten.
+
