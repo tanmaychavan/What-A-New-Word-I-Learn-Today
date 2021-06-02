@@ -2429,3 +2429,5 @@ menace:- threaten.
 
 Incandescence:- inner gloe or light.
 
+Accesory:- not essential but extra, though decorative.
+
