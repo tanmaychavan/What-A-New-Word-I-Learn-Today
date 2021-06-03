@@ -2437,3 +2437,6 @@ Cliche:- phrase used so often that it loses its meaning.
 
 ### 3-June-21
 Meek:-  quite
+
+Utter Disbelief:-  complete surprise.
+
