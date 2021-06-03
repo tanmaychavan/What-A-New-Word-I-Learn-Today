@@ -2434,3 +2434,6 @@ Accesory:- not essential but extra, though decorative.
 Inflection:- rise and fall of the voice in specing.
 
 Cliche:- phrase used so often that it loses its meaning.
+
+### 3-June-21
+Meek:-  quite
