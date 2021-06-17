@@ -2436,19 +2436,160 @@ Inflection:- rise and fall of the voice in specing.
 Cliche:- phrase used so often that it loses its meaning.
 
 ### 3-June-21
-Meek:-  quite
+Make your obeisance:-  show your obedience or subimmision.
 
-Utter Disbelief:-  complete surprise.
+Ordeals:-  Painful experiences.
 
+Resolutely:-  with determination of frimless.
 
+Nip'd:-  (nipped) 'to nip something in the bud' is to stop or destroy it st an early stage of its development.
 
+Strip'd:-  stripped.
 
+### 4-June-21
+Oblivious:-  forgetful.
 
+Astronomer:-   schlor of the science of the sun, moon, stars, planets, etc.
 
+Eccentric:-  Unusual/unlike the orbitsof other planets.
 
+Optimistic:-  hopeful; excepting the best
 
+Smudges:-  spots/marks
 
+### 5-June-21
+Scarlet minivet:-  brightf red bird like a cuckoo.
 
+Drongo:-  a song-bird with a stout bill.
 
+Drumming:-  falling noisily.
 
+isconsolately:-  unhappily.
 
+ravine:-  valley.
+
+### 6-June-21
+Fritz:-  a name for a german soldiers.
+
+That would be that:-  that was the end of the matter.
+
+Cello:-  a muisical instrunment like large violin.
+
+Marzipan:-  a sweet covering on a cake made from sugar, eggs and almonds.
+
+Dugout:-  a shelte for sholdiers made by digging a whole in the ground and covering it.
+
+### 7-June-21
+Scorch marks:-  burn marks.
+
+Woing for:-  was selling for.
+
+Restore:-   repair.
+
+Venner:-  A thin layer of plastic or decorative.
+
+Clustering:-  gathering.
+
+### 8-June-21
+Ordeals:-  Painful experiences.
+
+Sleek:-  smooth and shiny.
+
+Didn't beat about the bush:-  came straight to the point.
+
+Blankets:-  covers.
+
+Inhabinants:-  people living in the valley; dwellers.
+### 9-June-21
+Self-possessed:-  calm and canfident; sure of him self
+
+Endeavoured:-  tried
+
+Flatter:-  make (her) happy
+
+Suggest masculine habitation
+
+moor:-  grassland
+### 10-June-21
+Crevices:-  narrow openings or cracks in rock or wall.
+
+Shrew:-  (find its hindi equivalent in the next sentance).
+
+Caress:-  touching or holding lovingly 
+
+menace:-  threaten. 
+
+Perpendicular:-  (cliff or rock-face) rising very steeply.
+
+### 11-June-21
+Taken their toll on:-  damaged.
+
+Stuck fast:-  shut tight.
+
+Scruples:  feelings that makes you hesitate to do something wrong.
+
+Standing to:-  taking up positions.
+
+Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 12-June-21
+Prophecy:-  ststement that tells what will happen in the future.
+
+Pensive:- thoughtful.
+
+Stirred:-  move.
+
+Inhabinants:-  people living in the valley; dwellers.
+
+Labour:-  work.
+### 13-June-21
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+### 14-June-21
+Grimace:-  twistead expression (on the face) due to pain.
+
+Glumy:-  sadly/gloomily.
+
+Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+Paniked:-  wasd very worriedd.
+
+### 15-June-21
+Immense:-  huge
+
+Enormous:-  very big.
+
+Gigantic:-  immense.
+
+Clustering:-  gathering.
+
+Being:-  kind, gentle.
+
+### 16-June-21
+Grimace:-  twistead expression (on the face) due to pain.
+
+Glumy:-  sadly/gloomily.
+
+Making his head spin:-  givinh him a headache/making him feel dizzy.
+
+Chutney:-  (here) run over/killed; crushed and ground into chutney.
+
+Paniked:-  wasd very worriedd.
+### 17-June-21
+Flying Squad:-  a group of police or soldiers ready to move into action quickly.
+
+ponorama:-  view of a wide area.
+
+Restore:-   repair.
+
+Withstood:-  endured without collapsing.
+
+Triggered:-  caused.
