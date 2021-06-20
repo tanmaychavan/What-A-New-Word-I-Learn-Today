@@ -2620,3 +2620,5 @@ ravine:-  valley.
 Taken their toll on:-  damaged.
 
 Colvulsion:-  shiver.
+
+Caress:-  touching or holding lovingly 
