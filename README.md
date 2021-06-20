@@ -2622,3 +2622,5 @@ Taken their toll on:-  damaged.
 Colvulsion:-  shiver.
 
 Caress:-  touching or holding lovingly 
+
+Woing for:-  was selling for.
