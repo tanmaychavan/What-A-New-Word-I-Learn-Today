@@ -208,8 +208,6 @@
 
 95. Delirious:-  (here) extremely excited.
 
-95. Colvulsion:-  shiver.
-
 ### 9-Oct-20
 96. A china deer:-  a clay deer that is easily broken.
 
@@ -2637,3 +2635,6 @@ Didn't beat about the bush:-  came straight to the point.
 Inhabinants:-  people living in the valley; dwellers.
 
 Blankets:-  covers.
+
+### 22-June-21
+Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
