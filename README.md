@@ -2645,3 +2645,4 @@ Parted:-  moved or pushed aside.
 
 Quivering:-  shaking slightly.
 
+Delirious:-  (here) extremely excited.
