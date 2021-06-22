@@ -2626,3 +2626,6 @@ Caress:-  touching or holding lovingly
 Woing for:-  was selling for.
 
 Sleuthing:- investing.
+
+### 21-June-21
+Ordeals:-  Painful experiences.
