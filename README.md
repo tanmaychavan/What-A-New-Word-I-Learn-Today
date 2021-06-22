@@ -2629,3 +2629,5 @@ Sleuthing:- investing.
 
 ### 21-June-21
 Ordeals:-  Painful experiences.
+
+Sleek:-  smooth and shiny.
