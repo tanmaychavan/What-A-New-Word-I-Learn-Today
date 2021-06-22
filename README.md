@@ -2642,3 +2642,6 @@ Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
 Adjacent:-  nearby.
 
 Parted:-  moved or pushed aside.
+
+Quivering:-  shaking slightly.
+
