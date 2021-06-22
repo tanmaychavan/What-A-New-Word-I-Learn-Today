@@ -2631,3 +2631,5 @@ Sleuthing:- investing.
 Ordeals:-  Painful experiences.
 
 Sleek:-  smooth and shiny.
+
+Didn't beat about the bush:-  came straight to the point.
