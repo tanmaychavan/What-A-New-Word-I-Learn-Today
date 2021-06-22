@@ -2638,3 +2638,5 @@ Blankets:-  covers.
 
 ### 22-June-21
 Buzzard:-  a large bird like the vulture that eats the flesh of deatd animals.
+
+Adjacent:-  nearby.
