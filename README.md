@@ -2633,3 +2633,5 @@ Ordeals:-  Painful experiences.
 Sleek:-  smooth and shiny.
 
 Didn't beat about the bush:-  came straight to the point.
+
+Inhabinants:-  people living in the valley; dwellers.
