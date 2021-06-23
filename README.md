@@ -2653,3 +2653,5 @@ Self-possessed:-  calm and canfident; sure of him self
 Endeavoured:-  tried
 
 Flatter:-  make (her) happy
+
+Suggest masculine habitation
