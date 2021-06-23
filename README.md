@@ -2649,3 +2649,5 @@ Delirious:-  (here) extremely excited.
 
 ### 23-June-21
 Self-possessed:-  calm and canfident; sure of him self
+
+Endeavoured:-  tried
