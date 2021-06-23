@@ -2646,3 +2646,6 @@ Parted:-  moved or pushed aside.
 Quivering:-  shaking slightly.
 
 Delirious:-  (here) extremely excited.
+
+### 23-June-21
+Self-possessed:-  calm and canfident; sure of him self
