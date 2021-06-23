@@ -2651,3 +2651,5 @@ Delirious:-  (here) extremely excited.
 Self-possessed:-  calm and canfident; sure of him self
 
 Endeavoured:-  tried
+
+Flatter:-  make (her) happy
