@@ -2657,3 +2657,6 @@ Flatter:-  make (her) happy
 Suggest masculine habitation
 
 moor:-  grassland
+
+### 24-June-21
+pulled:-  arrived
