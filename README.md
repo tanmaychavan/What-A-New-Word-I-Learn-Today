@@ -2662,3 +2662,5 @@ moor:-  grassland
 pulled:-  arrived
 
 wobby:-  unsteady
+
+glumly:- sadly
