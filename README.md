@@ -2668,3 +2668,6 @@ glumly:- sadly
 tiffin:- snack
 
 squashay:;- crushed
+
+### 25-June-21
+Immense:- huge
