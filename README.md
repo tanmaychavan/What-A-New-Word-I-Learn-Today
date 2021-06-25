@@ -2677,3 +2677,5 @@ Enormous:- very big.
 Gigantic:- immense.
 
 Clustering:- gathering.
+
+Being:- kind, gentle.
