@@ -2671,3 +2671,5 @@ squashay:;- crushed
 
 ### 25-June-21
 Immense:- huge
+
+Enormous:- very big.
