@@ -2673,3 +2673,5 @@ squashay:;- crushed
 Immense:- huge
 
 Enormous:- very big.
+
+Gigantic:- immense.
