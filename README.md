@@ -2693,3 +2693,5 @@ Carry on:- continue.
 
 ### 27-June-21
 Incandescence:- inner gloe or light.
+
+Accesory:- not essential but extra, though decorative.
