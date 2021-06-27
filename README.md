@@ -2690,3 +2690,6 @@ Geting into people's hair:- interfering.
 Sleuthing:- investing.
 
 Carry on:- continue.
+
+### 27-June-21
+Incandescence:- inner gloe or light.
