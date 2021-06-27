@@ -2699,3 +2699,5 @@ Accesory:- not essential but extra, though decorative.
 Inflection:- rise and fall of the voice in specing.
 
 Cliche:- phrase used so often that it loses its meaning.
+
+Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
