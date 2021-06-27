@@ -2695,3 +2695,5 @@ Carry on:- continue.
 Incandescence:- inner gloe or light.
 
 Accesory:- not essential but extra, though decorative.
+
+Inflection:- rise and fall of the voice in specing.
