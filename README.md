@@ -2718,3 +2718,5 @@ Levitation:- floating in the air without any support.
 
 Fiend:- devil.
 
+Feline:- or relating to.
+
