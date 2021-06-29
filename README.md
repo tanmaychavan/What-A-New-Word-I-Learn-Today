@@ -2722,3 +2722,4 @@ Feline:- or relating to.
 
 Depravity:- moral corruption.
 
+Delirious:-  (here) extremely excited.
