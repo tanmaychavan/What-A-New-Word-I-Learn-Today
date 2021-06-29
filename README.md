@@ -2704,3 +2704,5 @@ Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear o
 
 ### 28-June-21
 Conscientious: careful and correct.
+
+Head was in whirl:- confused and anable to think clearly.
