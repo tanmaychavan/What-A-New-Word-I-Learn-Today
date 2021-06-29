@@ -2720,3 +2720,5 @@ Fiend:- devil.
 
 Feline:- or relating to.
 
+Depravity:- moral corruption.
+
