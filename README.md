@@ -2709,3 +2709,5 @@ Head was in whirl:- confused and anable to think clearly.
 
 Gather his wits together:- make an effort to become calm and think clearly.
 
+Having a rough time:- having a lot of problems.
+
