@@ -2706,3 +2706,6 @@ Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear o
 Conscientious: careful and correct.
 
 Head was in whirl:- confused and anable to think clearly.
+
+Gather his wits together:- make an effort to become calm and think clearly.
+
