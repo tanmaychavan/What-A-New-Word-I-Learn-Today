@@ -2701,3 +2701,6 @@ Inflection:- rise and fall of the voice in specing.
 Cliche:- phrase used so often that it loses its meaning.
 
 Claustrophobic:- very small and suffocating ('claustrophobic' is abnormal fear of being in an enclosed space).
+
+### 28-June-21
+Conscientious: careful and correct.
