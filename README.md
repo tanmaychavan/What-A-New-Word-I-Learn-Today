@@ -2712,3 +2712,7 @@ Gather his wits together:- make an effort to become calm and think clearly.
 Having a rough time:- having a lot of problems.
 
 Turning up like a bad penny:- appearing at a place where one is not welcome.
+
+### 29-June-21
+Levitation:- floating in the air without any support.
+
