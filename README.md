@@ -2716,3 +2716,5 @@ Turning up like a bad penny:- appearing at a place where one is not welcome.
 ### 29-June-21
 Levitation:- floating in the air without any support.
 
+Fiend:- devil.
+
