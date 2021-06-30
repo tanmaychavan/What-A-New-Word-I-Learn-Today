@@ -2723,3 +2723,7 @@ Feline:- or relating to.
 Depravity:- moral corruption.
 
 Delirious:-  (here) extremely excited.
+
+### 30-Jun-21
+lankets:- covers.
+
