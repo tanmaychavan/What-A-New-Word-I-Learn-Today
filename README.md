@@ -2733,3 +2733,4 @@ Heralded:- announced or brought the news of.
 
 Imprecations:- curses.
 
+Bloodletting:- losing blood (Decades ago, leeches where used to remove blood from a patient's body)
