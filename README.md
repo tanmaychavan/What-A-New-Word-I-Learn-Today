@@ -2729,3 +2729,5 @@ lankets:- covers.
 
 Fern:- a flower less plant with festhery green leaves.
 
+Heralded:- announced or brought the news of.
+
