@@ -2727,3 +2727,5 @@ Delirious:-  (here) extremely excited.
 ### 30-Jun-21
 lankets:- covers.
 
+Fern:- a flower less plant with festhery green leaves.
+
