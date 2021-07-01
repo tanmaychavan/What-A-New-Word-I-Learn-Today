@@ -2742,3 +2742,5 @@ Tremor:- the earth's shakes during an earthquick.
 
 Chaos:- complete disorder or confusion.
 
+Relief helicoptors:- helicoptors bringing help to people.
+
