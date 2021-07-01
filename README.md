@@ -2744,3 +2744,4 @@ Chaos:- complete disorder or confusion.
 
 Relief helicoptors:- helicoptors bringing help to people.
 
+Reced:- move back from where it was.
