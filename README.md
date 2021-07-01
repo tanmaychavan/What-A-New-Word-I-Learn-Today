@@ -2734,3 +2734,7 @@ Heralded:- announced or brought the news of.
 Imprecations:- curses.
 
 Bloodletting:- losing blood (Decades ago, leeches where used to remove blood from a patient's body)
+
+### 1-July-21
+Archipelago:- a group of many islands and the surrounding area.
+
