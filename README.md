@@ -2738,3 +2738,5 @@ Bloodletting:- losing blood (Decades ago, leeches where used to remove blood fro
 ### 1-July-21
 Archipelago:- a group of many islands and the surrounding area.
 
+Tremor:- the earth's shakes during an earthquick.
+
