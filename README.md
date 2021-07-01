@@ -2740,3 +2740,5 @@ Archipelago:- a group of many islands and the surrounding area.
 
 Tremor:- the earth's shakes during an earthquick.
 
+Chaos:- complete disorder or confusion.
+
