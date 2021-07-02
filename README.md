@@ -2749,3 +2749,5 @@ Reced:- move back from where it was.
 ### 2-July-21
 Withstood:- endured without collapsing.
 
+Sure:- momentum.
+
