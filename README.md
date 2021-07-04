@@ -2753,3 +2753,5 @@ Sure:- momentum.
 
 Bechance:- happen/chance to happen.
 
+Sojourn:- stay.
+
