@@ -2761,3 +2761,9 @@ Radiance:- glow.
 Restore:- repair.
 
 Withstood:- endured without collapsing.
+
+Acquiesce:- to agree; to accept
+
+Acrobat:- rope-dancer
+
+Acre:- a measure of land
