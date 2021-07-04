@@ -2751,3 +2751,5 @@ Withstood:- endured without collapsing.
 
 Sure:- momentum.
 
+Bechance:- happen/chance to happen.
+
