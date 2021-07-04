@@ -2755,3 +2755,4 @@ Bechance:- happen/chance to happen.
 
 Sojourn:- stay.
 
+Radiance:- glow.
