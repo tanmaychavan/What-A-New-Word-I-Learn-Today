@@ -2756,3 +2756,8 @@ Bechance:- happen/chance to happen.
 Sojourn:- stay.
 
 Radiance:- glow.
+
+### 3-July-21
+Restore:- repair.
+
+Withstood:- endured without collapsing.
