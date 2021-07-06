@@ -2810,3 +2810,4 @@ light-headed:-  unabel to think clearly.
 
 Romp:-  play.
 
+Alarm:-  frighten.
