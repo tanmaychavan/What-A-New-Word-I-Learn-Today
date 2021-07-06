@@ -2804,3 +2804,5 @@ Venner:-  A thin layer of plastic or decorative.
 ### 7-June-21
 A china deer:-  a clay deer that is easily broken.
 
+Sleek:-  smooth and shiny.
+
