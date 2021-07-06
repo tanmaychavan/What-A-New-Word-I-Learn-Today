@@ -2808,3 +2808,5 @@ Sleek:-  smooth and shiny.
 
 light-headed:-  unabel to think clearly.
 
+Romp:-  play.
+
