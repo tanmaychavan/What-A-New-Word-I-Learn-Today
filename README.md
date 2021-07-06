@@ -2767,3 +2767,40 @@ Acquiesce:- to agree; to accept
 Acrobat:- rope-dancer
 
 Acre:- a measure of land
+
+### 4-June-21
+Plants strip'd of joy:- if joy is taken away from plants.
+
+Drift back to:- go back to.
+
+Dilated:- enlarged.
+
+A close shave:- a narrow escape.
+
+Kept your head:- stead clam in a difficult situation.
+
+### 5-June-21
+Taken their toll on:- damaged.
+
+Stuck fast:- shut tight.
+
+Scruples: feelings that makes you hesitate to do something wrong.
+
+Standing to:- taking up positions.
+
+Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
+
+### 6-June-21
+Spotted it:-  found.
+
+Scorch marks:-  burn marks.
+
+Woing for:-  was selling for.
+
+Restore:-   repair.
+
+Venner:-  A thin layer of plastic or decorative.
+
+### 7-June-21
+A china deer:-  a clay deer that is easily broken.
+
