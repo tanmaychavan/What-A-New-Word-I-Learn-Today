@@ -2806,3 +2806,5 @@ A china deer:-  a clay deer that is easily broken.
 
 Sleek:-  smooth and shiny.
 
+light-headed:-  unabel to think clearly.
+
