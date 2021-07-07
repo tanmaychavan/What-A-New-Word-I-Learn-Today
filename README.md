@@ -2819,3 +2819,5 @@ Drift back to:- go back to.
 
 Dilated:- enlarged.
 
+A close shave:- a narrow escape.
+
