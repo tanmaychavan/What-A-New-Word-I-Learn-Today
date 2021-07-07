@@ -2768,7 +2768,7 @@ Acrobat:- rope-dancer
 
 Acre:- a measure of land
 
-### 4-June-21
+### 4-July-21
 Plants strip'd of joy:- if joy is taken away from plants.
 
 Drift back to:- go back to.
@@ -2779,7 +2779,7 @@ A close shave:- a narrow escape.
 
 Kept your head:- stead clam in a difficult situation.
 
-### 5-June-21
+### 5-July-21
 Taken their toll on:- damaged.
 
 Stuck fast:- shut tight.
@@ -2790,7 +2790,7 @@ Standing to:- taking up positions.
 
 Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
 
-### 6-June-21
+### 6-July-21
 Spotted it:-  found.
 
 Scorch marks:-  burn marks.
@@ -2801,7 +2801,7 @@ Restore:-   repair.
 
 Venner:-  A thin layer of plastic or decorative.
 
-### 7-June-21
+### 7-July-21
 A china deer:-  a clay deer that is easily broken.
 
 Sleek:-  smooth and shiny.
@@ -2811,3 +2811,7 @@ light-headed:-  unabel to think clearly.
 Romp:-  play.
 
 Alarm:-  frighten.
+
+### 8-July-21
+Plants strip'd of joy:- if joy is taken away from plants.
+
