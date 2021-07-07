@@ -2815,3 +2815,5 @@ Alarm:-  frighten.
 ### 8-July-21
 Plants strip'd of joy:- if joy is taken away from plants.
 
+Drift back to:- go back to.
+
