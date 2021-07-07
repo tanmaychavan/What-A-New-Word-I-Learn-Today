@@ -2817,3 +2817,5 @@ Plants strip'd of joy:- if joy is taken away from plants.
 
 Drift back to:- go back to.
 
+Dilated:- enlarged.
+
