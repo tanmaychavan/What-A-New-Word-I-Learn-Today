@@ -2830,3 +2830,5 @@ Tremor:- a slight shake Earth tremors:the earth shake during earthquick
 
 Chaos:- complete disorder or confusion [pronounced, kay-os]
 
+Relief helicopter:- helicopter bringing help to people (e.g during floods
+
