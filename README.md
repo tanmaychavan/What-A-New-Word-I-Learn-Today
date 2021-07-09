@@ -2832,3 +2832,4 @@ Chaos:- complete disorder or confusion [pronounced, kay-os]
 
 Relief helicopter:- helicopter bringing help to people (e.g during floods
 
+Reced:- move back from where it was
