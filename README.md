@@ -2822,3 +2822,7 @@ Dilated:- enlarged.
 A close shave:- a narrow escape.
 
 Kept your head:- stead clam in a difficult situation.
+
+### 9-June-21
+Archipelago:- a griup of many islands and the surrounding sea
+
