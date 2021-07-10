@@ -2837,4 +2837,5 @@ Reced:- move back from where it was
 ### 10-July-21
 Respite:- relief
 
+Enormous:-  very big
 
