@@ -2839,3 +2839,5 @@ Respite:- relief
 
 Enormous:-  very big
 
+Stirred:-  move.
+
