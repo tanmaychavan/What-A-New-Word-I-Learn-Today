@@ -2823,7 +2823,7 @@ A close shave:- a narrow escape.
 
 Kept your head:- stead clam in a difficult situation.
 
-### 9-June-21
+### 9-July-21
 Archipelago:- a griup of many islands and the surrounding sea
 
 Tremor:- a slight shake Earth tremors:the earth shake during earthquick
@@ -2833,3 +2833,8 @@ Chaos:- complete disorder or confusion [pronounced, kay-os]
 Relief helicopter:- helicopter bringing help to people (e.g during floods
 
 Reced:- move back from where it was
+
+### 10-July-21
+Respite:- relief
+
+
