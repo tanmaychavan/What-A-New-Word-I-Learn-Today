@@ -2841,3 +2841,5 @@ Enormous:-  very big
 
 Stirred:-  move.
 
+Clustering:-  gathering.
+
