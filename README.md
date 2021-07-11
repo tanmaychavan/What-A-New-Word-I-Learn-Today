@@ -2850,3 +2850,5 @@ Grimace:- twistead expression (on the face) due to pain.
 
 Glumy:- sadly/gloomily.
 
+Making his head spin:- givinh him a headache/making him feel dizzy.
+
