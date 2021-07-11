@@ -2852,3 +2852,5 @@ Glumy:- sadly/gloomily.
 
 Making his head spin:- givinh him a headache/making him feel dizzy.
 
+Chutney:- (here) run over/killed; crushed and ground into chutney.
+
