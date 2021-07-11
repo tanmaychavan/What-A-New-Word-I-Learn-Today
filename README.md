@@ -2848,3 +2848,5 @@ Fathomless:-  So deep that depth can't be measured.
 ### 10-July-21
 Grimace:- twistead expression (on the face) due to pain.
 
+Glumy:- sadly/gloomily.
+
