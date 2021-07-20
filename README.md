@@ -2872,7 +2872,7 @@ Incandescence:- inner gloe or light
 ### 13-July-21
  
 ### 14-July-21
-
+ 
 ### 15-July-21
 
 ### 16-July-21
