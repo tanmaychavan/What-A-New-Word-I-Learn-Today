@@ -2980,3 +2980,5 @@ Bake :- to cook or cooked
 ### 22-July-21
 Bakehouse:- bakery
 
+Baker:- one who bakes bread
+
