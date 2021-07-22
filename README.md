@@ -2868,24 +2868,115 @@ Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 Incandescence:- inner gloe or light
 
 ### 12-July-21
- 
+Aurist:- an ear speciallist
+
+Authentic:- real,true
+
+Authenticate:- to established as valid
+
+Auther:- writer
+
+Authoritative:- accepted as being true or relable
+
 ### 13-July-21
- 
+Authority:- legal power or right
+
+Authorize:- to empower
+
+Auto:- automobile
+
+Autobiography:- life story written by oneself
+
+Autocracy:- goverment by an individual with ultimate power
+
 ### 14-July-21
- 
+Autocart:- rule with ultimate power
+
+Autodidact:- a person who is self-taught
+
+Autogiro:- an early form of helicopter
+
+Autograph:- handwriten signature
+
+Automatic:- self-moving
+
 ### 15-July-21
+Autonomy:- self-government
+
+Autospy:- an examination of the dead body
+
+Autosuggestion:- a mental process similar to suggestion
+
+Auxiliary:- helpful
+
+Avai:- to get benifit from to give help
 
 ### 16-July-21
+Availability:- being availabel
+
+Available:- that may obtained
+
+Avalanche:- sliding mass of snow
+
+Avant-Grade:- Vanguard of an army
+
+Avarise:- Greed of mony
 
 ### 17-July-21
+Avaunt:- go away!
+
+Ave:- welcome or Farewell
+
+Avenue:- wide street
+
+Aver:- to assert
+
+Average:- arithmetical mean
 
 ### 18-July-21
+Aviary:- large cage of building for kipping birds
+
+Aviation:-flying in air-craft
+
+Aviator:- the piot of an aeroplane
+
+Await:- to wait
+
+Awake:- not a sleep
 
 ### 19-July-21
- 
- 
- 
- 
- 
- 
- 
+Awaken:- to awake
+
+Awakeining:- act of becoming aware
+
+Award:-  to give , to grant
+
+Away:- to or at a distance
+
+Awhile:- for a time
+
+### 20-July-21
+Awn:- beard of corn
+
+Awning:- canvas roof of shelter
+
+Awry:- turned to one side
+
+Axiom:- established principle
+
+Axis:- Line around which a line rotates
+
+### 21-July-21
+Azalea:- a plant with pink or purple flowers
+
+Azoic:- without life
+
+Azoth:- mercury
+
+Azure:- Sky-bluen
+
+Bake :- to cook or cooked
+
+### 22-July-21
+Bakehouse:- bakery
+
