@@ -2985,3 +2985,5 @@ Baker:- one who bakes bread
 Balance Sheet:- writen statement showing the financial position of a business enterprise
 
 Banker:-  a person who keeps a bank
+
+Bang:- loud noise
