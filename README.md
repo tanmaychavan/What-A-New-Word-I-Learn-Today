@@ -2982,3 +2982,5 @@ Bakehouse:- bakery
 
 Baker:- one who bakes bread
 
+Balance Sheet:- writen statement showing the financial position of a business enterprise
+
