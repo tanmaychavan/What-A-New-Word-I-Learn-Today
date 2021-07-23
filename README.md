@@ -2992,3 +2992,6 @@ Bang:- loud noise
 Bantling:- a young child
 
 Barren:- unproductive
+
+Barret:- a small flat cap
+
