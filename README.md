@@ -2996,3 +2996,5 @@ Barren:- unproductive
 Barret:- a small flat cap
 
 Babbricade:- obstruction
+
+Barrister:- advocate for higher courts
