@@ -2990,3 +2990,5 @@ Bang:- loud noise
 
 ### 23-July-21
 Bantling:- a young child
+
+Barren:- unproductive
