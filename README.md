@@ -2987,3 +2987,6 @@ Balance Sheet:- writen statement showing the financial position of a business en
 Banker:-  a person who keeps a bank
 
 Bang:- loud noise
+
+### 23-July-21
+Bantling:- a young child
