@@ -3007,3 +3007,5 @@ Basement:- lowest part of building
 Basilica:- an ancient roman public oblong hall with a double row of columns
 
 Basilisk:- a small american lizard
+
+Bask:- to enjoy warmth and light
