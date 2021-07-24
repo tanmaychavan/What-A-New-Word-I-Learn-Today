@@ -3001,3 +3001,5 @@ Barrister:- advocate for higher courts
 
 ### 24-July-21
 Baseless:- without a base
+
+Basement:- lowest part of building
