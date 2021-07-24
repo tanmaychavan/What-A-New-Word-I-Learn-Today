@@ -2998,3 +2998,6 @@ Barret:- a small flat cap
 Babbricade:- obstruction
 
 Barrister:- advocate for higher courts
+
+### 24-July-21
+Baseless:- without a base
