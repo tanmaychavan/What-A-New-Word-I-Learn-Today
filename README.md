@@ -3012,3 +3012,5 @@ Bask:- to enjoy warmth and light
 
 ### 25-July-21
 Bassoon:- a deep-toned  wind instrunment
+
+Bast:- the tough fibers of various plants
