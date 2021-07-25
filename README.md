@@ -3016,3 +3016,5 @@ Bassoon:- a deep-toned  wind instrunment
 Bast:- the tough fibers of various plants
 
 Batiste:- a fine cotton fabric
+
+Baton:-  a staff of authority
