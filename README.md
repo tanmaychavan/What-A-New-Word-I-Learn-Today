@@ -3014,3 +3014,5 @@ Bask:- to enjoy warmth and light
 Bassoon:- a deep-toned  wind instrunment
 
 Bast:- the tough fibers of various plants
+
+Batiste:- a fine cotton fabric
