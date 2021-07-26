@@ -3020,3 +3020,6 @@ Batiste:- a fine cotton fabric
 Baton:-  a staff of authority
 
 Battels:- collage account at  Oxford for all collage expences
+
+### 26-July-21
+Battery:- set of electric set
