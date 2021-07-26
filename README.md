@@ -3023,3 +3023,5 @@ Battels:- collage account at  Oxford for all collage expences
 
 ### 26-July-21
 Battery:- set of electric set
+
+Bawl:- to speak loudly or shout
