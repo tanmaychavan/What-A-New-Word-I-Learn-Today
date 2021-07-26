@@ -3029,3 +3029,5 @@ Bawl:- to speak loudly or shout
 Bay window:- window projecting from the wall of building
 
 Bazzar:- market
+
+Bead:- small ball with a hole
