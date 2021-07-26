@@ -3025,3 +3025,5 @@ Battels:- collage account at  Oxford for all collage expences
 Battery:- set of electric set
 
 Bawl:- to speak loudly or shout
+
+Bay window:- window projecting from the wall of building
