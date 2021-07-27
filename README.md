@@ -3040,3 +3040,5 @@ Beady:- small and bright
 Beagle:- a small smooth-haired
 
 Beak:- birds bill
+
+Beaker:- mug
