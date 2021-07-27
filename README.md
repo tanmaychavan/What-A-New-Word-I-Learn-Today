@@ -3038,3 +3038,5 @@ Beadle:- a church official attending on the minister
 Beady:- small and bright
 
 Beagle:- a small smooth-haired
+
+Beak:- birds bill
