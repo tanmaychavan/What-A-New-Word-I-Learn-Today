@@ -3034,3 +3034,5 @@ Bead:- small ball with a hole
 
 ### 27-July-21
 Beadle:- a church official attending on the minister
+
+Beady:- small and bright
