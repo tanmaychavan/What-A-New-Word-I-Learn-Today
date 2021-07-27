@@ -3031,3 +3031,6 @@ Bay window:- window projecting from the wall of building
 Bazzar:- market
 
 Bead:- small ball with a hole
+
+### 27-July-21
+Beadle:- a church official attending on the minister
