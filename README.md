@@ -3045,3 +3045,5 @@ Beaker:- mug
 
 ### 28-July-21
 Beam:- a long thick peace of wood used in building
+
+Beaming:- smiling, cheerful
