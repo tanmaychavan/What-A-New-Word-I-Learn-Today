@@ -3049,3 +3049,5 @@ Beam:- a long thick peace of wood used in building
 Beaming:- smiling, cheerful
 
 Bean:- edible:- seed of some plants
+
+Beano:- a celebration
