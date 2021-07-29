@@ -3053,3 +3053,10 @@ Bean:- edible:- seed of some plants
 Beano:- a celebration
 
 Beanpole:- a tall stick used to support bean plants 
+
+### 29-July-21
+Bear:- heavy animal with rough hair
+
+Beard:- hair on a mans face
+
+Bearer:- the actual holder of a cheque
