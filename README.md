@@ -3042,3 +3042,6 @@ Beagle:- a small smooth-haired
 Beak:- birds bill
 
 Beaker:- mug
+
+### 28-July-21
+Beam:- a long thick peace of wood used in building
