@@ -3060,3 +3060,5 @@ Bear:- heavy animal with rough hair
 Beard:- hair on a mans face
 
 Bearer:- the actual holder of a cheque
+
+Bearing:-  Way of behaving
