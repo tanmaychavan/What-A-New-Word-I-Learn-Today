@@ -3051,3 +3051,5 @@ Beaming:- smiling, cheerful
 Bean:- edible:- seed of some plants
 
 Beano:- a celebration
+
+Beanpole:- a tall stick used to support bean plants
