@@ -3069,3 +3069,5 @@ Bearish:- rough, clumsy
 Beatific:- showing great happiness
 
 Beatify:- to announce that a dead person is among the Blessed
+
+Beatitude:- great happiness
