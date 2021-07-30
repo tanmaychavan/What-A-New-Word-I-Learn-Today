@@ -3074,3 +3074,4 @@ Beatitude:- great happiness
 
 Beautifier:- a thing that beautifies
 
+Bedabble:- to wet, to sprinkle
