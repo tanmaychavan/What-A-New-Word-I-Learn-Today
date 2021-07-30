@@ -3064,3 +3064,6 @@ Bearer:- the actual holder of a cheque
 Bearing:-  Way of behaving
 
 Bearish:- rough, clumsy
+
+### 30-July-21
+Beatific:- showing great happiness
