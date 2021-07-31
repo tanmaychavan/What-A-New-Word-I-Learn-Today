@@ -3083,3 +3083,5 @@ Drongo:- a song-bird with a stout bill.
 
 Drumming:- falling noisily.
 
+Disconsolately:- unhappily.
+
