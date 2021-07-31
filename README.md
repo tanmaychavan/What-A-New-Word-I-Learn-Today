@@ -3075,3 +3075,7 @@ Beatitude:- great happiness
 Beautifier:- a thing that beautifies
 
 Bedabble:- to wet, to sprinkle
+
+### 31-July-21
+Scarlet minivet:- brightf red bird like a cuckoo.
+
