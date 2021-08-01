@@ -3095,3 +3095,5 @@ Bedchamber:- bedroom
 Bedding:- bedclothes
 
 Bedeck:- to decorate
+
+Bedevil:- to confuse competely
