@@ -3091,3 +3091,5 @@ ravine:- valley.
 Bedaub:- to smear with dirt
 
 Bedchamber:- bedroom
+
+Bedding:- bedclothes
