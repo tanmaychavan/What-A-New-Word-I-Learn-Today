@@ -3086,3 +3086,6 @@ Drumming:- falling noisily.
 Disconsolately:- unhappily.
 
 ravine:- valley.
+
+### 1-July-21
+Bedaub:- to smear with dirt
