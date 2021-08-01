@@ -3089,3 +3089,5 @@ ravine:- valley.
 
 ### 1-July-21
 Bedaub:- to smear with dirt
+
+Bedchamber:- bedroom
