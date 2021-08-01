@@ -3093,3 +3093,5 @@ Bedaub:- to smear with dirt
 Bedchamber:- bedroom
 
 Bedding:- bedclothes
+
+Bedeck:- to decorate
