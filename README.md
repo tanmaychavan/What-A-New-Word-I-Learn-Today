@@ -3100,3 +3100,5 @@ Bedevil:- to confuse competely
 
 ### 2-July-21
 Bedfello:- one who shares a bed
+
+Bedim:- to make dim
