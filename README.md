@@ -3097,3 +3097,6 @@ Bedding:- bedclothes
 Bedeck:- to decorate
 
 Bedevil:- to confuse competely
+
+### 2-July-21
+Bedfello:- one who shares a bed
