@@ -3104,3 +3104,5 @@ Bedfello:- one who shares a bed
 Bedim:- to make dim
 
 Bedizen:- to dress in gaudy clothes
+
+Bedlam:- a madhouse
