@@ -3106,3 +3106,5 @@ Bedim:- to make dim
 Bedizen:- to dress in gaudy clothes
 
 Bedlam:- a madhouse
+
+Bed linen:- sheets and pillow cases for a bed
