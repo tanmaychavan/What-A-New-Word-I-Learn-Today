@@ -1418,6 +1418,7 @@
 644. Evare which way:-  in diffecult direction.
 
 645. Spotted it:-  found.
+
 ### 27-Feb-21
 
 646. Scorch marks:-  burn marks.
@@ -3110,13 +3111,38 @@ Bedlam:- a madhouse
 Bed linen:- sheets and pillow cases for a bed
 
 ### 3-July-21
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Burned out:-  destroy by fire.
+
+Boarded up:-  covered with wodden boards.
+
+Middel headed:-  confused.
+
+Lit up:-  became bright with happiness.
+
+Suffused with:-  spred all over her face.
+
+### 4-July-21
+Taken their toll on:-  damaged.
+
+Stuck fast:-  shut tight.
+
+Scruples:  feelings that makes you hesitate to do something wrong.
+
+Standing to:-  taking up positions.
+
+Trenches:-  long deep ditches in the ground where soldiers hide from the enemy.
+
+### 5-July-21
+Intimate:-  very personal and private.
+
+Racket:-  uproar/loud noise
+
+Crouching:-  sitting(as if hiding)
+
+Surats:-  verses from the holy Quran.
+
+Treasury:-  wealth
+
+### 6-July-21
+Grimace:-  twistead expression (on the face) due to pain.
+
