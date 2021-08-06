@@ -3152,3 +3152,4 @@ Sidled back:-  walk back quitely, trying not to be noticed.
 
 Evare which way:-  in diffecult direction.
 
+Spotted it:-  found.
