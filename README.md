@@ -3148,3 +3148,5 @@ Grimace:-  twistead expression (on the face) due to pain.
 
 Acorns:-  small brown nuts.
 
+Sidled back:-  walk back quitely, trying not to be noticed.
+
