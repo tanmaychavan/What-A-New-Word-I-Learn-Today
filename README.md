@@ -3146,3 +3146,5 @@ Treasury:-  wealth
 ### 6-July-21
 Grimace:-  twistead expression (on the face) due to pain.
 
+Acorns:-  small brown nuts.
+
