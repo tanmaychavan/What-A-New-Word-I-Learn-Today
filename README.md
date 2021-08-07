@@ -3153,3 +3153,7 @@ Sidled back:-  walk back quitely, trying not to be noticed.
 Evare which way:-  in diffecult direction.
 
 Spotted it:-  found.
+
+### 7-July-21
+Incandescence:- inner gloe or light.
+
