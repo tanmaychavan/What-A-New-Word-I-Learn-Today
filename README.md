@@ -3157,3 +3157,5 @@ Spotted it:-  found.
 ### 7-July-21
 Incandescence:- inner gloe or light.
 
+Enormous:- very big
+
