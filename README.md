@@ -3169,3 +3169,6 @@ Fathomless:- So deep that depth can't be measured.
 Dispansary:- a room where medicines are prepared and provided.
 
 Hypothetical:- based on or serving as a hypothesis.
+
+Commidities:- A commodity is a basic good used in commerce that is interchangeable with other goods of the same type.
+
