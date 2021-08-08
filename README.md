@@ -3164,3 +3164,6 @@ Stirred:- move.
 Clustering:- gathering.
 
 Fathomless:- So deep that depth can't be measured.
+
+### 8-July-21
+Dispansary:- a room where medicines are prepared and provided.
