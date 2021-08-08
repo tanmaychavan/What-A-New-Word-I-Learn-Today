@@ -3173,3 +3173,5 @@ Hypothetical:- based on or serving as a hypothesis.
 Commidities:- A commodity is a basic good used in commerce that is interchangeable with other goods of the same type.
 
 Treated:- behave towards or deal with in a certain way.
+
+Resemble:- have a similar appearance to or qualities in common with (someone or something); look or seem like.
