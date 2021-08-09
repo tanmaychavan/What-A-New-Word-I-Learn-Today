@@ -3178,3 +3178,5 @@ Resemble:- have a similar appearance to or qualities in common with (someone or 
 
 ### 9-July-21
 Cabbage:- vegitable with thick green leaves
+
+Cabbala:- an ancient Jewish mystical tredition
