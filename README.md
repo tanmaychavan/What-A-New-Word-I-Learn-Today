@@ -3175,3 +3175,6 @@ Commidities:- A commodity is a basic good used in commerce that is interchangeab
 Treated:- behave towards or deal with in a certain way.
 
 Resemble:- have a similar appearance to or qualities in common with (someone or something); look or seem like.
+
+### 9-July-21
+Cabbage:- vegitable with thick green leaves
