@@ -3182,3 +3182,5 @@ Cabbage:- vegitable with thick green leaves
 Cabbala:- an ancient Jewish mystical tredition
 
 Cabby:- a cab driver
+
+Cabin:- a small room or hut
