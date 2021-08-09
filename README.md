@@ -3180,3 +3180,5 @@ Resemble:- have a similar appearance to or qualities in common with (someone or 
 Cabbage:- vegitable with thick green leaves
 
 Cabbala:- an ancient Jewish mystical tredition
+
+Cabby:- a cab driver
