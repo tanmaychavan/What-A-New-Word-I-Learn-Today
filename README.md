@@ -3204,3 +3204,5 @@ Incandescence:-  inner gloe or light.
 Enormous:-  very big
 
 Stirred:-  move.
+
+Clustering:-  gathering.
