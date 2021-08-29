@@ -3201,3 +3201,4 @@ Alarm:-  frighten.
 ### 29-Aug-21
 Incandescence:-  inner gloe or light.
 
+Enormous:-  very big
