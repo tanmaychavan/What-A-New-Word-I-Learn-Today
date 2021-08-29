@@ -3188,7 +3188,16 @@ Cabin:- a small room or hut
 Cabinet:- case with drawers and slaves
 
 ### 10-July-21
- 
- 
- 
- 
+A china deer:-  a clay deer that is easily broken.
+
+Sleek:-  smooth and shiny.
+
+light-headed:-  unabel to think clearly.
+
+Romp:-  play.
+
+Alarm:-  frighten.
+
+### 29-Aug-21
+Incandescence:-  inner gloe or light.
+
