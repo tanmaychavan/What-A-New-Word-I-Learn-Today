@@ -3217,3 +3217,5 @@ Cabal:- a secret plot
 Cabaret:- a resturant providing entertenment
 
 Cabbage:- a vegetable with thick green leaves
+
+Cabbala:- an ancient jewish mystical tradition
