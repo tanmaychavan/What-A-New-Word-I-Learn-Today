@@ -3213,3 +3213,5 @@ Fathomless:-  So deep that depth can't be measured.
 Cab:-  public carriage or taxi
 
 Cabal:- a secret plot
+
+Cabaret:- a resturant providing entertenment
