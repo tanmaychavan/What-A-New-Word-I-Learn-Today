@@ -3211,3 +3211,5 @@ Fathomless:-  So deep that depth can't be measured.
 
 ### 16-Sep-21
 Cab:-  public carriage or taxi
+
+Cabal:- a secret plot
