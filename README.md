@@ -3228,3 +3228,5 @@ Cabin:- a small room or hut
 Cabinet:- case with drawers and shelves
 
 Cable:- thick strong rope or wire
+
+Caboodle:- a lot, bunch, group;
