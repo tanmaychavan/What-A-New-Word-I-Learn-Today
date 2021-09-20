@@ -3224,3 +3224,5 @@ Cabbala:- an ancient jewish mystical tradition
 Cabby:- a cab driver
 
 Cabin:- a small room or hut
+
+Cabinet:- case with drawers and shelves
