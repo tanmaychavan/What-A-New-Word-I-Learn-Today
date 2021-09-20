@@ -3222,3 +3222,5 @@ Cabbala:- an ancient jewish mystical tradition
 
 ### 19-Sep-21
 Cabby:- a cab driver
+
+Cabin:- a small room or hut
