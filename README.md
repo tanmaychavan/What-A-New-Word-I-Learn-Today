@@ -3235,3 +3235,5 @@ Caboodle:- a lot, bunch, group;
 Caboose:- a guards van
 
 Cabriolet:- a small two-wheeled horse drawn carrage having a folding hood;
+
+Cacao:- seed of a tropical tree from which cacao and chocolate are made;
