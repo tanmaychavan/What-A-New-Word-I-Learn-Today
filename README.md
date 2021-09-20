@@ -3219,3 +3219,6 @@ Cabaret:- a resturant providing entertenment
 Cabbage:- a vegetable with thick green leaves
 
 Cabbala:- an ancient jewish mystical tradition
+
+### 19-Sep-21
+Cabby:- a cab driver
