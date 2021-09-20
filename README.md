@@ -3230,3 +3230,6 @@ Cabinet:- case with drawers and shelves
 Cable:- thick strong rope or wire
 
 Caboodle:- a lot, bunch, group;
+
+### 20-Sep-21
+Caboose:- a guards van
