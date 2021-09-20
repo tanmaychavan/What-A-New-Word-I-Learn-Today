@@ -3233,3 +3233,5 @@ Caboodle:- a lot, bunch, group;
 
 ### 20-Sep-21
 Caboose:- a guards van
+
+Cabriolet:- a small two-wheeled horse drawn carrage having a folding hood;
