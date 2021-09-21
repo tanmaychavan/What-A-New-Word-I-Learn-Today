@@ -3246,3 +3246,5 @@ Cachet:- an official seal on a document
 Cachinate:- to laugh loudly
 
 Cachinnation:- convulsive laughter
+
+Cacodemon:- an evil spirit
