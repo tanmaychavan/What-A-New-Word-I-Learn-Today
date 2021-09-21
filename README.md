@@ -3250,3 +3250,5 @@ Cachinnation:- convulsive laughter
 Cacodemon:- an evil spirit
 
 Cacophony:- loud, unpleasant sound
+
+Cactus:- plant with a thick fleshy stem
