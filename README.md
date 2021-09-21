@@ -3244,3 +3244,5 @@ Cachet:- an official seal on a document
 
 ### 21-Sep-21
 Cachinate:- to laugh loudly
+
+Cachinnation:- convulsive laughter
