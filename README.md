@@ -3241,3 +3241,6 @@ Cacao:- seed of a tropical tree from which cacao and chocolate are made
 Cache:- a hidden store of provisions 
 
 Cachet:- an official seal on a document
+
+### 21-Sep-21
+Cachinate:- to laugh loudly
