@@ -3248,3 +3248,5 @@ Cachinate:- to laugh loudly
 Cachinnation:- convulsive laughter
 
 Cacodemon:- an evil spirit
+
+Cacophony:- loud, unpleasant sound
