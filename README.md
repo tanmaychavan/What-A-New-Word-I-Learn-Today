@@ -3252,3 +3252,6 @@ Cacodemon:- an evil spirit
 Cacophony:- loud, unpleasant sound
 
 Cactus:- plant with a thick fleshy stem
+
+### 22-Sep-21
+Caddie:- an attendant who carries club
