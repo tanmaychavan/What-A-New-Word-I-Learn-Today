@@ -3262,3 +3262,4 @@ Caddya:- a small container
 
 Cadence:- rhythm
 
+Cadet:- student under training for warfare
