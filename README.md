@@ -3257,3 +3257,5 @@ Cactus:- plant with a thick fleshy stem
 Caddie:- an attendant who carries club
 
 caddish:- of or like a cad 
+
+Caddya:- a small container
