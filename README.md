@@ -3259,3 +3259,6 @@ Caddie:- an attendant who carries club
 caddish:- of or like a cad 
 
 Caddya:- a small container
+
+Cadence:- rhythm
+
