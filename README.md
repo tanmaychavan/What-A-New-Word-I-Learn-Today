@@ -3265,15 +3265,81 @@ Cadence:- rhythm
 Cadet:- student under training for warfare
 
 ### 23-Sep-21
+Cadge:- to beg
+
+Cadmium:- atin-like metal
+
+Cadre:- small group of trained people
+
+Caducous:- falling earlier as leaves or flowers
+
+Caesar:- any roman emperor
 
 ### 24-Sep-21
+Caesura:- a point a which a pause occurs in a line of verse
+
+Cafe:- small resturant
+
+Caffeine:- stimulating chemical compound in tea and coffee
+
+Cage:- structure of wires or bars
+
+Cahoots:- partnership
 
 ### 25-Sep-21
+Cain:- the first son of Adam and eve
+
+Caique:- a Turkish row vessel
+
+Cairn:- a pile or rough stone
+
+Caisson:- a watertight case used in construction work under water
+
+Caitiff:- a cowardly or base person
 
 ### 26-Sep-21
+Cajole:- to coax, to pursuade by flattery
+
+Cake:- kind of sweetened food
+
+Cakewalk:- a dance originally performed by american negrous in competion for a cake
+
+Calabash:- gourd
+
+Calaboose:- a person
 
 ### 27-Sep-21
+calamender:- hard and valuable cabinet-wood
+
+Calamitous:- causing calamity
+
+Calash:- a horse drawn carrage with a folding top
+
+Calcareous:- chalky
+
+Calcify:- to convert or be conveted into lime
 
 ### 28-Sep-21
+Clcine:- to reduce to powder by burning
+
+Calcium:- soft white metal
+
+calculate:- to reckon
+
+calculation:- act of calculating
+
+calculator:- a person who calculates
 
 ### 29-Sep-21
+Calculus:- a branch of mathematics
+
+caldarium:- a room rof taking baths
+
+Caldron:- cauldron
+
+Calender:- table of months
+
+Calends:- the forst day of each month in the ancient roman calender
+
+### 30-Sep-21
+Calenture:- a mild fever of tropical climetes
