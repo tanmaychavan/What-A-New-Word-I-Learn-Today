@@ -3349,3 +3349,5 @@ Calf:- the young of a cow and other animals
 Clibrate:- to find caliber of 
 
 Caliber:- quality of mind and character
+
+Calico:- cotton cloth
