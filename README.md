@@ -3345,3 +3345,5 @@ Calends:- the forst day of each month in the ancient roman calender
 Calenture:- a mild fever of tropical climetes
 
 Calf:- the young of a cow and other animals
+
+Clibrate:- to find caliber of 
