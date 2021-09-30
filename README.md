@@ -3343,3 +3343,5 @@ Calends:- the forst day of each month in the ancient roman calender
 
 ### 30-Sep-21
 Calenture:- a mild fever of tropical climetes
+
+Calf:- the young of a cow and other animals
