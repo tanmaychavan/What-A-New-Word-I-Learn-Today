@@ -3354,3 +3354,5 @@ Calico:- cotton cloth
 
 ### 25-Oct-21
 Callboy-a person who notifies actors when it is time to go on stage
+
+Calligraphy:- beautiful handwriting
