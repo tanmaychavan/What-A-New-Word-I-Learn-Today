@@ -3360,3 +3360,5 @@ Calligraphy:- beautiful handwriting
 calling:- occuption, trade, proffession
 
 Calliper:- instrument for measuring the thickness or diameter of something
+
+Callous:- unfeeling, insensative
