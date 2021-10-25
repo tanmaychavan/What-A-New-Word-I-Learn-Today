@@ -3352,30 +3352,5 @@ Caliber:- quality of mind and character
 
 Calico:- cotton cloth
 
-### 1-Oct-21
-
-### 2-Oct-21
-
-### 3-Oct-21
-
-### 4-Oct-21
-
-### 5-Oct-21
-
-### 6-Oct-21
-
-### 7-Oct-21
-
-### 8-Oct-21
-
-### 9-Oct-21
-
-### 10-Oct-21
-
-### 11-Oct-21
-
-### 12-Oct-21
-
-### 17-Oct-21
-
-### 18-Oct-21
+### 25-Oct-21
+Callboy-a person who notifies actors when it is time to go on stage
