@@ -3358,3 +3358,5 @@ Callboy-a person who notifies actors when it is time to go on stage
 Calligraphy:- beautiful handwriting
 
 calling:- occuption, trade, proffession
+
+Calliper:- instrument for measuring the thickness or diameter of something
