@@ -3365,3 +3365,5 @@ Callous:- unfeeling, insensative
 
 ### 26-Oct-21
 Calm:- quite
+
+Calorie:- unit of heat
