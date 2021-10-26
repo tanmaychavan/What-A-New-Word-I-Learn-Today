@@ -3369,3 +3369,5 @@ Calm:- quite
 Calorie:- unit of heat
 
 Calumniate:- to salender
+
+Calumny:- salender
