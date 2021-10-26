@@ -3362,3 +3362,6 @@ calling:- occuption, trade, proffession
 Calliper:- instrument for measuring the thickness or diameter of something
 
 Callous:- unfeeling, insensative
+
+### 26-Oct-21
+Calm:- quite
