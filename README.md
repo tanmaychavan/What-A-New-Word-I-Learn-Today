@@ -3367,3 +3367,5 @@ Callous:- unfeeling, insensative
 Calm:- quite
 
 Calorie:- unit of heat
+
+Calumniate:- to salender
