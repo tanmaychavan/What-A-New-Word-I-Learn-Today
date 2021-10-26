@@ -3371,3 +3371,5 @@ Calorie:- unit of heat
 Calumniate:- to salender
 
 Calumny:- salender
+
+cam:- projection on awheel or shalf
