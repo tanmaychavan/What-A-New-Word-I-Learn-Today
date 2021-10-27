@@ -3373,3 +3373,6 @@ Calumniate:- to salender
 Calumny:- salender
 
 cam:- projection on awheel or shalf
+
+### 27-Oct-21
+Cambric:- fine, wite line or cotton
