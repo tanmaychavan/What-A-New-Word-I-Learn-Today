@@ -3382,3 +3382,5 @@ Came:- come
 Camel:- animal with one or two humps
 
 Cameloopard:- a giraffe
+
+Camera:- apparatus for taking photograps
