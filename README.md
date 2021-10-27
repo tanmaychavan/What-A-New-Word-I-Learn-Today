@@ -3378,3 +3378,5 @@ cam:- projection on awheel or shalf
 Cambric:- fine, wite line or cotton
 
 Came:- come
+
+Camel:- animal with one or two humps
