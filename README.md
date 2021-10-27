@@ -3380,3 +3380,5 @@ Cambric:- fine, wite line or cotton
 Came:- come
 
 Camel:- animal with one or two humps
+
+Cameloopard:- a giraffe
