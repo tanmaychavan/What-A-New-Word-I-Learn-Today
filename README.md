@@ -3391,3 +3391,5 @@ Camomile:- sweet-smilling
 Camp:- tents of army
 
 Campaign:- series of milatry operations
+
+Campanile:- a bell tower
