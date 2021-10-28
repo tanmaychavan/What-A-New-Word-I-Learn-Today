@@ -3387,3 +3387,5 @@ Camera:- apparatus for taking photograps
 
 ### 28-Oct-21
 Camomile:- sweet-smilling
+
+Camp:- tents of army
