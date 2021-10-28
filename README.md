@@ -3389,3 +3389,5 @@ Camera:- apparatus for taking photograps
 Camomile:- sweet-smilling
 
 Camp:- tents of army
+
+Campaign:- series of milatry operations
