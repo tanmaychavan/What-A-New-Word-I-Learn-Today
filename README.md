@@ -3400,3 +3400,5 @@ Campus:- grounds and buildings of schools, collage or university
 Canal:- artificial water course
 
 Canalize:- to provide with or convert into a canal
+
+Canard:- false report
