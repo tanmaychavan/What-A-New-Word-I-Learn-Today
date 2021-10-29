@@ -3402,3 +3402,5 @@ Canal:- artificial water course
 Canalize:- to provide with or convert into a canal
 
 Canard:- false report
+
+Canary:- a small yellow-feathered song bird
