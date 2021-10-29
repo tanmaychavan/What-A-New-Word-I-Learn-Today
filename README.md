@@ -3395,3 +3395,6 @@ Campaign:- series of milatry operations
 Campanile:- a bell tower
 
 Campus:- grounds and buildings of schools, collage or university
+
+### 29-Oct-21
+Canal:- artificial water course
