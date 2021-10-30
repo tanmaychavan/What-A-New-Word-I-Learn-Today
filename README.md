@@ -3409,3 +3409,5 @@ Canaster:- tobacoo leaves dried and broken up
 
 ### 30-oct-21
 Candelabrum:- a large table candle holder
+
+Candle:- stick of wax with wick
