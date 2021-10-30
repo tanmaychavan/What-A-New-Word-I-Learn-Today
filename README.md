@@ -3413,3 +3413,5 @@ Candelabrum:- a large table candle holder
 Candle:- stick of wax with wick
 
 Candle power:- unit of light measurement
+
+candlestick:- holder for a single candel
