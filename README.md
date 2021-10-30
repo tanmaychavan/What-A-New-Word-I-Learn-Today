@@ -3406,3 +3406,6 @@ Canard:- false report
 Canary:- a small yellow-feathered song bird
 
 Canaster:- tobacoo leaves dried and broken up
+
+### 30-oct-21
+Candelabrum:- a large table candle holder
