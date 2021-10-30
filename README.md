@@ -3399,6 +3399,7 @@ Campus:- grounds and buildings of schools, collage or university
 ### 29-Oct-21
 Canal:- artificial water course
 
+
 Canalize:- to provide with or convert into a canal
 
 Canard:- false report
@@ -3415,3 +3416,5 @@ Candle:- stick of wax with wick
 Candle power:- unit of light measurement
 
 candlestick:- holder for a single candel
+
+Candy:- crystalize sugar
