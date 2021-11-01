@@ -3438,3 +3438,5 @@ Capable:- able, competent
 Capacitate:- to make able or capable
 
 Caper:- to jump about playfully
+
+Capitalist:- a person who owns capital
