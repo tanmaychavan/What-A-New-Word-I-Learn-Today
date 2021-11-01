@@ -3434,3 +3434,5 @@ Cannon:- a large heavy gun
 Capability:- ability
 
 Capable:- able, competent
+
+Capacitate:- to make able or capable
