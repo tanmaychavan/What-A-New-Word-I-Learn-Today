@@ -3432,3 +3432,5 @@ Cannon:- a large heavy gun
 
 ### 1-Oct-21
 Capability:- ability
+
+Capable:- able, competent
