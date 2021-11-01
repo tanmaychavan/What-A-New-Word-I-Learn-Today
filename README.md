@@ -3429,3 +3429,6 @@ Canine:- of or like a dog
 Canister:- small box of metal with a lid, used for holding tea
 
 Cannon:- a large heavy gun
+
+### 1-Oct-21
+Capability:- ability
