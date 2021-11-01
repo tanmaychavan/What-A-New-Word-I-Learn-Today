@@ -3418,3 +3418,6 @@ Candle power:- unit of light measurement
 candlestick:- holder for a single candel
 
 Candy:- crystalize sugar
+
+31-Oct-21
+Cane:- lang, hollow, jointed stem of plants like bamboo and sugar
