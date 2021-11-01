@@ -3421,3 +3421,5 @@ Candy:- crystalize sugar
 
 31-Oct-21
 Cane:- lang, hollow, jointed stem of plants like bamboo and sugar
+
+Cang:- a large wooden collar worn by petty criminals as a punishment
