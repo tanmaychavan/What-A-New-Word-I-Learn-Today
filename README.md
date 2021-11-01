@@ -3425,3 +3425,5 @@ Cane:- lang, hollow, jointed stem of plants like bamboo and sugar
 Cang:- a large wooden collar worn by petty criminals as a punishment
 
 Canine:- of or like a dog
+
+Canister:- small box of metal with a lid, used for holding tea
