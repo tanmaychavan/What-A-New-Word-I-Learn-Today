@@ -3440,3 +3440,6 @@ Capacitate:- to make able or capable
 Caper:- to jump about playfully
 
 Capitalist:- a person who owns capital
+
+### 2-Oct-21
+Capitalize:- to take advantage of
