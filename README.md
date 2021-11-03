@@ -3443,3 +3443,5 @@ Capitalist:- a person who owns capital
 
 ### 2-Oct-21
 Capitalize:- to take advantage of
+
+Capitation:- tax or grant per head
