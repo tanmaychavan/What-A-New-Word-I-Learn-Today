@@ -3447,3 +3447,5 @@ Capitalize:- to take advantage of
 Capitation:- tax or grant per head
 
 Capitol:- building housing any state legislature
+
+Capitulate:- to surrender
