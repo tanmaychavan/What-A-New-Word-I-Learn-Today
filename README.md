@@ -3445,3 +3445,5 @@ Capitalist:- a person who owns capital
 Capitalize:- to take advantage of
 
 Capitation:- tax or grant per head
+
+Capitol:- building housing any state legislature
