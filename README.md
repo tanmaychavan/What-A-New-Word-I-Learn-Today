@@ -3451,3 +3451,6 @@ Capitol:- building housing any state legislature
 Capitulate:- to surrender
 
 Caprice:- whim
+
+### 3-Oct-21
+Capricon:- the capricon
