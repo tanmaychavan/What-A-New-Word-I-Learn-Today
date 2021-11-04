@@ -3454,3 +3454,5 @@ Caprice:- whim
 
 ### 3-Oct-21
 Capricon:- the capricon
+
+Caprine:- of or resembling
