@@ -3458,3 +3458,5 @@ Capricon:- the capricon
 Caprine:- of or resembling
 
 Capsize:- to overturn
+
+Capstan:- a windlass used on ships for hauling advancing
