@@ -3460,3 +3460,5 @@ Caprine:- of or resembling
 Capsize:- to overturn
 
 Capstan:- a windlass used on ships for hauling advancing
+
+Capstone:- one of a set of slabs on the top of a wall
