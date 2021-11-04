@@ -3456,3 +3456,5 @@ Caprice:- whim
 Capricon:- the capricon
 
 Caprine:- of or resembling
+
+Capsize:- to overturn
