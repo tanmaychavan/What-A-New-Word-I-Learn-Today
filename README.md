@@ -3462,3 +3462,6 @@ Capsize:- to overturn
 Capstan:- a windlass used on ships for hauling advancing
 
 Capstone:- one of a set of slabs on the top of a wall
+
+### 7-Oct-21
+Captain:- leader of cheif
