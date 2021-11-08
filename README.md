@@ -3478,3 +3478,5 @@ Captor:- a person who takes somebody captive
 Capture:- to take prisoner, to seize
 
 Capuchin:- an agli intelligent monkey inhabiting forest in south america 
+
+Car:- wheeled vehicle
