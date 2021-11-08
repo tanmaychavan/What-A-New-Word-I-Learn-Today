@@ -3469,3 +3469,5 @@ Captain:- leader of cheif
 Caption:- heading
 
 Captious:- finding fault
+
+Captivity:- imprisonment
