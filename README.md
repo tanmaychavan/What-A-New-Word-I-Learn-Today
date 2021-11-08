@@ -3482,3 +3482,5 @@ Capuchin:- an agli intelligent monkey inhabiting forest in south america
 Car:- wheeled vehicle
 
 Caravan:- company travelling together for sefty
+
+Carbide:- compound of carbon
