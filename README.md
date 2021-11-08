@@ -3476,3 +3476,5 @@ Captor:- a person who takes somebody captive
 
 ### 8-Nov-21
 Capture:- to take prisoner, to seize
+
+Capuchin:- an agli intelligent monkey inhabiting forest in south america 
