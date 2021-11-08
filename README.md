@@ -3471,3 +3471,5 @@ Caption:- heading
 Captious:- finding fault
 
 Captivity:- imprisonment
+
+Captor:- a person who takes somebody captive
