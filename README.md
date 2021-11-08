@@ -3430,7 +3430,7 @@ Canister:- small box of metal with a lid, used for holding tea
 
 Cannon:- a large heavy gun
 
-### 1-Oct-21
+### 1-Nov-21
 Capability:- ability
 
 Capable:- able, competent
@@ -3441,7 +3441,7 @@ Caper:- to jump about playfully
 
 Capitalist:- a person who owns capital
 
-### 2-Oct-21
+### 2-Nov-21
 Capitalize:- to take advantage of
 
 Capitation:- tax or grant per head
@@ -3452,7 +3452,7 @@ Capitulate:- to surrender
 
 Caprice:- whim
 
-### 3-Oct-21
+### 3-Nov-21
 Capricon:- the capricon
 
 Caprine:- of or resembling
@@ -3463,7 +3463,7 @@ Capstan:- a windlass used on ships for hauling advancing
 
 Capstone:- one of a set of slabs on the top of a wall
 
-### 7-Oct-21
+### 7-Nov-21
 Captain:- leader of cheif
 
 Caption:- heading
@@ -3473,3 +3473,6 @@ Captious:- finding fault
 Captivity:- imprisonment
 
 Captor:- a person who takes somebody captive
+
+### 8-Nov-21
+Capture:- to take prisoner, to seize
