@@ -3487,3 +3487,5 @@ Carbide:- compound of carbon
 
 ### 9-Oct-21
 Carbine:- short rifle used by soldiers on horseback
+
+Carbohydrate:- an organic compound of carbon with oxygen and hydrogen
