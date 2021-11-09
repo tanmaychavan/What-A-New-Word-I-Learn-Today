@@ -3493,3 +3493,5 @@ Carbohydrate:- an organic compound of carbon with oxygen and hydrogen
 Carbolic acid:- strong smelling, powerful liquid used as antiseptic  and disinfectant
 
 Carbolize:- to treat with carbolic acid
+
+Carbon:- non-metalic element
