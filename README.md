@@ -3484,3 +3484,6 @@ Car:- wheeled vehicle
 Caravan:- company travelling together for sefty
 
 Carbide:- compound of carbon
+
+### 9-Oct-21
+Carbine:- short rifle used by soldiers on horseback
