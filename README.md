@@ -3489,3 +3489,5 @@ Carbide:- compound of carbon
 Carbine:- short rifle used by soldiers on horseback
 
 Carbohydrate:- an organic compound of carbon with oxygen and hydrogen
+
+Carbolic acid:- strong smelling, powerful liquid used as antiseptic  and disinfectant
