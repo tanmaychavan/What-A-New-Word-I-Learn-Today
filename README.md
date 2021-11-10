@@ -3502,3 +3502,5 @@ Carboy:- large, round, glass or plastic bottel enclosed in basket work
 Carbuncle:- bright-red jewel
 
 Carcase:- dead body of animal
+
+Card:- thick, stick paper
