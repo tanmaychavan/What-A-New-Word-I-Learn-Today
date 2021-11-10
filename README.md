@@ -3495,3 +3495,6 @@ Carbolic acid:- strong smelling, powerful liquid used as antiseptic  and disinfe
 Carbolize:- to treat with carbolic acid
 
 Carbon:- non-metalic element
+
+### 10-Oct-21
+Carboy:- large, round, glass or plastic bottel enclosed in basket work
