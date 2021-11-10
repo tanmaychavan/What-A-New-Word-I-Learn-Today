@@ -3504,3 +3504,5 @@ Carbuncle:- bright-red jewel
 Carcase:- dead body of animal
 
 Card:- thick, stick paper
+
+Cardiac:- of the heart
