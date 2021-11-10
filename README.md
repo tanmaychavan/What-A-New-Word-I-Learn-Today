@@ -3498,3 +3498,5 @@ Carbon:- non-metalic element
 
 ### 10-Oct-21
 Carboy:- large, round, glass or plastic bottel enclosed in basket work
+
+Carbuncle:- bright-red jewel
