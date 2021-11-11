@@ -3511,3 +3511,5 @@ Cardiac:- of the heart
 Cardialgia:- pain in or near the heart
 
 cardigan:- woolen jacket
+
+cardinal:- chief
