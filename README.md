@@ -3515,3 +3515,5 @@ cardigan:- woolen jacket
 cardinal:- chief
 
 Cardiogram:-  a tracing obtain from a cardiograph
+
+Cardiograph:- an instrunment for recording movements of heart
