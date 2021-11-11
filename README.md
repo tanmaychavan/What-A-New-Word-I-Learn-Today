@@ -3513,3 +3513,5 @@ Cardialgia:- pain in or near the heart
 cardigan:- woolen jacket
 
 cardinal:- chief
+
+Cardiogram:-  a tracing obtain from a cardiograph
