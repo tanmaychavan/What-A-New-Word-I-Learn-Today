@@ -3509,3 +3509,5 @@ Cardiac:- of the heart
 
 ### 11-Oct-21
 Cardialgia:- pain in or near the heart
+
+cardigan:- woolen jacket
