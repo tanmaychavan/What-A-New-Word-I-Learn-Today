@@ -3526,3 +3526,5 @@ Careen:- to turn a ship on one side of cleaning, repairing, etc.
 Career:- occupation
 
 Carefree:- without worry or responsiblity
+
+Careful:- cautious
