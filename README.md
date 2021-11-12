@@ -3485,7 +3485,7 @@ Caravan:- company travelling together for sefty
 
 Carbide:- compound of carbon
 
-### 9-Oct-21
+### 9-Nov-21
 Carbine:- short rifle used by soldiers on horseback
 
 Carbohydrate:- an organic compound of carbon with oxygen and hydrogen
@@ -3496,7 +3496,7 @@ Carbolize:- to treat with carbolic acid
 
 Carbon:- non-metalic element
 
-### 10-Oct-21
+### 10-Nov-21
 Carboy:- large, round, glass or plastic bottel enclosed in basket work
 
 Carbuncle:- bright-red jewel
@@ -3507,7 +3507,7 @@ Card:- thick, stick paper
 
 Cardiac:- of the heart
 
-### 11-Oct-21
+### 11-Nov-21
 Cardialgia:- pain in or near the heart
 
 cardigan:- woolen jacket
@@ -3517,3 +3517,6 @@ cardinal:- chief
 Cardiogram:-  a tracing obtain from a cardiograph
 
 Cardiograph:- an instrunment for recording movements of heart
+
+### 12-Nov-21
+Care:- attention
