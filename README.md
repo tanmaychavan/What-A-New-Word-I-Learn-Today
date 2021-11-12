@@ -3520,3 +3520,5 @@ Cardiograph:- an instrunment for recording movements of heart
 
 ### 12-Nov-21
 Care:- attention
+
+Careen:- to turn a ship on one side of cleaning, repairing, etc.
