@@ -3533,3 +3533,5 @@ Careful:- cautious
 Carnation:- garden plant with sweet smelling flowers
 
 Carnival:- revelry
+
+Carnet:- a customs licence authorisingteh temperory important of a motor vehicle
