@@ -3528,3 +3528,6 @@ Career:- occupation
 Carefree:- without worry or responsiblity
 
 Careful:- cautious
+
+### 13-Nov-21
+Carnation:- garden plant with sweet smelling flowers
