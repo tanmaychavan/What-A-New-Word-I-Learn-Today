@@ -3542,3 +3542,5 @@ Carol:- song of joy or praise
 
 ### 14-Nov-21
 Carom:- a kind of Game
+
+Casing:- protective case or cover
