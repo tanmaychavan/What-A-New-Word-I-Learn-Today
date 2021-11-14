@@ -3539,3 +3539,6 @@ Carnet:- a customs licence authorisingteh temperory important of a motor vehicle
 Carnivore:- a carvivorous animal or plant
 
 Carol:- song of joy or praise
+
+### 14-Nov-21
+Carom:- a kind of Game
