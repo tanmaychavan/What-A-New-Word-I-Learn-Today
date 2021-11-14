@@ -3544,3 +3544,5 @@ Carol:- song of joy or praise
 Carom:- a kind of Game
 
 Casing:- protective case or cover
+
+Cask:- barrel for liquids
