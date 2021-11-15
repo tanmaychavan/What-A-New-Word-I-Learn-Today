@@ -3559,3 +3559,5 @@ Caterpiller:- larva of butterfly
 Caterwaul:- screeming like cats
 
 Catgut:- material used for the strings of violins
+
+Catharsis:- outlet for strong emotion
