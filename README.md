@@ -3570,3 +3570,5 @@ Catherine wheel:- a type of fire work
 Catholic:- universal
 
 Caudal:- of the tail
+
+Caught:- catch
