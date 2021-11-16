@@ -3566,3 +3566,5 @@ Catharsis:- outlet for strong emotion
 Cathedral:- principal church of diocese
 
 Catherine wheel:- a type of fire work
+
+Catholic:- universal
