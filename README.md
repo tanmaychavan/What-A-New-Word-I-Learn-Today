@@ -3561,3 +3561,6 @@ Caterwaul:- screeming like cats
 Catgut:- material used for the strings of violins
 
 Catharsis:- outlet for strong emotion
+
+### 16-Nov-21
+Cathedral:- principal church of diocese
