@@ -3564,3 +3564,5 @@ Catharsis:- outlet for strong emotion
 
 ### 16-Nov-21
 Cathedral:- principal church of diocese
+
+Catherine wheel:- a type of fire work
