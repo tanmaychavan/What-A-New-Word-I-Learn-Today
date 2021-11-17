@@ -3575,3 +3575,5 @@ Caught:- catch
 
 ### 17-Nov-21
 Caul:- a net or covering for the head
+
+Cauldron:- large, deep, open cooking vessel
