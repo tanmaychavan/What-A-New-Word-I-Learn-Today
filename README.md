@@ -3577,3 +3577,5 @@ Caught:- catch
 Caul:- a net or covering for the head
 
 Cauldron:- large, deep, open cooking vessel
+
+Cauliflower:- variety of cabbage with flowering head
