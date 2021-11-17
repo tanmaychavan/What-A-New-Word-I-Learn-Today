@@ -3581,3 +3581,5 @@ Cauldron:- large, deep, open cooking vessel
 Cauliflower:- variety of cabbage with flowering head
 
 Causal:- of cause an effect
+
+Cause:- that which produces effect
