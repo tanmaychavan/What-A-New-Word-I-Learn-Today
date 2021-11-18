@@ -3586,3 +3586,5 @@ Cause:- that which produces effect
 
 ### 18-Nov-21
 Causerie:- a short and informal essay in any subject in a newspaper or magazine
+
+Causeway:- raised way
