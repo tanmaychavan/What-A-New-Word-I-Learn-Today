@@ -3588,3 +3588,5 @@ Cause:- that which produces effect
 Causerie:- a short and informal essay in any subject in a newspaper or magazine
 
 Causeway:- raised way
+
+Caustic:- burning
