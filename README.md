@@ -3592,3 +3592,5 @@ Causeway:- raised way
 Caustic:- burning
 
 Caiterize:- to burn with caustic or hot iron
+
+Caution:- take care
