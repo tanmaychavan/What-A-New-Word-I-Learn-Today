@@ -3594,3 +3594,6 @@ Caustic:- burning
 Caiterize:- to burn with caustic or hot iron
 
 Caution:- take care
+
+### 19-Nov-21
+Cautious:- showing caution
