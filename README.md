@@ -3597,3 +3597,5 @@ Caution:- take care
 
 ### 19-Nov-21
 Cautious:- showing caution
+
+Cavalcade:- a procession of men on horseback
