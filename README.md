@@ -3599,3 +3599,5 @@ Caution:- take care
 Cautious:- showing caution
 
 Cavalcade:- a procession of men on horseback
+
+Cavalier:- a horseman
