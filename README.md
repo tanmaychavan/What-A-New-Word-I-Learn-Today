@@ -3603,3 +3603,5 @@ Cavalcade:- a procession of men on horseback
 Cavalier:- a horseman
 
 Cavalry:- mounted troops
+
+Cave:- an underground hollow
