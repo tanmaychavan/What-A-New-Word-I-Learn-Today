@@ -3625,3 +3625,5 @@ Cayenne:- pungent red capsicum peeper
 Cease:- to bring to an end, to stop
 
 Ceaseless:- without stop
+
+Cedar:- evergreen sweet-smelling tree
