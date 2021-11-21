@@ -3619,3 +3619,5 @@ Cavort:- to prance
 
 ### 21-Nov-21
 Caw:- caw's cry
+
+Cayenne:- pungent red capsicum peeper
