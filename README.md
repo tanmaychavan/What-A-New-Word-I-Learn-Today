@@ -3621,3 +3621,5 @@ Cavort:- to prance
 Caw:- caw's cry
 
 Cayenne:- pungent red capsicum peeper
+
+Cease:- to bring to an end, to stop
