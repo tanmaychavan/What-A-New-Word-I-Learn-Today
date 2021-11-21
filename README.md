@@ -3607,3 +3607,15 @@ Cavalry:- mounted troops
 Cave:- an underground hollow
 
 ### 20-Nov-21
+Caveat:- a notice or warning
+
+Cavern:- a deep hollow place in rocks
+
+Cavil:- to raise small objections
+
+Cavity:- hollow place
+
+Cavort:- to prance
+
+### 21-Nov-21
+Caw:- caw's cry
