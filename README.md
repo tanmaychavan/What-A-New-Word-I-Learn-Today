@@ -3636,3 +3636,5 @@ Ceiling:- inner roof of a room
 Celandine:- small wild plant with yellow flowers
 
 Celebrate:- to extol
+
+Celebrity:- fame
