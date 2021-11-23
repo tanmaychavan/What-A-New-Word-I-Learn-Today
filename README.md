@@ -3643,3 +3643,5 @@ Celebrity:- fame
 Celerity:- quickness, swiftness
 
 Celery:- a garden plant of which the steams are eaten raw as salad or cooked as a vegetable
+
+Celestial:- of the sky
