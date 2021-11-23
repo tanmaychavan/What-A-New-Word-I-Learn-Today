@@ -3641,3 +3641,5 @@ Celebrity:- fame
 
 ### 23-Nov-21
 Celerity:- quickness, swiftness
+
+Celery:- a garden plant of which the steams are eaten raw as salad or cooked as a vegetable
