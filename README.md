@@ -3647,3 +3647,5 @@ Celery:- a garden plant of which the steams are eaten raw as salad or cooked as 
 Celestial:- of the sky
 
 Celibacy:- unmarride state
+
+Cell:- small room
