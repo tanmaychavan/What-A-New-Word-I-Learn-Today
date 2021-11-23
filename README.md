@@ -3634,3 +3634,5 @@ Cede:- to surrnder, to give up
 Ceiling:- inner roof of a room
 
 Celandine:- small wild plant with yellow flowers
+
+Celebrate:- to extol
