@@ -3638,3 +3638,6 @@ Celandine:- small wild plant with yellow flowers
 Celebrate:- to extol
 
 Celebrity:- fame
+
+### 23-Nov-21
+Celerity:- quickness, swiftness
