@@ -3630,3 +3630,5 @@ Cedar:- evergreen sweet-smelling tree
 
 ### 22-Nov-21
 Cede:- to surrnder, to give up
+
+Ceiling:- inner roof of a room
