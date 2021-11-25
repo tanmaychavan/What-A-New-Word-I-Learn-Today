@@ -3667,3 +3667,5 @@ Cellule:- a very small cell
 Celluloid:- flammable plastic substance
 
 Cellulose:- wood fiber
+
+Celt:- a stone or metal axe-like instrunment
