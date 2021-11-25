@@ -3669,3 +3669,5 @@ Celluloid:- flammable plastic substance
 Cellulose:- wood fiber
 
 Celt:- a stone or metal axe-like instrunment
+
+Celtic:- language of celt
