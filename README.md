@@ -3654,3 +3654,5 @@ Cell:- small room
 Cellar:- underground room
 
 Cellarage:- a charge for strong in cellars
+
+Cellarer:- a monastic official
