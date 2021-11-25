@@ -3665,3 +3665,5 @@ Celluar:- ralating to or resembling a cell
 Cellule:- a very small cell
 
 Celluloid:- flammable plastic substance
+
+Cellulose:- wood fiber
