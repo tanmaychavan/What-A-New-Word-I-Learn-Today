@@ -3663,3 +3663,5 @@ Celluar:- ralating to or resembling a cell
 
 ### 25-Nov-21
 Cellule:- a very small cell
+
+Celluloid:- flammable plastic substance
