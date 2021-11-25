@@ -3651,4 +3651,6 @@ Celibacy:- unmarride state
 Cell:- small room
 
 ### 24-Nov-21
-Celler:- underground room
+Cellar:- underground room
+
+Cellarage:- a charge for strong in cellars
