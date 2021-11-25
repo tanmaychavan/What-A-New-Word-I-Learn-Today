@@ -3656,3 +3656,5 @@ Cellar:- underground room
 Cellarage:- a charge for strong in cellars
 
 Cellarer:- a monastic official
+
+Cellophane:- thin,  transperent, paper-like material used for wrapping up goods
