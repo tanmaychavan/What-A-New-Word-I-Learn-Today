@@ -3660,3 +3660,6 @@ Cellarer:- a monastic official
 Cellophane:- thin,  transperent, paper-like material used for wrapping up goods
 
 Celluar:- ralating to or resembling a cell
+
+### 25-Nov-21
+Cellule:- a very small cell
