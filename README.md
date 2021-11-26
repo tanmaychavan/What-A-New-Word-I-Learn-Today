@@ -3680,3 +3680,5 @@ Cemetery:- burial ground
 Cenotaph:- a movement honouring a dead person buried elsewhere
 
 Cense:- to burn incense near or before an altra 
+
+Censer:- incense-burning vessel
