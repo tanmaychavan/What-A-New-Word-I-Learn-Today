@@ -3671,3 +3671,6 @@ Cellulose:- wood fiber
 Celt:- a stone or metal axe-like instrunment
 
 Celtic:- language of celt
+
+### 26- Nov-21
+Cement:- fine mortar
