@@ -3676,3 +3676,5 @@ Celtic:- language of celt
 Cement:- fine mortar
 
 Cemetery:- burial ground
+
+Cenotaph:- a movement honouring a dead person buried elsewhere
