@@ -3682,3 +3682,6 @@ Cenotaph:- a movement honouring a dead person buried elsewhere
 Cense:- to burn incense near or before an altra 
 
 Censer:- incense-burning vessel
+
+### 27-Nov-21
+Censor:- official inspector of printed matter
