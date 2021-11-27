@@ -3685,3 +3685,5 @@ Censer:- incense-burning vessel
 
 ### 27-Nov-21
 Censor:- official inspector of printed matter
+
+Censorious:- fault finding
