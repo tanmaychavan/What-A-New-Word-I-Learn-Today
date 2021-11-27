@@ -3691,3 +3691,5 @@ Censorious:- fault finding
 Censorship:- function of a cansor
 
 Censurable:- deserving cansure
+
+Censure:- blame
