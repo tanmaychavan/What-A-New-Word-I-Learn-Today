@@ -3689,3 +3689,5 @@ Censor:- official inspector of printed matter
 Censorious:- fault finding
 
 Censorship:- function of a cansor
+
+Censurable:- deserving cansure
