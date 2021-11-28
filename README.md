@@ -3693,3 +3693,6 @@ Censorship:- function of a cansor
 Censurable:- deserving cansure
 
 Censure:- blame
+
+### 28-Nov-21
+Census:- official counting of population
