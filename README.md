@@ -3696,3 +3696,5 @@ Censure:- blame
 
 ### 28-Nov-21
 Census:- official counting of population
+
+Cent:- hundredth of dolar
