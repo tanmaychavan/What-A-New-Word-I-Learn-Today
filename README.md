@@ -3702,3 +3702,5 @@ Cent:- hundredth of dolar
 Cental:- a unit of weight equal to hundred pounds
 
 Centaur:- creature part of man and part house
+
+Centenarian:- a person aged hundred or more
