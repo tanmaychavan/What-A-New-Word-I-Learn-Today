@@ -3698,3 +3698,5 @@ Censure:- blame
 Census:- official counting of population
 
 Cent:- hundredth of dolar
+
+Cental:- a unit of weight equal to hundred pounds
