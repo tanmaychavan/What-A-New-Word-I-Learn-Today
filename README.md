@@ -3722,3 +3722,5 @@ Centipede:- a flat, wormlike animal with many pairs of legs
 Cento:- a composition made up of scraps from other authors
 
 Central:- relating to the central
+
+Centralize:- to concentrate at one point
