@@ -3713,3 +3713,5 @@ Centennial:- Centenary
 Centesimal:- hundredth
 
 Centi:- a comb form one-hundredth
+
+Centigrade:- having a hundred degrees
