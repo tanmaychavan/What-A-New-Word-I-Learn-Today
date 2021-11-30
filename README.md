@@ -3724,3 +3724,5 @@ Cento:- a composition made up of scraps from other authors
 Central:- relating to the central
 
 Centralize:- to concentrate at one point
+
+Center:- middle point
