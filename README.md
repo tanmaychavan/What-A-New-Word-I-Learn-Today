@@ -3711,3 +3711,5 @@ Centenary:- hundredth anniversary
 Centennial:- Centenary
 
 Centesimal:- hundredth
+
+Centi:- a comb form one-hundredth
