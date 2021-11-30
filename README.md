@@ -3718,3 +3718,5 @@ Centigrade:- having a hundred degrees
 
 ### 30-Nov-21
 Centipede:- a flat, wormlike animal with many pairs of legs
+
+Cento:- a composition made up of scraps from other authors
