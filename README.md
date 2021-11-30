@@ -3709,3 +3709,5 @@ Centenarian:- a person aged hundred or more
 Centenary:- hundredth anniversary
 
 Centennial:- Centenary
+
+Centesimal:- hundredth
