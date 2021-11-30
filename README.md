@@ -3707,3 +3707,5 @@ Centenarian:- a person aged hundred or more
 
 ### 29-Nov-21
 Centenary:- hundredth anniversary
+
+Centennial:- Centenary
