@@ -3733,3 +3733,5 @@ Centerboard:- a board that can be lowered to deepen keel
 Centrical:- at the center
 
 Centricity:- reladtion of a center
+
+Centrifugal:- moving away from center
