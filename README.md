@@ -3726,3 +3726,6 @@ Central:- relating to the central
 Centralize:- to concentrate at one point
 
 Center:- middle point
+
+### 1-Dec-21
+Centerboard:- a board that can be lowered to deepen keel
