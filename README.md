@@ -3735,3 +3735,5 @@ Centrical:- at the center
 Centricity:- reladtion of a center
 
 Centrifugal:- moving away from center
+
+Centripetal:- moving towoards the center
