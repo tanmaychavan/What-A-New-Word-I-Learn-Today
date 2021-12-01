@@ -3729,3 +3729,5 @@ Center:- middle point
 
 ### 1-Dec-21
 Centerboard:- a board that can be lowered to deepen keel
+
+Centrical:- at the center
