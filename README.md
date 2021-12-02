@@ -3740,3 +3740,5 @@ Centripetal:- moving towoards the center
 
 ### 2-Dec-21
 Centrist:- a person holding moderate political views
+
+Centuple:- a hundredfold
