@@ -3737,3 +3737,6 @@ Centricity:- reladtion of a center
 Centrifugal:- moving away from center
 
 Centripetal:- moving towoards the center
+
+### 2-Dec-21
+Centrist:- a person holding moderate political views
