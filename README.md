@@ -3742,3 +3742,5 @@ Centripetal:- moving towoards the center
 Centrist:- a person holding moderate political views
 
 Centuple:- a hundredfold
+
+Centurion:- leader of a unit of hundred soldiers
