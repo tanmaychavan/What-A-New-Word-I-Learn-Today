@@ -3753,3 +3753,5 @@ Cephalalgia:- headache
 Cephalic:- of or telating to the head
 
 Ceramic:- or the art of pottery
+
+Cerberus:- a three-headed dog guarding the entrance to deades
