@@ -3768,3 +3768,5 @@ Cerebral:- of the brain
 Cerement:- a winding sheet
 
 Ceremonial:- formal
+
+Ceremony:- a scared rite
