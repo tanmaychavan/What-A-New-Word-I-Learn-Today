@@ -3764,3 +3764,5 @@ Cereal:-  a kind of grain used for food
 Cerebellum:- little or hinder brain
 
 Cerebral:- of the brain
+
+Cerement:- a winding sheet
