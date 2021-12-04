@@ -3759,3 +3759,6 @@ Cerberus:- a three-headed dog guarding the entrance to deades
 Cere:- wax-like membrane at the base of the beaks of some birds
 
 Cereal:-  a kind of grain used for food
+
+### 4-Dec-21
+Cerebellum:- little or hinder brain
