@@ -3762,3 +3762,5 @@ Cereal:-  a kind of grain used for food
 
 ### 4-Dec-21
 Cerebellum:- little or hinder brain
+
+Cerebral:- of the brain
