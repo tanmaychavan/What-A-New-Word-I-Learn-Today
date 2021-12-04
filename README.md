@@ -3766,3 +3766,5 @@ Cerebellum:- little or hinder brain
 Cerebral:- of the brain
 
 Cerement:- a winding sheet
+
+Ceremonial:- formal
