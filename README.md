@@ -3777,3 +3777,5 @@ Ceres:- the roman goddess of agriculture
 Cerise:- light clear red
 
 Certain:- sure
+
+Certainty:- the condition of being certain
