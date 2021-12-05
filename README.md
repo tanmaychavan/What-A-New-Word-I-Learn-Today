@@ -3779,3 +3779,5 @@ Cerise:- light clear red
 Certain:- sure
 
 Certainty:- the condition of being certain
+
+Certes:- truly
