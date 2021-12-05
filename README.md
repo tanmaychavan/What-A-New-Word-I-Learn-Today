@@ -3773,3 +3773,5 @@ Ceremony:- a scared rite
 
 ### 5-Dec-21
 Ceres:- the roman goddess of agriculture
+
+Cerise:- light clear red
