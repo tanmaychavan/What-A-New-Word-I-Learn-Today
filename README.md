@@ -3770,3 +3770,6 @@ Cerement:- a winding sheet
 Ceremonial:- formal
 
 Ceremony:- a scared rite
+
+### 5-Dec-21
+Ceres:- the roman goddess of agriculture
