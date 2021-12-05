@@ -3775,3 +3775,5 @@ Ceremony:- a scared rite
 Ceres:- the roman goddess of agriculture
 
 Cerise:- light clear red
+
+Certain:- sure
