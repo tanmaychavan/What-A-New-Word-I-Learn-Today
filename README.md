@@ -3786,3 +3786,5 @@ Certes:- truly
 Certifiable:- fir ti be certified
 
 Certificate:- a document formally attesting a fact
+
+Certify:- a attest formally
