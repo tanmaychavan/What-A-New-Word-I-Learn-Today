@@ -3784,3 +3784,5 @@ Certes:- truly
 
 ### 6-Dec-21
 Certifiable:- fir ti be certified
+
+Certificate:- a document formally attesting a fact
