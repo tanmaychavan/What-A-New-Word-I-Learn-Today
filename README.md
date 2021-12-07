@@ -3795,3 +3795,5 @@ Certitude:- certainty
 
 ### 7-Dec-21
 Cerulean:- a deep blue color
+
+Ceruse:- white lead
