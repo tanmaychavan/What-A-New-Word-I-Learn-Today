@@ -3797,3 +3797,5 @@ Certitude:- certainty
 Cerulean:- a deep blue color
 
 Ceruse:- white lead
+
+Cervical:- relating to the neck
