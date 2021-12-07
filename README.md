@@ -3801,3 +3801,5 @@ Ceruse:- white lead
 Cervical:- relating to the neck
 
 Cess:- tax
+
+Cession:- ceding
