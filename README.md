@@ -3792,3 +3792,6 @@ Certify:- a attest formally
 Certiorari:- an order of a superior court directing that a recored of the praceedings in  a lower court sent for review
 
 Certitude:- certainty
+
+### 7-Dec-21
+Cerulean:- a deep blue color
