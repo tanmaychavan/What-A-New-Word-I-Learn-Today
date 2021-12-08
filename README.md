@@ -3810,3 +3810,5 @@ Chafe:- to rub for warmth
 Chafer:- a kind of beetle
 
 Chaff:- husk of grain
+
+Chaffer:- to bargain
