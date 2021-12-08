@@ -3803,3 +3803,6 @@ Cervical:- relating to the neck
 Cess:- tax
 
 Cession:- ceding
+
+### 8-Dec-21
+Chafe:- to rub for warmth
