@@ -3806,3 +3806,5 @@ Cession:- ceding
 
 ### 8-Dec-21
 Chafe:- to rub for warmth
+
+Chafer:- a kind of beetle
