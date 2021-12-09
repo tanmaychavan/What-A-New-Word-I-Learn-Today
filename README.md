@@ -3814,3 +3814,6 @@ Chaff:- husk of grain
 Chaffer:- to bargain
 
 Chagrin:- mortification
+
+### 9-Dec-21
+Chain:- seres if connected rings
