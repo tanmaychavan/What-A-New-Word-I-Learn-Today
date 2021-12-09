@@ -3823,3 +3823,5 @@ Chair:- movable seat
 Chaise:- a light opean horse-drawn carriage
 
 Chalcedony:- a precious stone  of quartz kind with many carieties
+
+Chaldron:- a coal measure of thirty six bushes
