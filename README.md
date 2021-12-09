@@ -3819,3 +3819,5 @@ Chagrin:- mortification
 Chain:- seres if connected rings
 
 Chair:- movable seat
+
+Chaise:- a light opean horse-drawn carriage
