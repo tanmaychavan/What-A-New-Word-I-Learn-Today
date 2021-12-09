@@ -3817,3 +3817,5 @@ Chagrin:- mortification
 
 ### 9-Dec-21
 Chain:- seres if connected rings
+
+Chair:- movable seat
