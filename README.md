@@ -3839,3 +3839,5 @@ Chalybeat:- containing iron salts
 
 ### 11-Dec-21
 Chamber:- room
+
+Chameleon:- lizard able to change color
