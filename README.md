@@ -3845,3 +3845,5 @@ Chameleon:- lizard able to change color
 Chamfer:- a narrow flat surface at the corner of a beam
 
 Chamfron:- a piece of armour  for horses head
+
+Champ:- bite noisily
