@@ -3826,4 +3826,16 @@ Chalcedony:- a precious stone  of quartz kind with many carieties
 
 Chaldron:- a coal measure of thirty six bushes
 
- 
+### 10-Dec-21
+Chalet:- a swiss wooden cottage
+
+Chalice:- a drinking cup
+
+Chalk:- soft white lomestone
+
+Challange:- invitation to a fight or contest
+
+Chalybeat:- containing iron salts
+
+### 11-Dec-21
+Chamber:- room
