@@ -3856,3 +3856,5 @@ Champaign:- an expense of open country
 Champion:- successful combatant
 
 Chance:- unexpected happening
+
+Chancel:- the eastern part of a church that is railed-off
