@@ -3847,3 +3847,6 @@ Chamfer:- a narrow flat surface at the corner of a beam
 Chamfron:- a piece of armour  for horses head
 
 Champ:- bite noisily
+
+### 12-Dec-21
+Champagne:- a white sparkling wine
