@@ -3852,3 +3852,5 @@ Champ:- bite noisily
 Champagne:- a white sparkling wine
 
 Champaign:- an expense of open country
+
+Champion:- successful combatant
