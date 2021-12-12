@@ -3850,3 +3850,5 @@ Champ:- bite noisily
 
 ### 12-Dec-21
 Champagne:- a white sparkling wine
+
+Champaign:- an expense of open country
