@@ -3861,3 +3861,5 @@ Chancel:- the eastern part of a church that is railed-off
 
 ### 13-Dec-21
 Chancellery:- the building or room occupied by a chancellor's office
+
+Chancellor:- the head of a university
