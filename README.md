@@ -3871,13 +3871,59 @@ Chancy:- of uncertain outcome
 Chandelier:- branched support hanging form the siling for two or more lights
 
 ### 14-Dec-21
+Chandler:- dealer in candles
+
+Change:- to alter
+
+Changeable:- likely to charge
+
+Changeful:- always changing
+
+Changeless:- unchanging
 
 ### 15-Dec-21
+Changeling:- a child substitude
+
+Channel:- strait
+
+Chant:- song
+
+Chanticleer:- a name for a cock in fables
+
+Chanty:- a  sailors song
 
 ### 16-Dec-21
+Chaos:- complete disorder
+
+Chap:- man or boy
+
+Chapbook:- a cheap book
+
+Chapel:- private church
+
+Chapman:- a trader
 
 ### 17-Dec-21
+Chapter:- division of a book
+
+Char:- to burn to charcol
+
+Char:- odd job
+
+Charactr:- disctinctive mark
+
+Charade:- an episode in the game of charades
 
 ### 18-Dec-21
+Charcoal:- charred wood
+
+Chare:- odd jobs of housework
+
+Charge:- accusation
+
+Chargeable:- liable to be charged
+
+Charger:- a large strong horse  formerly ridden into battel
 
 ### 19-Dec-21
+Charil:- cautiously,  carefully
