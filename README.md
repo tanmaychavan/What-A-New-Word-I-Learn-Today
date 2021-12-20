@@ -3929,3 +3929,5 @@ Charger:- a large strong horse  formerly ridden into battel
 Charil:- cautiously,  carefully
 
 Chariot:- two-wheeled stately  car
+
+Charisma:- spiritual power given by god
