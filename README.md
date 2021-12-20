@@ -3933,3 +3933,5 @@ Chariot:- two-wheeled stately  car
 Charisma:- spiritual power given by god
 
 Charity:- love or kindness
+
+Charivary:- a confused noise
