@@ -3927,3 +3927,5 @@ Charger:- a large strong horse  formerly ridden into battel
 
 ### 19-Dec-21
 Charil:- cautiously,  carefully
+
+Chariot:- two-wheeled stately  car
