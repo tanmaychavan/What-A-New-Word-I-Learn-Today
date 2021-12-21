@@ -3951,3 +3951,5 @@ Charm:- magic spell
 Charnel house:- a building where cropes or bones are deposited
 
 Chart:- diagram to tabulated statement
+
+Charter:- written statements of powers and privilegs
