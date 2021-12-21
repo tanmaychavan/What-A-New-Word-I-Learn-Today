@@ -3949,3 +3949,5 @@ Charm:- magic spell
 
 ### 21-Dec-21
 Charnel house:- a building where cropes or bones are deposited
+
+Chart:- diagram to tabulated statement
