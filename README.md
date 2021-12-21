@@ -3935,3 +3935,17 @@ Charisma:- spiritual power given by god
 Charity:- love or kindness
 
 Charivary:- a confused noise
+
+### 20-Dec-21
+Charlatan:- quack
+
+Charleston:- a fast rhythmic dance
+
+Charlock:- field mustard
+
+Charlotte:- a baked dessert
+
+Charm:- magic spell
+
+### 21-Dec-21
+Charnel house:- a building where cropes or bones are deposited
