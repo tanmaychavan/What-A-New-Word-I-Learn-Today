@@ -3955,3 +3955,5 @@ Chart:- diagram to tabulated statement
 Charter:- written statements of powers and privilegs
 
 Charter party:- an arrengement for gire of a ship for specified period of time
+
+Chary:- cautious
