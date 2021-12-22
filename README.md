@@ -3957,3 +3957,6 @@ Charter:- written statements of powers and privilegs
 Charter party:- an arrengement for gire of a ship for specified period of time
 
 Chary:- cautious
+
+### 22-Dec-21
+Chase:- to pursue,  to hunt
