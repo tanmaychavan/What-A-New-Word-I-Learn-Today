@@ -3966,3 +3966,5 @@ Chase:- to cut patterns or designs  on metal or other hand material
 Chasm:- deep cleft
 
 Chassis:- the steel frame, wheels, etc.
+
+Chaste:- virtuous
