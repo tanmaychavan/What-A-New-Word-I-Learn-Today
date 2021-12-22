@@ -3960,3 +3960,5 @@ Chary:- cautious
 
 ### 22-Dec-21
 Chase:- to pursue,  to hunt
+
+Chase:- to cut patterns or designs  on metal or other hand material
