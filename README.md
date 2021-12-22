@@ -3962,3 +3962,5 @@ Chary:- cautious
 Chase:- to pursue,  to hunt
 
 Chase:- to cut patterns or designs  on metal or other hand material
+
+Chasm:- deep cleft
