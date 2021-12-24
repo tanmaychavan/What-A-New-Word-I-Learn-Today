@@ -3971,3 +3971,9 @@ Chaste:- virtuous
 
 ### 23-Dec-21
 Chasten:- to correct by punishment
+
+Chastise:- to punish severely
+
+Chastity:- chasteness
+
+Chasuble:- a long sleeveless outer westment worn by a priest when celebrating mass
