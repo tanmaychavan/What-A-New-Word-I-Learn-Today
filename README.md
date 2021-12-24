@@ -3977,3 +3977,14 @@ Chastise:- to punish severely
 Chastity:- chasteness
 
 Chasuble:- a long sleeveless outer westment worn by a priest when celebrating mass
+
+Chat:- familiar talk
+
+### 24-Dec-21
+Chateau:- a french country house
+
+Chatelain:- the keeper of a castel
+
+Chattel:- any movable property
+
+Chatter:- to talk idly or rapidly 
