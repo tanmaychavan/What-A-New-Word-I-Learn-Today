@@ -3988,3 +3988,5 @@ Chatelain:- the keeper of a castel
 Chattel:- any movable property
 
 Chatter:- to talk idly or rapidly 
+
+Chatty:- talkative
