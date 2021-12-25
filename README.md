@@ -3990,3 +3990,6 @@ Chattel:- any movable property
 Chatter:- to talk idly or rapidly 
 
 Chatty:- talkative
+
+### 25-Dec-21
+Chauffeur:- paid driver of a privte car
