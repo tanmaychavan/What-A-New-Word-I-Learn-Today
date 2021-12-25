@@ -3995,3 +3995,5 @@ Chatty:- talkative
 Chauffeur:- paid driver of a privte car
 
 Chauvinism:- aggressive patriotism
+
+Chaw:- to chew
