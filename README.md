@@ -3993,3 +3993,5 @@ Chatty:- talkative
 
 ### 25-Dec-21
 Chauffeur:- paid driver of a privte car
+
+Chauvinism:- aggressive patriotism
