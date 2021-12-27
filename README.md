@@ -4003,3 +4003,6 @@ Cheap:-  low in price
 Cheapen:- to dregrade or be dregraded
 
 ### 26-Dec-21
+
+### 27-Dec-21
+Cheap-jack:- a person who sells cheap goods
