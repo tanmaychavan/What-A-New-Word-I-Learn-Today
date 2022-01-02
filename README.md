@@ -4008,3 +4008,5 @@ Cheap-jack:- a person who sells cheap goods
 Cheat:- to deceive
 
 Checkers:- a game played on a cheakboard
+
+Cheackmate:- to deaf at chess
