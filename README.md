@@ -4012,3 +4012,5 @@ Checkers:- a game played on a cheakboard
 Cheackmate:- to deaf at chess
 
 Cheackpoint:- a place where vehicles or travellers are stopped for inspection
+
+### 3-Dec-21
