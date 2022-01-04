@@ -4050,3 +4050,5 @@ Checker:- a pattern consisting a squres of different colors or materials
 Cherish:- to treat with affection
 
 Cheroot:- cigar with both ends open
+
+Cherry:- small fruit with a hard sheet
