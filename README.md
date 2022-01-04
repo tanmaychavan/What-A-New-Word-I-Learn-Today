@@ -4052,3 +4052,5 @@ Cherish:- to treat with affection
 Cheroot:- cigar with both ends open
 
 Cherry:- small fruit with a hard sheet
+
+Chess:- game played by two players on chequer-board
