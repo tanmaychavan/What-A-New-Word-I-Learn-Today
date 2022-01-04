@@ -4013,4 +4013,38 @@ Cheackmate:- to deaf at chess
 
 Cheackpoint:- a place where vehicles or travellers are stopped for inspection
 
-### 3-Dec-21
+### 1-Jan-22
+Cheek:- either side of face below eye
+
+Cheep:- chirp
+
+Cheer:- shout of joy
+
+Cheerful:- in good spirits
+
+Cheerily:- happy
+
+### 2-Jan-22
+Cheerio:- farewell greeting
+
+Cheerless:- gloomy
+
+Cheery:- cheerful
+
+Cheese:- solid food made from milk
+
+Cheetah:- kind of wild cat of africa
+
+### 3-Jan-22
+Chef:- head male cook
+
+Chemical:- of or used in chemistry
+
+Chemistry:- science dealing with the composition, properties and reactions of substances
+
+Cheque:- written order to a banker for money
+
+Checker:- a pattern consisting a squres of different colors or materials
+
+### 4-Jan-22
+Cherish:- to treat with affection
