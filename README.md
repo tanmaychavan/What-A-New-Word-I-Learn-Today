@@ -4048,3 +4048,5 @@ Checker:- a pattern consisting a squres of different colors or materials
 
 ### 4-Jan-22
 Cherish:- to treat with affection
+
+Cheroot:- cigar with both ends open
