@@ -4054,3 +4054,6 @@ Cheroot:- cigar with both ends open
 Cherry:- small fruit with a hard sheet
 
 Chess:- game played by two players on chequer-board
+
+### 5-Jan-22
+Chest:- upper part of the trunk of the body
