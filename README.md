@@ -4061,3 +4061,5 @@ Chest:- upper part of the trunk of the body
 Chestnut:- smooth reddish-brown nut
 
 Cheval galss:- a full-length mirror swung on uprights showing the whole body
+
+Chevalier:- a member of sertain orders of knighthood
