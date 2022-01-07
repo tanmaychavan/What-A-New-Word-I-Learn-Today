@@ -4069,3 +4069,6 @@ Cheviot:- a large british breed of sheep reared for its wool
 ### 6-Jan-22
 
 ### 7-Jan-22
+Chicane:- to cheat
+
+chic:- style that gives an air of superior excellence
