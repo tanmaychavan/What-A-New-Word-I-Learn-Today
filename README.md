@@ -4074,3 +4074,5 @@ Chicane:- to cheat
 chic:- style that gives an air of superior excellence
 
 Chicken:- young hen
+
+Checkpea:- a dwarf pea
