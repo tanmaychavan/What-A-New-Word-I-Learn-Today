@@ -4067,8 +4067,6 @@ Chevalier:- a member of sertain orders of knighthood
 Cheviot:- a large british breed of sheep reared for its wool
 
 ### 6-Jan-22
-
-### 7-Jan-22
 Chicane:- to cheat
 
 chic:- style that gives an air of superior excellence
@@ -4079,6 +4077,38 @@ Checkpea:- a dwarf pea
 
 Chicory:- a blue flowered plant
 
-### 80-Jan-22
+### 7-Jan-22
+Chide:- to scold
 
-### 9-Jan-21
+Chief:- leader
+
+Chiffon:- a fine transparant fabric of silk or nylon
+
+Chiffonier:- a tall chest of drawers
+
+Chigoe:- a tropical flea
+
+### 8-Jan-22
+Chiblain:- an iflammationof fingers, toes, ears, caused by prolonged exposure to cold
+
+Child:- Baby
+
+Childhood:- state of being a child
+
+Childish:- sutaible for a child
+
+Childlike:- simple innocent like a child
+
+### 9-Jan-22
+Chiliad:- a group of one thousand
+
+Chill:- cold sensation
+
+Chilly:- causing of filling cool
+
+Chime:- sound of bells in harmony
+
+Chimaera:- a fire breathing monster with teh head of lion, body of a goat and tail of a serpent
+
+### 10-Jan-22
+Chimeny:- passage for smoke
