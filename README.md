@@ -4118,3 +4118,5 @@ Chimpanzee:- medium size ape
 Chin:- Part of face below lips
 
 Chine:- the backbone
+
+Chink:- sound as of glasses or coins
