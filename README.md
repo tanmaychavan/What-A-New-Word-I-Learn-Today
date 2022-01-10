@@ -4114,3 +4114,5 @@ Chimaera:- a fire breathing monster with teh head of lion, body of a goat and ta
 Chimeny:- passage for smoke
 
 Chimpanzee:- medium size ape
+
+Chin:- Part of face below lips
