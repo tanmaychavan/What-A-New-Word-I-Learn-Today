@@ -4127,3 +4127,5 @@ Chintz:- a printer, patterned cotton fabric
 Chinwag:- a chat
 
 Chip:- splinter
+
+Chipmuck:- a north America squrrel
