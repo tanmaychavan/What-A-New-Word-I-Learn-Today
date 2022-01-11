@@ -4123,3 +4123,5 @@ Chink:- sound as of glasses or coins
 
 ### 11-Jan-22
 Chintz:- a printer, patterned cotton fabric
+
+Chinwag:- a chat
