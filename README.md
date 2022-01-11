@@ -4129,3 +4129,5 @@ Chinwag:- a chat
 Chip:- splinter
 
 Chipmuck:- a north America squrrel
+
+Chipper:- a cheerful
