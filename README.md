@@ -4134,3 +4134,5 @@ Chipper:- a cheerful
 
 ### 12-Jan-22
 Chirrup:- series of chrips
+
+Chisel:- edged tool for cutting or shaping
