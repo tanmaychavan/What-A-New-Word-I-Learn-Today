@@ -4140,3 +4140,5 @@ Chisel:- edged tool for cutting or shaping
 Chit:- note or short letter
 
 Chitchat:- light convesation
+
+Chitter:- to teitter, to chirp
