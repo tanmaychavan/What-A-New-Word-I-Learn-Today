@@ -4136,3 +4136,5 @@ Chipper:- a cheerful
 Chirrup:- series of chrips
 
 Chisel:- edged tool for cutting or shaping
+
+Chit:- note or short letter
