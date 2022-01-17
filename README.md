@@ -4144,9 +4144,48 @@ Chitchat:- light convesation
 Chitter:- to teitter, to chirp
 
 ### 13-Jan-22
+Chiv:- knife
+
+Chivalrous:- Gallant
+
+Chivarly:- bravery
+
+Chlorine:- greenish-yellow, bad-smelling poisonous gas
+
+Chloroform:- an anaesthetic
 
 ### 14-Jan-22
+Chlorophyll:- the colouring matter of the green parts of the parts
+
+Chocolate:- paste or bar made from  ground and roasted cacao seeds
+
+Choise:- act of choosing
+
+Choir:- band of singers in church
+
+Choke:- to suffocate
 
 ### 15-Jan-22
+chokedamp:- air that is low in oxygen  content and high in carbon dioxide
+
+Choky:- the costom or toll center
+
+Choler:- anger
+
+Choleric:- easy made angry
+
+Choose:- to select
 
 ### 16-Jan-22
+Choosy:-  particular in making choise
+
+Chop:- to cut by blows
+
+Chop Chop:- quickly
+
+Chopsticks:- pair of sticks ti eat with
+
+Choral:- of or sung by a choir
+
+### 17-Jan-22
+Chord:- string of harp
