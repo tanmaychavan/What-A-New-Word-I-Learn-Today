@@ -4189,3 +4189,5 @@ Choral:- of or sung by a choir
 
 ### 17-Jan-22
 Chord:- string of harp
+
+Chore:- small duity or piece of work
