@@ -4193,3 +4193,5 @@ Chord:- string of harp
 Chore:- small duity or piece of work
 
 Chorister:- a member of a choir
+
+Chortle:- to chuckle gleefully
