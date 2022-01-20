@@ -4199,3 +4199,26 @@ Chortle:- to chuckle gleefully
 Chose:-  of choose
 
 ### 18-Jan-21
+Chouse:- a cheat
+
+Chrism:- holy oil
+
+Christ:- title given to Jesus
+
+Christmas:- festival of Christ's birth
+
+Chromatic:- of colours, relating to colors
+
+### 19-Jan-22
+Chrome:- chromium compound
+
+Chromium:- a metalic element
+
+Chronic:- deep-rooted
+
+Chronicle:- record of events as happened
+
+chronology:- science of fixing dates
+
+### 20-Jan-22
+Chronometer:- kind of watch that keeps very accurate time
