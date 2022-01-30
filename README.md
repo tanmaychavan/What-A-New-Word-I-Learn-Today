@@ -4220,9 +4220,4 @@ Chronicle:- record of events as happened
 
 chronology:- science of fixing dates
 
-### 20-Jan-22
-Chronometer:- kind of watch that keeps very accurate time
-
-Chrysalis:- form taken by insect during the tropid stage
-
-### 28-Jan-22
+### 30-Jan-22
