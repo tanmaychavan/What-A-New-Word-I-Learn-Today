@@ -4222,3 +4222,5 @@ chronology:- science of fixing dates
 
 ### 4-Feb-22
 Chronometer:- kind of watch that keeps very accurate time.
+
+Chrysalis:- form taken by an insect during the torpid stage
