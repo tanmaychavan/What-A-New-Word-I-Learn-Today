@@ -4226,3 +4226,5 @@ Chronometer:- kind of watch that keeps very accurate time.
 Chrysalis:- form taken by an insect during the torpid stage
 
 Chubby:- plump
+
+Chuck:- to throw carelesslessly
