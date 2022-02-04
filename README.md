@@ -4228,3 +4228,5 @@ Chrysalis:- form taken by an insect during the torpid stage
 Chubby:- plump
 
 Chuck:- to throw carelesslessly
+
+Chuckle:- to laugh softly
