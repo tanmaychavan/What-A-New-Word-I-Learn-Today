@@ -4232,3 +4232,15 @@ Chuck:- to throw carelesslessly
 Chuckle:- to laugh softly
 
 ### 5-Feb-22
+Chum:- close friend
+
+Chump:- a stupid person
+
+Chunk:- a thick lamp cut off
+
+Church:- building for christain worship
+
+Churlish:- bad-tempered
+
+### 6-Feb-22
+Churn:- vessel for beating cream or milk
