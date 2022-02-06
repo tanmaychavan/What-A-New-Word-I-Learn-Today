@@ -4244,3 +4244,5 @@ Churlish:- bad-tempered
 
 ### 6-Feb-22
 Churn:- vessel for beating cream or milk
+
+Chute:- long narrow steep slope down which things may slide
