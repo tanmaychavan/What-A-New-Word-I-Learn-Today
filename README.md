@@ -4246,3 +4246,5 @@ Churlish:- bad-tempered
 Churn:- vessel for beating cream or milk
 
 Chute:- long narrow steep slope down which things may slide
+
+Chutney:- hot-tasting mixture of fruit, peppers
