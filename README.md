@@ -4255,3 +4255,5 @@ Chyme:- the pulp to which food is reduced in the stomach
 
 7-Feb-22
 Cicada:- a winged insect that chirps loudly in hor dry weather
+
+Cicatrice:- scar left by a headled wound
