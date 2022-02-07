@@ -4261,3 +4261,5 @@ Cicatrice:- scar left by a headled wound
 Cicely:- kinds of flowering plants
 
 Cicerone:- a person who conducts and informs sightseers
+
+Cider:- drink made from apples
