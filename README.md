@@ -4252,3 +4252,6 @@ Chutney:- hot-tasting mixture of fruit, peppers
 Chyle:- a white fluid mixed with facts drived from food in the body
 
 Chyme:- the pulp to which food is reduced in the stomach
+
+7-Feb-22
+Cicada:- a winged insect that chirps loudly in hor dry weather
