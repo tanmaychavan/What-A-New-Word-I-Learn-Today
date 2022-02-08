@@ -4270,3 +4270,5 @@ Cigar:- compact roll of tobacoo-leaf
 Cilia:- the plural of cilium
 
 Cimmerian:- very dark
+
+Cinch:- an easy task
