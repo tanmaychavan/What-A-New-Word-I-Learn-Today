@@ -4263,3 +4263,6 @@ Cicely:- kinds of flowering plants
 Cicerone:- a person who conducts and informs sightseers
 
 Cider:- drink made from apples
+
+### 8-Feb-22
+Cigar:- compact roll of tobacoo-leaf 
