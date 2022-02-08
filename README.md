@@ -4268,3 +4268,5 @@ Cider:- drink made from apples
 Cigar:- compact roll of tobacoo-leaf 
 
 Cilia:- the plural of cilium
+
+Cimmerian:- very dark
