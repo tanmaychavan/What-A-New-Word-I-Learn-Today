@@ -4272,3 +4272,5 @@ Cilia:- the plural of cilium
 Cimmerian:- very dark
 
 Cinch:- an easy task
+
+Cinchona:- the tree from which quinine is obtained
