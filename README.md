@@ -4266,3 +4266,5 @@ Cider:- drink made from apples
 
 ### 8-Feb-22
 Cigar:- compact roll of tobacoo-leaf 
+
+Cilia:- the plural of cilium
