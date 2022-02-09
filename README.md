@@ -4279,3 +4279,5 @@ Cinchona:- the tree from which quinine is obtained
 Cincture:- something that surrounds like a belt or a girdle
 
 Cinder:- party burnt coal or wood
+
+Cinderella:- the heroine of a fairy tale
