@@ -4274,3 +4274,6 @@ Cimmerian:- very dark
 Cinch:- an easy task
 
 Cinchona:- the tree from which quinine is obtained
+
+### 9-Feb-22
+Cincture:- something that surrounds like a belt or a girdle
