@@ -4288,3 +4288,5 @@ Cinder path:- a running track
 
 ### 10-Feb-22
 Cinema:- motion-picture theater
+
+Cinerary:- of ashes
