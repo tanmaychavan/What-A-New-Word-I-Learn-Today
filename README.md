@@ -4285,3 +4285,6 @@ Cinderella:- the heroine of a fairy tale
 Cinderella dance:- a gathering dance which ends at 12 o'clock at night
 
 Cinder path:- a running track
+
+### 10-Feb-22
+Cinema:- motion-picture theater
