@@ -4290,3 +4290,5 @@ Cinder path:- a running track
 Cinema:- motion-picture theater
 
 Cinerary:- of ashes
+
+Cinnabar:- a bright red miniral found near hot springs
