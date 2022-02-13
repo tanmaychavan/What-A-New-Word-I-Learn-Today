@@ -4321,3 +4321,5 @@ Circumfuse:- to pour all around or spread around
 
 ### 13-Feb-22
 Circumgyration:- rotation
+
+Circumjacent:- surrounding
