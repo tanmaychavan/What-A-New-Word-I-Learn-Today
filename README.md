@@ -4298,5 +4298,26 @@ Cinnamon:- spiece from the inner bark of the East Indian tree, used in cooking
 Cinque:- the number five in cards
 
 ### 11-Feb-22
+Cipher:- zero
+
+Circle:- perfect round plane figure
+
+Circuit:- journy around
+
+Circular:- round
+
+Circulate:- to go round continously
 
 ### 12-Feb-22
+Circulation:- to go round
+
+Circumambulate:- walk around
+
+Circumambient:- surrounding
+
+Cicumfluent:- flowing all around
+
+Circumfuse:- to pour all around or spread around
+
+### 13-Feb-22
+Circumgyration:- rotation
