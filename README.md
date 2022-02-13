@@ -4327,3 +4327,5 @@ Circumjacent:- surrounding
 Class:- social rank
 
 Classic:- excellent
+
+Classical:- of the higest class
