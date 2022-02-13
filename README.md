@@ -4323,3 +4323,5 @@ Circumfuse:- to pour all around or spread around
 Circumgyration:- rotation
 
 Circumjacent:- surrounding
+
+Class:- social rank
