@@ -4325,3 +4325,5 @@ Circumgyration:- rotation
 Circumjacent:- surrounding
 
 Class:- social rank
+
+Classic:- excellent
