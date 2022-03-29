@@ -4332,3 +4332,5 @@ Classical:- of the higest class
 
 ### 29-Mar-22
 Classicism:- a style based on the study of Greek and Roman models
+
+Classification:- systematic arrangement in classes
