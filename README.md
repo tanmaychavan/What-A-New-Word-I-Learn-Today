@@ -4338,3 +4338,5 @@ Classification:- systematic arrangement in classes
 Classify:- to arrange in classes
 
 Classmate:- a pupil in the same class at school or collage
+
+Classroom:- a room in which class is held
