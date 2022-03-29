@@ -4334,3 +4334,5 @@ Classical:- of the higest class
 Classicism:- a style based on the study of Greek and Roman models
 
 Classification:- systematic arrangement in classes
+
+Classify:- to arrange in classes
