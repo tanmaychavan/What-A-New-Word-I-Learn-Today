@@ -4349,3 +4349,5 @@ Clatter:- a rattling sound
 Clause:- component part of a sentence
 
 Clave:- of clave
+
+Clavichord:- a string instrunment with a keyboard
