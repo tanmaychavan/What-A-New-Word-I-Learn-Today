@@ -4340,3 +4340,6 @@ Classify:- to arrange in classes
 Classmate:- a pupil in the same class at school or collage
 
 Classroom:- a room in which class is held
+
+### 30-Mar-22
+Classy:- stylish
