@@ -4343,3 +4343,5 @@ Classroom:- a room in which class is held
 
 ### 30-Mar-22
 Classy:- stylish
+
+Clatter:- a rattling sound
