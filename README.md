@@ -4345,3 +4345,5 @@ Classroom:- a room in which class is held
 Classy:- stylish
 
 Clatter:- a rattling sound
+
+Clause:- component part of a sentence
