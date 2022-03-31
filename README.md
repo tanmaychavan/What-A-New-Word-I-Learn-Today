@@ -4354,3 +4354,5 @@ Clavichord:- a string instrunment with a keyboard
 
 ### 31-Mar-22
 Clavicle:- the collar bone
+
+Claw:- sharp hooked or curved nail of bird or animal
