@@ -4351,3 +4351,6 @@ Clause:- component part of a sentence
 Clave:- of clave
 
 Clavichord:- a string instrunment with a keyboard
+
+### 31-Mar-22
+Clavicle:- the collar bone
