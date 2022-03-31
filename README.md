@@ -4360,3 +4360,5 @@ Claw:- sharp hooked or curved nail of bird or animal
 Clay:- sticky earth
 
 Clean:- free from dirt or filth
+
+Cleanliness:- being clean
