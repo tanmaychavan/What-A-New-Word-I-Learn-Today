@@ -4365,3 +4365,5 @@ Cleanliness:- being clean
 
 ### 01-Apr-22
 Cleanly:- habitually clean
+
+Clear:- not dim
