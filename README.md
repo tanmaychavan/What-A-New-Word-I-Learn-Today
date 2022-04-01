@@ -4371,3 +4371,5 @@ Clear:- not dim
 Clearance:- making a clear space
 
 Clear-cut:- definite
+
+Clearing:- open space from which trees have been cleared
