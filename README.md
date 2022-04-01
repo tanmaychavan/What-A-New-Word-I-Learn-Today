@@ -4367,3 +4367,5 @@ Cleanliness:- being clean
 Cleanly:- habitually clean
 
 Clear:- not dim
+
+Clearance:- making a clear space
