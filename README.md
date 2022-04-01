@@ -4369,3 +4369,5 @@ Cleanly:- habitually clean
 Clear:- not dim
 
 Clearance:- making a clear space
+
+Clear-cut:- definite
