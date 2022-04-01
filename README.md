@@ -4362,3 +4362,6 @@ Clay:- sticky earth
 Clean:- free from dirt or filth
 
 Cleanliness:- being clean
+
+### 01-Apr-22
+Cleanly:- habitually clean
