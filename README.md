@@ -4398,3 +4398,5 @@ Clement:- Merciful
 
 ### 04-Apr-22
 Clench:- to make fast
+
+Clergy:- priestsor ministers of the church
