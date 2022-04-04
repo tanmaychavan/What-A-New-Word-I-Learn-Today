@@ -4375,5 +4375,26 @@ Clear-cut:- definite
 Clearing:- open space from which trees have been cleared
 
 ### 02-Apr-22
+Cleat:- a strip of wood fastened to a gangway to prevent sleeping
+
+Cleavage:- a division of spilit
+
+Cleave:- to spilit or divide
+
+Cleek:- a large hook
+
+Cleft:- crack or spilit
 
 ### 03-Apr-22
+Cleft:- of clave
+
+Cleg:- a horsefly
+
+Clem:- to starve
+
+Clematis:- a flowering climbing plant
+
+Clement:- Merciful
+
+### 04-Apr-22
+Clench:- to make fast
