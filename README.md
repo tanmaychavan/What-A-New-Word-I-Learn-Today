@@ -4404,3 +4404,5 @@ Clergy:- priestsor ministers of the church
 Clerk:- subordinate in office
 
 Clever:- skilful
+
+Clew:- aball of thread
