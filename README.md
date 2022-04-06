@@ -4408,3 +4408,15 @@ Clever:- skilful
 Clew:- aball of thread
 
 ### 05-Apr-22
+Cliche:- idea or expression that has been too much used and is now out-dated
+
+Click:- short, sharp sound
+
+Client:- customer
+
+Cliff:- high, steep face of rock
+
+Climacteric:- a critical event or period
+
+### 06-Apr-22
+Climate:- wheather conditions of a place
