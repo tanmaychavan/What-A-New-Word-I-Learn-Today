@@ -4422,3 +4422,5 @@ Climacteric:- a critical event or period
 Climate:- wheather conditions of a place
 
 Climax:- higest point
+
+Climb:- to go up
