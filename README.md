@@ -4426,3 +4426,5 @@ Climax:- higest point
 Climb:- to go up
 
 Clime:- climate
+
+Clinch:- to make a nail fast by hammering sideways the end that protrudes
