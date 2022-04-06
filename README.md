@@ -4420,3 +4420,5 @@ Climacteric:- a critical event or period
 
 ### 06-Apr-22
 Climate:- wheather conditions of a place
+
+Climax:- higest point
