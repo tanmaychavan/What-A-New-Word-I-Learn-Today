@@ -4424,3 +4424,5 @@ Climate:- wheather conditions of a place
 Climax:- higest point
 
 Climb:- to go up
+
+Clime:- climate
