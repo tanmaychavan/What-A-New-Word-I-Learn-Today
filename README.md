@@ -4437,3 +4437,5 @@ Clinic:- institution giving medical and other treatmentor advice
 Clink:- slight , sharp sound
 
 Clinker:- a hard brick
+
+Clinometer:- an instrunment for measuring slopes
