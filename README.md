@@ -4433,3 +4433,5 @@ Clinch:- to make a nail fast by hammering sideways the end that protrudes
 Clingstone:- a fruit in which the flesh tends to adhere to the stone
 
 Clinic:- institution giving medical and other treatmentor advice
+
+Clink:- slight , sharp sound
