@@ -4431,3 +4431,5 @@ Clinch:- to make a nail fast by hammering sideways the end that protrudes
 
 ### 07-Apr-22
 Clingstone:- a fruit in which the flesh tends to adhere to the stone
+
+Clinic:- institution giving medical and other treatmentor advice
