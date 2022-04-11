@@ -4447,3 +4447,5 @@ Clinometer:- an instrunment for measuring slopes
 Clip:- To cut with shears or scissors
 
 Clipper:- any fast sailing ship
+
+Clippers:- an instrunment for clipping
