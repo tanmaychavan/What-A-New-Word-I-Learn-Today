@@ -4449,3 +4449,5 @@ Clip:- To cut with shears or scissors
 Clipper:- any fast sailing ship
 
 Clippers:- an instrunment for clipping
+
+Clique:- a group of persons united by common interests
