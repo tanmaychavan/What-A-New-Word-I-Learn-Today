@@ -4440,6 +4440,8 @@ Clinker:- a hard brick
 
 Clinometer:- an instrunment for measuring slopes
 
-### 08-Apr-22
+### 08
+
 
 ### 09-Apr-22
+Clip:- To cut with shears or scissors
