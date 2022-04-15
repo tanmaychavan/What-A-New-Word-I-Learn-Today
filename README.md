@@ -4440,7 +4440,7 @@ Clinker:- a hard brick
 
 Clinometer:- an instrunment for measuring slopes
 
-### 09-Apr-22
+### 08-Apr-22
 Clip:- To cut with shears or scissors
 
 Clipper:- any fast sailing ship
@@ -4450,5 +4450,3 @@ Clippers:- an instrunment for clipping
 Clique:- a group of persons united by common interests
 
 Clock:- device which measures and shows time
-
-### 14-Apr-22
