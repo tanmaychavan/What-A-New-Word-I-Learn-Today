@@ -4455,3 +4455,5 @@ Clock:- device which measures and shows time
 Cool:- moderately cold
 
 Cook:- a prepare food
+
+Cloth:- coolness
