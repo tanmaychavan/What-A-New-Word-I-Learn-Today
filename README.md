@@ -4453,3 +4453,5 @@ Clock:- device which measures and shows time
 
 ### 16-4-22
 Cool:- moderately cold
+
+Cook:- a prepare food
