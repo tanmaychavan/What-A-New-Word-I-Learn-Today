@@ -4457,3 +4457,5 @@ Cool:- moderately cold
 Cook:- a prepare food
 
 Cloth:- coolness
+
+combe:- a short vally
