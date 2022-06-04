@@ -4449,4 +4449,4 @@ Clippers:- an instrunment for clipping
 
 Clique:- a group of persons united by common interests
 
-Clock:- device which measures and shows tim
+Clock:- device which measures and shows time
