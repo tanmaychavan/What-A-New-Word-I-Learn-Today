@@ -4448,3 +4448,6 @@ Clippers:- an instrunment for clipping
 Clique:- a group of persons united by common interests
 
 Clock:- device which measures and shows time
+
+### 31-Dec-22
+Heralding:-  announcing
