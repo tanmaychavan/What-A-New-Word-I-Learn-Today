@@ -4457,3 +4457,5 @@ Rebuke:- an expression of disapproval; a scolding
 Fragrance:-  scent
 
 Plump physique:- Pleasantly fat body
+
+Open testimony:- public statement about a character or quality
