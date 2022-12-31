@@ -4451,3 +4451,5 @@ Clock:- device which measures and shows time
 
 ### 31-Dec-22
 Heralding:-  announcing
+
+Rebuke:- an expression of disapproval; a scolding
