@@ -4455,3 +4455,5 @@ Heralding:-  announcing
 Rebuke:- an expression of disapproval; a scolding
 
 Fragrance:-  scent
+
+Plump physique:- Pleasantly fat body
