@@ -4458,4 +4458,4 @@ Fragrance:-  scent
 
 Plump physique:- Pleasantly fat body
 
-Open testimony:- public statement about a character or quality
+Open testimony:- public statement about a character or quality. 
