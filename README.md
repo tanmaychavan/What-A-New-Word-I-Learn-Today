@@ -2,7 +2,7 @@
 
 1. Spotted it:-  found.
 
-3. Woing for:-  was selling for.
+3. Woing for:-  was selling for
 
 4. Restore:-   repair.
 
