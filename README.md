@@ -3,7 +3,6 @@
 1. Spotted it:-  found.
 
 3. Woing for:-  was selling for
-
 4. Restore:-   repair.
 
 5. Venner:-  A thin layer of plastic or decorative
